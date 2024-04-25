@@ -1,0 +1,512 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JOB DESCRIPTION 
+
+- Conduct regular inspections of production lines and raw materials.
+- Perform in-process and final inspections on finished garments.
+- Maintain accurate documentation of quality control inspections and reports.
+- Identify opportunities for process improvement and optimization.
+- Collaborate with production managers to implement process improvements.
+- Provide training and guidance to production line workers on quality standards and procedures.
+- Possess a Bachelor's degree in a relevant field.
+- Previous experience in quality assurance/control roles within the garment manufacturing industry.
+- Strong knowledge of garment production techniques and quality standards.
+- Proficiency in quality control tools and techniques such as statistical process control, Six Sigma, or Lean Manufacturing principles.
+- Effective communication and interpersonal skills.
+- Attention to detail and commitment to product quality.
+- Familiarity with regulatory requirements and quality standards in garment manufacturing.
+- Able to analyze data, identify trends, and implement corrective actions.
+- Support root cause analysis and problem-solving activities.
+- Ensure adherence to quality standards and regulations.
+- Conduct regular training sessions on quality control techniques.
+- Mentor new hires in understanding quality expectations.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Lead SDET team in developing and maintaining automated testing frameworks.
+- Design robust test scripts using Cypress and JavaScript for software functionality and performance validation.
+- Collaborate with stakeholders to define test strategies and conduct code reviews.
+- Analyze test results to optimize coverage and improve efficiency.
+- Drive CI/CD practices for rapid software releases.
+- Stay updated with industry best practices and emerging technologies.
+- Minimum qualifications include a Bachelor's degree and proven experience in software testing and automation.
+- Preferred qualifications include a Master’s degree, certifications in testing, experience with other testing tools, cloud platforms, and consulting roles.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Analyze and validate requirements specifications, prepare and execute test cases, and report defects.
+- Perform various types of testing including System, Functional, Performance, UI, and Regression testing.
+- Provide test assessment and ensure high-quality customization releases.
+- Collaborate with development and customer-facing teams to troubleshoot and verify fixes.
+- Validate deployment documents and optimize testing processes with best practices.
+- Qualifications include a Bachelor’s degree, 2+ years' experience in QA and software testing, familiarity with Agile methodologies, and strong analytical and communication skills. Basic knowledge of SQL queries, programming languages, and databases is a plus.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Conduct thorough testing of loan origination processes to ensure high-quality releases.
+- Collaborate with cross-functional teams to translate business requirements into test cases.
+- Prioritize and execute test cases for critical loan booking processes.
+- Identify and report bugs, working closely with developers for timely resolution.
+- Maintain and update test documentation, ensuring compliance with quality standards.
+- Requirements include proven experience in QA roles, familiarity with genAI assisted automation tools (bonus), experience in ensuring quality of high-impact processes, ability to work in a startup environment with a proactive mindset, and strong communication and collaboration skills.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Review software requirements, create test plans, and develop test cases based on project needs.
+- Execute test cases manually and using automated tools to identify defects and ensure software meets requirements.
+- Document and report defects, track their resolution, and collaborate closely with project managers and software engineers.
+- Perform manual, automated, and functional testing to ensure software quality.
+- Qualifications include 3+ years of QA experience, a bachelor's degree in computer science or related field, strong analytical and problem-solving skills, knowledge of software development methodologies, familiarity with testing tools and techniques, and excellent communication and collaboration skills.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- 8 to 12 years of QA experience in precision machining industry
+- Proficiency in CNC turning, VMC, Grinding processes
+- Knowledge of PPAP, FMEA, CP, ECN, EMS, TS16949 documentation
+- VDA 6.3 certification preferred
+- Experience in NPD advantageous
+- Hands-on with CMM, Contour tracer, roundness tester, surface finish tester
+- Skilled in rejection analysis, problem-solving, 7 QC tools, PPAP, FMEA, SPC, MSA
+- Strong communication and presentation abilities
+- Team handling experience
+- Manage SEZ QA activities daily
+- Conduct shift audits, Layered Process Audits, Systems audits, customer audits
+- Review rejections, implement corrective and preventive actions
+- Perform Kaizen, Poka-yoke, and improvement audits
+- Support new parts development
+- Collaborate with cross-functional teams
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Develop and execute test plans, cases, and scripts for web and mobile apps.
+- Conduct functional, regression, and compatibility testing across platforms.
+- Perform manual and automated testing to identify bugs and defects.
+- Collaborate with developers and stakeholders to understand project requirements.
+- Report and track defects using issue tracking systems.
+- Participate in team meetings to discuss testing progress and improvements.
+- Document test results, findings, and procedures for future reference.
+- Stay updated with industry trends and best practices in QA testing.
+- Hold a Bachelor's degree in Computer Science or related field.
+- Have proven experience in software testing.
+- Possess a strong understanding of QA methodologies and processes.
+- Experience with test automation tools like Selenium, TestNG, or JUnit is beneficial.
+- Familiarity with Agile development methodologies is preferred.
+- Demonstrate excellent analytical and problem-solving skills.
+- Ability to work independently and collaboratively in a team environment.
+- Strong communication and interpersonal skills.
+- Preferred qualifications include ISTQB or other relevant certifications.
+- Experience with performance and load testing tools is advantageous.
+- Knowledge of database systems and SQL queries is beneficial.
+- Familiarity with version control systems like Git or SVN is a plus.
+- Experience testing mobile applications (iOS, Android) is advantageous.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Plan and execute test plans for functional, performance, and regression testing.
+- Develop standards and procedures for determining product quality and release readiness.
+- Drive innovation and streamline testing processes.
+- Research and analyze product features under test.
+- Identify potential user problems and track bugs throughout testing.
+- Provide technical expertise in testing activities.
+- Execute automation and contribute to automation development as required.
+- Collaborate with Agile development teams throughout all stages of development.
+- Provide application support to engineering teams and customers.
+- Hold a first-class bachelor's degree or above.
+- Possess a degree in Mechanical Engineering or a CAD/CAM certification.
+- Have 1-2 years of experience in CAD software quality assurance.
+- Understand software QA methodologies, tools, and processes.
+- Demonstrate knowledge of CAD software as an end-user.
+- Possess strong time management and communication skills.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Acts as the single point of contact for testing related activities in a process area or work stream.
+- Helps business partners and development team(s) design testability and supportability into requirements.
+- Demonstrates excellent understanding of QA and testing methodologies, best practices.
+- Designs and develops test plans, test cases based upon functional and design specifications.
+- Executes test cases, and analyzes and reports test results to the teams.
+- Participates actively in functional, system and regression testing activities.
+- Works in partnership with development teams to deliver business functionality on time with required quality.
+- Identifies and escalates testing issues, defect show-stoppers, impact of defects on customers, and risk of specific software changes.
+- Actively works with teams to complete root cause analysis (RCA) to proactively improve processes, reduce risk, eliminate defects, and show stoppers.
+- Maintains high standards of confidentiality, handling sensitive information with integrity and trust.
+- Demonstrates analytical and problem-solving skill.
+- Participates in team and design reviews to ensure deadlines are met and standards are followed.
+- Detail-oriented mindset with the ability to manage complex testing and data.
+- Conducts manual testing as needed, ensuring a holistic approach to quality assurance.
+- Bachelor’s degree in computer science, Information Systems or equivalent.
+- 3+ years of software testing experience in all phases of testing.
+- Proficient with software development lifecycle (SDLC) methodologies like Agile, QA methodologies, defect management system, and documentation.
+- Experience as an Automation QA Tester.
+- Excellent interpersonal skills and written communications.
+- Knowledge of HR and payroll processes, regulations, and compliance is a plus.
+- Hands-on Experience in one or more modules of Workday including Core HCM, Security is a plus.
+- Experience in MS Excel is a plus.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 10 
+
+- Accomplish Quality process cycle of a factory by controlling samples, monitoring materials production in-house status, and conducting in-house testing.
+- Conduct PP Meetings, cutting permission, inspection, reporting, and record-keeping.
+- Provide training and education to quality and production personnel, ensuring adherence to quality requirements and SOPs.
+- Perform in-process quality control checks during cutting, sewing, and finishing stages, reporting findings to management.
+- Implement buyer's work manuals and quality standards throughout the production process.
+- Conduct In-line Audits in sewing, finishing, and packing stages.
+- Monitor the entire quality process of the assigned factory and conduct final inspections to confirm product quality.
+- Train and lead the factory's QA team directly.
+- Serve as the ultimate responsible person for factory quality control from the buyer's end.
+- Generate weekly and monthly quality reports, focusing on key performance indicators such as reducing DHU%, improving first audit pass rate, reducing Inward Rejection, and reducing customer returns.
+- B-Tech/NIFT degree with 3+ years of experience in Garment Manufacturing & QA functions.
+- Strong communication and project management skills.
+- Strong analytical skills and process orientation.
+- Proficiency in MS-Office is a must.
+- Previous experience in retail & e-commerce is an added advantage.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Review requirements, specifications, and technical design documents for feedback
+- Create comprehensive test plans and cases based on product specifications
+- Manage QA test completion aligned with release schedules
+- Ensure quality work, focusing on comprehensive impact beyond individual tasks
+- Assist in UAT test case creation and guide Business with UAT
+- Estimate, prioritize, plan, and coordinate testing activities
+- Execute automation scripts using open-source tools
+- Identify, record, document, and track issues (bugs) thoroughly through resolution
+- Develop and implement testing processes for new and existing products
+- Collaborate with internal teams to identify system requirements
+- Monitor debugging process results and investigate non-conforming software root causes
+- Track quality assurance metrics like defect densities and open defect counts
+- Stay updated on new testing tools and strategies
+- BS/MS in Computer Science or equivalent
+- 1-3 years’ experience in Quality Assurance Engineering
+- Experience in manual and automated testing
+- Experience with Oracle CPQ and/or Salesforce technology
+- Strong experience in releasing high-quality products
+- Web services testing experience, preferably with Postman and JSON
+- Excellent communication, documentation, and organizational skills
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- 10-12 years of experience in large multifunctional project delivery
+- Strong understanding of Capital Markets products (Equities, Fixed Income, Structured Products)
+- Independently review and analyze business requirements, evaluate data sources, and business rules
+- Proven track record as a QA coordinator with stakeholder engagement skills
+- Deep understanding of QA methodologies and SDLC (Waterfall and Agile)
+- Hands-on experience in Test Strategy, Planning, Estimation, Execution, and Defect Management
+- Proficiency in SQL concepts with experience in Oracle and SQL Server databases
+- Familiarity with testing tools like JIRA, Test Rail, TestNG
+- Experience in Data warehouse testing, including Trades, Positions, Cash, FOBO
+- Proficiency in Control M, SSIS, and Data warehouse technologies like Snowflake
+- Familiarity with middle office systems like Collateral management and Broadridge Systems
+- Knowledge of at least one programming language, preferably Python
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Solid understanding of Quality Assurance Concepts
+- Proficiency in operating system software and object-oriented design principles
+- Understanding of 802.11 standards and wireless testing in WIFI-BT or Zigbee (1-2 years of experience)
+- Ability to study and design new methodologies and techniques for testing, including Machine Learning and Deep Learning methods
+- Experience in manual and automated testing
+- 2+ years of experience as a Quality Assurance Engineer
+- Bachelor’s degree in Computer Science, Computer Engineering, or similar technical field
+- 2+ years of experience in automation development and testing using Python, with experience in automating test cases for embedded software
+- Product experience with wireless consumer electronics
+- Domain expertise in Wi-Fi, Bluetooth, or Zigbee
+- Hands-on experience in Bluetooth and Wi-Fi certification, and testing of Bluetooth profiles and features
+- Solid understanding of QA tools and environments for Wi-Fi and Bluetooth packet capture
+- Experience writing automation code for Wi-Fi, Bluetooth, and Zigbee systems
+- Familiarity with WiFi 802.11 a/b/g/n/ac
+- Knowledge of industry standard test automation tools and experience developing product test harnesses
+- Experience with Android, iOS, or other mobile application development or testing
+- Strong experience in Python, Java, C, and C++
+- Experience with open-source tools and resources
+- Experience working closely with development and business teams
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Conduct thorough testing of loan origination processes for high-quality releases
+- Collaborate with cross-functional teams to understand and translate business requirements into test cases
+- Prioritize and execute test cases based on the criticality of loan booking processes
+- Identify and report bugs, working closely with developers for timely resolution
+- Maintain and update test documentation for loan origination procedures
+- Ensure compliance with quality standards and procedures
+- Proven experience in QA roles, preferably in fintech or lending startups
+- Familiarity with genAI assisted automation tools is a bonus
+- Experience ensuring the quality of high-impact processes, particularly in loan booking
+- Ability to work in a startup environment with a proactive and ownership mindset
+- Strong communication and collaboration skills
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Create test plans,
+- Formalize testing plan with business,
+- Ensure alignment with business on plans created,
+- Identify automated testing tool- low code/ no code tool supported by Salesforce,
+- Implement automated testing,
+- Train colleagues on automated testing and testing best practices,
+- Manage all testing activities
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Investigate and document customer complaints in compliance with regulatory requirements and products
+- Ensure timely investigation and response to product complaints, initiating and participating in investigations and corrective actions
+- Collaborate proactively with cross-functional teams to resolve customer complaints promptly
+- Communicate and collaborate effectively with global cross-functional and divisional partners to achieve goals, adapting style accordingly
+- Develop understanding of Stryker products and processes
+- BE/BTech, ME/MTech in Bio Medical / Mechanical Engineering / Electrical Engineering or related field from premier institutes
+- 2-6 years of experience in Medical Device domain preferred
+- At least 2+ years of experience in complaint handling or customer quality
+- Understanding of Post Market Surveillance requirements of Medical Devices under FDA & EU MDR regulations
+- Understanding of Medical Device Risk Management
+- Hands-on experience in complaint handling and product investigations of medical devices
+- Experience in root cause analysis of field returned products
+- Understanding of NC CAPA process and knowledge of various quality tools
+- Proficiency in TrackWise complaint handling tool or equivalent, Salesforce, Microsoft Office Word & Excel
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Provide Enhancement & Development services in a Java/Database environment, ensuring robust software solutions
+- Proficient in Playwright with C#, Test Rail, JIRA & Confluence for testing and collaboration
+- Experience in testing cloud migration applications and familiarity with BDD, DevOps concepts
+- Strong understanding of Agile Framework, Agile and Test Management Tools
+- Knowledgeable about automation frameworks and general testing skills
+- Effective communication, proactive approach, and ability to manage deliverables
+- Quick learner with the ability to adapt to new processes and tools
+- Minimum Qualifications: BE/B Tech/MCA/MBA with excellent communication skills
+- Preferred Qualifications: Strong domain knowledge, Test Automation expertise, Agile/DevOps practices, and Transformation/Integration/Automation project execution experience
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Design, develop, and configure automated test suites for the product
+- Perform manual testing, leveraging knowledge of product requirements/functionality
+- Maintain good relationships with stakeholders throughout the process
+- Collaborate with various Thomson Reuters teams for product/solution improvements and issue resolution
+- Successfully test projects within scope and schedule, individually and as a team
+- Manage key stakeholders and aim for excellence in customer satisfaction
+- Contribute to Practice/Competency building initiatives and mentor junior QA engineers
+- Bachelor's degree in computer science or software engineering
+- 3 to 10 years of software quality assurance knowledge, including testing and test automation
+- Proficiency in Microsoft Office applications
+- Knowledge of Thomson Reuters products or competitor products is advantageous
+- Excellent interpersonal and communication skills, both written and verbal
+- Detail-oriented with good planning, organization, and time management skills
+- Experience collaborating with globally distributed teams
+- Hands-on problem solver with strong analytical and presentation skills
+- Positive learning attitude
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Sound knowledge of IT systems/applications and familiarity with Salesforce technologies
+- Proficiency in programming languages like C, C++, Java, and Python
+- Strong understanding of Software Development Life Cycle and testing methodologies
+- Effective communication skills and ability to work collaboratively and independently
+- Troubleshooting capability and quick learning of new systems and tools
+- Ability to document and maintain up-to-date system procedures
+- Comfortable in a fast-paced, high-growth, rapidly changing environment
+- Strong analytical skills and effective verbal and written communication
+- Collaborate with the team to debug software products using systematic tests to maintain quality standards
+- Develop, modify, and execute software test plans, automated scripts, and programs
+- Analyze and write test standards and procedures, develop automated test scripts using Tosca on Salesforce CRM and Force.com
+- Support the development of test results documentation for debugging and software modification
+- Analyze test results to ensure existing functionality and recommend corrective action
+- Work with application and infrastructure teams to contribute to problem resolution
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 20
+
+- Manage/maintain automation framework and tools like Selenium, Cucumber
+- Write and execute automation/manual test cases for functional, integration, regression, and performance testing
+- Implement quality assurance processes and standards, ensuring timely resolution of defects
+- Evaluate feasibility of test automation and develop automated test scripts
+- Create and maintain test documentation including plans, cases, and reports
+- Report risks to project management and suggest risk reduction strategies
+- Measure key testing metrics and present test status and defect reports to stakeholders
+- Implement process improvements and optimizations in testing methodology
+- Bachelor's or master's degree in computer science, Engineering, or related field
+- Experience in developing and implementing test strategies and plans, including test objectives
+- Experience with test management tools like Rally, JIRA, TestRail
+- Excellent leadership and communication skills
+- Strong problem-solving and decision-making abilities
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Assist in developing and executing test plans, cases, and scripts for functional, regression, and performance testing
+- Identify and report software defects and collaborate with cross-functional teams for product quality
+- Contribute to continuous improvement of QA processes and procedures
+- No experience required; enthusiasm for learning and positive attitude essential
+- Strong communication and interpersonal skills
+- Ability to work independently and in a team environment
+- Bachelor's degree in Computer Science, Information Technology, or related field
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Lead development of comprehensive test plans considering functional and non-functional requirements
+- Design, implement, and maintain automated test scripts to streamline testing processes
+- Conduct thorough manual testing to identify software defects and ensure high-quality products
+- Plan and execute performance and load testing to assess system reliability and scalability
+- Drive quality assurance processes and enforce standards across the development lifecycle
+- Collaborate with development teams to identify, track, and manage software defects
+- Generate detailed test reports and provide feedback on software product quality
+- Create and maintain test documentation including test cases, scripts, and artifacts
+- Bachelor’s degree in Computer Science, Software Engineering, or related field
+- Minimum 2 years of professional experience in QA engineering
+- Strong understanding of manual testing methodologies and best practices
+- Proficiency in test automation tools like Selenium and experience with performance testing tools like JMeter
+- Experience with Azure DevOps
+- Excellent communication skills and ability to collaborate effectively with cross-functional teams
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Investigate and document customer complaints according to regulatory requirements and products
+- Ensure timely investigation and response to product complaints, initiating and participating in corrective actions
+- Collaborate proactively with cross-functional team members for resolution of customer complaints
+- Timely closure of customer complaints
+- Communicate and collaborate effectively with cross-functional and divisional partners globally to achieve goals, adapting style accordingly
+- Develop understanding of Stryker products and processes
+- BE/BTech, ME/MTech in Bio Medical/Mechanical/Electrical Engineering or related field from premier institutes
+- 2-6 years of experience in Medical Device domain preferred
+- Minimum 2+ years of experience in complaint handling or customer quality
+- Understanding of Post Market Surveillance requirements of Medical Devices under FDA & EU MDR regulations
+- Understanding of Medical Device Risk Management
+- Hands-on experience in Complaint handling and Product investigations of medical devices
+- Experience in root cause analysis of field returned products
+- Understanding of NC CAPA process and knowledge of various quality tools
+- Proficiency in TrackWise complaint handling tool or equivalent, Salesforce, Microsoft Office Word & Excel
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Review and analyze system specifications and collaborate with QA Engineers to develop effective test strategies and plans
+- Execute test cases, both manual and automated, and analyze results to evaluate product code against specifications
+- Create logs to document testing phases and defects, and report bugs and errors to development teams
+- Assist in troubleshooting issues and conduct post-release/post-implementation testing
+- Work with cross-functional teams to ensure quality throughout the software development life-cycle
+- Excellent communication skills, attention to detail, analytical mind, and problem-solving aptitude
+- Interest in coding, strong organizational skills, and a Computer Science background
+- Mandatory QA certification
+- Additional skills considered a plus: Basic knowledge about Automation and Performance Testing
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Develop and execute test cases and scripts for business and enterprise applications, focusing on billing functionality.
+- Conduct functional, regression, and performance testing to ensure software quality and reliability.
+- Collaborate with cross-functional teams to understand business requirements and technical specifications.
+- Identify, document, and track software defects using issue tracking systems.
+- Participate in requirement analysis and design discussions to provide testing insights.
+- Utilize GUI test automation tools like Selenium or Katalon Studio to automate test cases.
+- Analyze test results and provide feedback on product quality and performance.
+- Contribute to the development and maintenance of test automation frameworks.
+- Stay updated on industry trends and best practices in software testing.
+- Communicate effectively with team members and stakeholders on testing objectives and priorities.
+- Bachelor's degree in Computer Science, Engineering, or related field.
+- 3-5 years of software testing or quality assurance experience.
+- Familiarity with testing business and enterprise applications, especially billing.
+- Knowledge of testing automation concepts and experience with GUI test automation tools.
+- Proficiency in scripting languages like Python, Java, or JavaScript for test automation.
+- Experience with test management tools like JIRA, HP ALM, or similar.
+- Strong analytical and problem-solving skills.
+- Ability to work independently and in a team in a dynamic environment.
+- Excellent communication and interpersonal skills.
+- Certification in software testing (e.g., ISTQB) is a plus.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Minimum 2 years of professional experience in QA engineering- Ability to work effectively in both team and individual settings
+- Strong communication and collaboration skills
+- Awareness of latest technologies and trends in software testing
+- Basic knowledge of mobile app and website technology
+- Understanding of Software Testing Methodologies and Techniques
+- Proficiency in Manual Testing and identification of critical scenarios
+- Familiarity with Database testing principles
+- Knowledge of Test Management tools
+- Assisting in the configuration of test environments
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Assist in achieving the goal of developing glitch-free automated customer service software
+- Plan and execute tests, both automated and manual, to identify bugs
+- Review and analyze product specifications
+- Utilize problem-solving abilities to address and fix bugs
+- Communicate effectively with the team to explain identified issues
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Bachelor’s degree in computer science, engineering, or related discipline
+- Minimum 5 years of work experience in software development
+- Minimum 2 years of experience as QA Software Lead
+- Proficiency in software QA methodologies, processes, and tools
+- Ability to write clear, concise, and comprehensive test plans and cases
+- Proficiency in white and black box testing
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION
+
+- Articulate, demonstrate, and prove the value of SOLIDWORKS Solutions to partners/customers to support the QA plan
+- Engage and develop Professional Solutions for the Product
+- Work as part of a team to ensure customer satisfaction with the SolidWorks design environment through quality assurance evaluation
+- Validate quality through testing requirements in functionality, usability, performance, workflow, and robustness
+- Collaborate closely with the application development team to identify and resolve problems, and improve QA process definition
+- Create test designs, run/review automated tests, perform interactive testing, and report/verify problems
+- Utilize customer feedback to continuously improve the testing process
+- Bachelor's or Master's degree in Mechanical Engineering or related discipline from premier institutions
+- 2-5 years of technical experience in mechanical design or testing design software
+- Experience with 3D CAD software packages like SolidWorks or any other CAD
+- Experience with 3DEXPERIENCE Platform or any other PLM tool
+- SOLIDWORKS Certifications like CSWE or CSWP are advantageous
+- Experience with automation or programming is advantageous
+- Detail-oriented with strong analysis and follow-through skills
+- Good written and verbal communication skills
+- Self-starter who works well independently and in a team environment
+- Willingness to take on challenges
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 30
+
+- Create test cases from product specifications and execute test plans, compiling results.
+- Set up and maintain personal and team testing environments.
+- Assist in reviewing software development processes to enhance product quality.
+- Track defects from detection to resolution, collaborating with developers.
+- Communicate product issues with stakeholders and maintain knowledge of existing products/systems.
+- Review product documentation for completeness and accuracy.
+- Provide support to stakeholders before software release and utilize SQL scripts for data validation.
+- Design and maintain test library, develop and automate test scripts.
+- Estimate testing efforts for enhancements.
+- 2-5 years of software testing experience, preferably in Banking/Financial domain.
+- Hands-on experience with DML commands in databases like Ingres, Oracle, PostgreSQL.
+- Proficiency in Java and working with both web and desktop applications.
+- Ideally, experience in transaction banking and/or with payments gateways.
+- Proficiency in Microsoft Office and Linux applications.
+- Strong verbal and written communication skills, effective customer service skills.
+- Ability to work independently or within a team environment, handling multiple projects.
+- Knowledge of quality assurance methods, software development lifecycle, and Agile methodology.
+- Effective planning, organizational, analytical, and problem-solving skills.
+- Familiarity with specialized software tools and ability to implement and evaluate new processes.
+- Ability to execute test plans, document results, and record software defects.
+- Knowledge of market infrastructures (e.g., SWIFT, SIX, Fed&Chips Services) preferred.
+- Familiarity with automated testing software tools and performance testing is advantageous.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
