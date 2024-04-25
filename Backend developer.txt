@@ -1,0 +1,237 @@
+Job Description
+• Setting goals and tasks for performance.
+• Working with the Magento eCommerce platform to develop and maintain high-quality eCommerce websites.
+• Configuring and customizing Magento themes and extensions.
+• Developing custom Magento modules and integrations.
+• Optimizing Magento performance & scalability.
+• Troubleshooting Magento errors and issues.
+• Providing support for live Magento sites.Updating the features and functionality of existing Magento sites.
+
+Requirements
+• Magento Theme Customization
+• Magento Version Upgrade
+• REST API
+• In-depth knowledge of Magentos code structure, extension architecture, theming hierarchy, and fallback components.
+• Develop new custom functionality in Magento
+• Good knowledge in Implementing API services like REST, GraphQL, and Magento Certification is a plus.
+• Experience with caching and scaling techniques
+• Experience with Magento 2 custom extension development
+• Knowledge of Less and Knockout JS is a plus
+ 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Responsibilities
+• Develop platform and infra stack from scratch
+• Writing reusable, testable, and efficient code
+• Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.
+• Optimize application for maximum speed and scalability.
+• Implementation of security and data protection
+• Collaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.
+• Developing ideas for new programs, products, or features by monitoring industry developments and trends.
+• Recording data and reporting it to proper parties, such as clients or leadership.
+• Participating in continuing education and training to remain current on best practices, learn new technologies, and better assist other team members.
+• Taking lead on projects, as needed.
+
+Technology Skills
+• Proven work experience as a NodeJs Backend developer and frameworks available with it like Express, Apollo Graphql. Typescript knowledge is a plus
+• In-depth understanding of the entire web development process (design, development and deployment)
+• Hands-on with various Infrastructure pieces like databases, message queues/brokers
+• Familiarity with Unit Testing Frameworks, UI Testing, Monorepos and Graphql principles
+• Knowledge of Alerting and Monitoring tools.
+• Implementing automated testing platforms and unit tests
+• Proficient understanding of code versioning tools, such as Git
+• Integration of multiple data sources and databases into one system.
+• Prior experience of the AWS cloud, knowledge about the Salesforce environment is a plus.
+• Excellent project and time management skills.
+
+Soft Skills
+• Obsessed with best practices, structuring, documentation and have an eye for detail.
+• Self starter with a high level of drive and commitment.
+• High energy and drive to work in a startup environment.
+• Conceptual thinking, flexibility and ability to juggle with multiple responsibilities.
+• Ability to work under pressure and confidence to deal with complex issues.
+• Good communication skills.
+• Hands-on and detail oriented.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Responsibilities
+• Design, implement, and maintain backend services using GoLang to support the infrastructure Realtime Multiplayer Games.
+• Collaborate with cross-functional teams, including game developers, frontend engineers, and DevOps, to ensure seamless integration of backend services.
+• Contribute to the development of microservices architecture to ensure scalability, modularity, and maintainability of backend components.
+• Work with cloud platforms, such as GCP, to deploy and manage backend services, ensuring optimal performance and scalability for a high volume of concurrent users.
+• Design and document APIs for game features, ensuring clarity and ease of use for both internal and external stakeholders.
+• Implement extensive bidirectional communication miroservices, including WebSockets or gRPC, to enable efficient and low-latency communication between game clients and servers.
+
+Experience & Skills Required
+• Upto 3 years of experience in backend development using GoLang.
+• Familiarity with Realtime Multiplayer Game development concepts and challenges.
+• Experience implementing bidirectional communication channels, such as WebSockets or gRPC.
+• Strong understanding of microservices architecture and cloud platforms (GCP, AWS, or Azure).
+• Proficient in API design and documentation.
+• Solid understanding of performance optimization techniques.
+• Knowledge of containerization and orchestration tools (Docker, Kubernetes).
+• Excellent communication and collaboration skills
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+• Minimum qualification: Bachelor’s degree or more in an Electrical Engineering and Telecommunication Engineering field.
+• Interface with clients via Slack, Zoom, and email.
+• Work with modern tools including Jira, Slack, GitHub, Google Docs, etc.
+
+Technical Skills
+• Extensive experience with Javascript and Linux.
+• Experience in developing Control Programmes.
+• Experience in developing Network Programmes.
+• Experience in Frontend GUI Development and app Development.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description
+• CloudVision is Arista's enterprise network management and streaming telemetry SaaS offering, serving the world's largest Financials, Media and Entertainment, Health Care, and Cloud companies.
+• As we continue to scale the service and expand into new markets, we're looking to grow the team with experienced Software Engineers anchored by our Pune and Bangalore team.
+• CloudVision's core infrastructure is a scale-out distributed system providing real-time and historical access to the full network state, along with frameworks for building advanced analytics.
+• It's written in go and leverages open source technologies like HBase, ClickHouse, ElasticSearch, and Kafka under the covers.
+• We're constantly investing in scaling out the platform and building out richer analytics capabilities in the infrastructure.
+• Arista also provides the last mile connectivity for campus wide networking (both wired and wireless) through our Cognitive Unified Edge solution.
+• On top of this core platform we are building network management and analytics applications to fully automate today's enterprise network, from CI/CD pipelines for network automation, to advanced analytics and remediation for network assurance.
+
+Qualifications
+• As a backend software engineer at Arista, you own your project end to end.
+• You and your project team will work with product management and customers to define the requirements and design the architecture.
+• You'll build the backend, write automated tests, and get it deployed into production via our CD pipeline.
+• As a senior member of the team you'll also be expected to help mentor and grow new team members.
+• This role demands a strong and broad software engineering background, and you won't be limited to any single aspect of the product or development process.
+• BS/MS degree in Computer Science and minimum 4+ years of relevant experience.
+• Strong knowledge of one or more of programming languages (Go, Python, Java)
+• Experience developing distributed systems or scale out applications for a SaaS environment
+• Experience developing scalable backend systems in Go is a plus
+• Experience with network monitoring, network protocols, machine learning or data analytics is a plus
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+• Strong knowledge of Java
+• Experience with MongoDB
+• Strong understanding of design patterns and Object Oriented Programming
+• In-depth experience of working with RESTful APIs
+• Capable of writing robust, clean code
+• Experience working in an Agile Scrum environment and collaborative tools (e.g Jira)
+• Understanding of build processes and CI tooling (e.g. Bamboo)
+• Experience with Unit/UI testing
+• Experience with Git
+• Knowledge of React and web client technologies is a plus
+• Excellent communication skills
+
+EXPERIENCE
+
+8 – 12 Years
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Qualifications and Skills
+
+Bachelor's degree in Computer Science or a related field.4 to 6 years of experience in backend development.Strong proficiency in backend programming languages such as Python, Node.js, or Java.Experience with server-side frameworks (e.g., Django, Express.js, Spring).Good understanding of database systems (e.g., SQL, MongoDB).Familiarity with version control systems (e.g., Git).Knowledge of RESTful APIs and microservices architecture.Ability to collaborate effectively with cross-functional teams.Excellent problem-solving and debugging skills.Strong communication and interpersonal skills.
+
+Roles and Responsibilities
+
+Develop and maintain the server-side of our applications, ensuring high performance and responsiveness.Collaborate with cross-functional teams to understand project requirements and translate them into technical solutions.Design and implement database structures for efficient storage and retrieval of data.Optimize application performance and scalability.Troubleshoot and debug issues, identifying root causes and implementing solutions.Stay updated with the latest industry trends and technologies, and suggest new ideas to enhance our applications.Participate in code reviews to maintain code quality and ensure adherence to coding standards
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Requirements:
+• 4+ years of experience in software development for high-availability systems
+• Experience developing cloud-based solutions on GCP
+• Strong understanding of complete backend pipeline for telematics use cases
+• Strong networking fundamentals especially with protocols such as MQTT and HTTPS
+• Strong programming skills in Javascript/Python/Go/Rust
+• Familiarity with Object Oriented Programming and Architecture/Design Patterns
+• Familiarity with PKI and security standards
+• Experience with container orchestration
+• Experience with scripting in Bash/Perl/Python
+• Familiarity with CI/CD Pipelines
+• Familiarity with using Git for version control
+• Experience with defect tracking tools e. g. Jira
+• Experience with Unit T
+est Frameworks
+• Experience with Automated Test Frameworks
+• Prior experience in Automotive/Telecom/Industrial Domains
+• AWS/GCP Certifications
+• Journal publications and/or patents
+• Contributions to open-source projects
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+• 2 - 3+ years experience building APIs and backends with Node.js
+• Excellent knowledge of JavaScript (ES6+)
+• Good knowledge of mongoDB
+• Excellent knowledge of Typescript and a preference for static typing
+• Experience with testing frameworks and a strong desire to write a lot of tests
+• Experience with relational and non-relational databases
+• Able to bring up a new (micro)service from scratch to fulfill product requirements
+• Fluent in English (candidates who cannot communicate in English will be rejected)
+• Good team player
+• Strong communication skills
+• Ability to mentor less experienced colleagues
+• Self-motivated and proactive
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ What you'll do:
+
+    Develop and maintain highly efficient Python-based applications and scripts
+    Collaborate with the team to brainstorm, design, and implement new Algorithms
+    Contribute to solving real-time challenges and optimizing existing systems
+    Bring a hacker mindset and a passion for coding to the table.
+
+
+What makes you a great fit:
+
+    Proficiency in Python programming language with a good GitHub repository or hackerrank equivalent to showcase
+    Strong problem-solving skills and attention to detail.
+    Ability to work independently and as part of a team.
+    Bachelor's degree in Computer Science or related field.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tasks
+
+    Development of Applications in Javascript/Node.js (with the focus Backend)
+    Support Customers with their Infrastructure (Kubernetes) and help building them up
+    Develop all kinds of applications with us for our customer projects
+    Development of automation solutions to completely automatically provision and manage Infrastructure
+    Development of components for Kubernetes and sometimes also contribute to Kubernetes
+    Research and Development in many different sectors of Technology
+
+Requirements
+
+Requirements
+
+    4 - 7 years’ experience in Backend development in NodeJs
+    Experience in Kubernetes, basics are enough, the rest you can learn from us
+    Experience with Linux, Docker or other CRIs
+    Good to very good Software Development Experience
+    Node.js, Go and C in this order descending are the most used Languages right now, Experience is welcome but everyone with solid understanding for programming is welcome!
+    Familiarity with data management, SQL and NoSQL databases (in-memory or otherwise).
+    Independent and self-motivated contributor and passionate about software development.
+    Must be a quick learner and comfortable learning new skills and can thrive in a complex and fast-paced environment.
+    Positive attitude and good communication skills
+
+A short preview of our Tech Stack
+
+    Our own hypervisor and orchestrator
+    xCat
+    CockroachDB
+    Node.js
+    Go
+    C
+    Containerd (and legacy docker)
+    gVisor
+    katacontainer
+    Kubernetes
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
