@@ -1,7 +1,9 @@
 https://docs.google.com/spreadsheets/d/1i1hcZHUIAGc2hCcPeyKdylwrRq5nSdyYJ3aUKKFbv9I/edit#gid=0
 
+https://roadmap.sh/pdfs/roadmaps/backend.pdf
 https://www.alexhyett.com/backend-developer-roadmap-2023/
 https://codedamn.com/learning-path/backend
+https://www.decipherzone.com/blog-detail/backend-roadmap
 
 
 Job Description 1
