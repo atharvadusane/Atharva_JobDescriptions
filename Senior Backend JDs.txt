@@ -1,0 +1,426 @@
+Elasticsearch
+
+
+Job Description 1
+
+What you will do:
+• Ensuring that micro services are used wherever it makes sense.
+• Mentoring team and finding the right balance towards process and documentation.
+• Working on interesting technical challenges in a product centric and open-source driven environment.
+• Helping set a very high bar on code quality.
+• Taking ownership of product features from conception to implementation, testing deployment and support.
+• Working on open source as much as possible, and blogging about cool things that he/ she learnt and built.
+• Helping define who we become as a company.
+• Getting stock options in line with Silicon Valley standards.
+
+What you need to have:
+• Any engineering graduate
+• 6 to 10 years of experience in building app architecture
+• The role requires a good knowledge of Algorithmic Design and Architecture, Data structures, OOPS Concepts, serverless architectures and complex problem solving skills.
+• Knowledge of Full stack CTO
+• Must have worked as backend lead
+• Ownership - A lot of freedom on when and where you work from - just get stuff done
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 2
+
+We have an urgent opening for SR Backend developer.
+
+Notice period - Immediate to 15 days max
+
+Must Have Skills-
+• JSON -
+• Maven -
+• Hibernate -
+• JUnit -
+• Java (JDK7/8/11) -
+• Spring boot -
+• RestFul -
+
+If you are interested kindly revert with your updated resume
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 3
+
+Your Role and Responsibilities
+As a Backend developer you will be responsible for Design, Development and testing of an IBM Cyber Resilience product through the full systems development lifecycle on both SaaS and Hybrid Cloud platforms. You will work in an agile, collaborative environment across software architecture, understanding both client-side development as well as the server-side development.
+We seek an applicant who will thrive in an open, dynamic, flexible, fun, spirited, collaborative environment; an individual who desires creative freedom and the opportunity to work in a high performing team.
+Responsibilities:
+• Design/development/testing in programming languages like Java, python in Container environment.
+• Perform design and implementation reviews for other developers.
+• Participate in software design and code reviews to ensure a high level of software quality and also to share knowledge with the team members.
+• Work in a fast moving and forward-thinking development environment that is constantly researching and implementing using the latest technologies. 
+• Participate in, and adhere to, professional software engineering practices using such tools and methodologies as Agile Software Development, Test Driven Development, Continuous Integration, Source Code Management (git), and GitHub. Ensure good code coverage.
+• Support bug fixes during development/testing and deploy to target environments.
+• Participate in the planning, creation and execution of automated test cases and load/performance testing.
+• Regularly develop automation testing and maintenance of microservices.
+• Create/maintain technical documentation. Hands on experience in handling and debugging customer issues, work with L2 support team.
+• Maintain a high level of proficiency with Computer Science/Software Engineering knowledge and contribute to the technical skills growth of other team members.
+• Good team player.
+
+Required Technical and Professional Expertise
+• At least 14 years of relevant Development experience
+• Experience in working on a SaaS application with high industry standard CI/CD, and development cycle processes.
+• Expertise in Core Java, Java J2EE, microservices architecture, Python.
+• Experience in Building Restful API, SDK APIs using different frameworks.
+• Expertise of database technologies such as mongoDB/SQL/NoSQL/Vector Databases.
+• Good understanding of Docker, Kubernetes, OpenShift Container Platform, Ansible, Jenkins, Tekton.
+• Experience in writing / executing Unit Tests and REST API automation.
+• Experience and working knowledge of version Control systems like Github and build tools like Maven/Gradle.
+• Continuous learning and ability to adapt to change.
+• Strong sense of ownership of deliverables.
+• Lead the team/component.
+• Architecture experience.
+• Working across global teams and collaborating across teams and organization boundaries.
+• Finding innovative ways to solve complex problems with cutting edge technologies.
+
+Preferred Technical and Professional Expertise
+• Experience working on Linux
+• Experience in Backup/Data-protection, Storage products.
+• Proficiency in cloud platforms - AWS and IBM Cloud.
+• Experience in using messaging brokers like Kafka etc.
+• Experience in Javascript, ReactJS, Typescript, HTML5, CSS.
+• Good Knowledge of network fundamentals (TCP/IP, DNS, DHCP, VLANs, VPNs, routing, and subnetting etc)
+• Understanding of Network security principles, including firewalls, encryption, identity and access management (IAM), and compliance standards.
+• Understanding of VMware networking.
+• Experience working with customers and/or customer facing teams.
+• Excellent communication and presentation skills
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 4
+
+Our technologies includes:
+• Python
+• ElasticSearch
+• ReactJS
+• React Native / Flutter / iOS / Android
+• Apache Cassandra
+• VoIP and related technologies (Freeswitch, Kamailio, etc)
+• Docker/K8/Puppet
+• AWS/GCP/Azure
+
+Responsibilities
+• Architect and build highly distributed scalable backend systems.
+• Build, test(unit), document, and deploying solutions at scale.
+• Work in a team-oriented environment, providing software development technical expertise and guidance to key stakeholders on variety of enterprise scale applications and projects.
+• Provide technical direction and guidance, as well as draft specifications, architect solutions, define timelines, advise on industry best practice and problems to be solved.
+• Work closely with Customers, Product Managers, and Architects to develop effective, high-quality enterprise software solutions.
+• Understand and apply a variety of project life-cycles, methods, and software development techniques.
+• Quickly learn new technologies and adapt to a fast-paced development environment.
+
+Minimum Qualifications
+• Deep knowledge of Python application development using frameworks like Django/Flask (7+ years) & databases (RDBMS or NoSQL)
+• Hands-on knowledge of ORM, SQL, NoSQL, and Data Modeling
+• Worked with messaging & caching systems such as Redis, RabbitMQ, Kafka, etc
+• Experience with Celery, RESTful APIs and server-side APIs integration
+• Deep knowledge of SOLID principles
+• Experience with TDD and ability to write quality unit tests
+• Exposure to AWS, CI/CD, DevOps and web security
+• Attention to detail, strong sense of ownership, and pride in the quality of one’s work
+• Mindset to take up project individually & meet deadlines
+• Comfortable regularly working in team environments
+• BS/MS in Computer Science or related stream is a must
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 5
+
+Responsibilities:
+
+Backend Development:
+• Design, develop, and maintain scalable and high-performance backend systems.
+• Utilize AWS Serverless skills (API Gateway, Lambda, DynamoDB, SQS, Event bridge, CloudWatch, permissions, accounts, multi accounts, streams
+
+Technology Stack:
+• Proficiency in JavaScript, Node.js, and Typescript for backend development.
+• Leverage AWS services to build serverless applications with a focus on efficiency, security, and reliability.
+
+E-commerce Expertise:
+• Bring experience in e-commerce projects, with additional consideration for knowledge of Commerce tools.
+
+Communication Skills:
+• Communicate effectively with stakeholders across the US, UK, and Australia.
+• Collaborate with cross-functional teams to understand requirements and provide technical insights.
+
+Project Collaboration:
+• Work closely with front-end developers, QA engineers, and other team members to deliver end-to-end solutions.
+
+Requirements:
+• Bachelor’s degree in Computer Science or a related field.
+• 7-10 years of backend development experience.
+• Strong proficiency in AWS Serverless technologies.
+• Expertise in JavaScript, Node.js, and Typescript.
+• Experience with e-commerce projects, particularly Commercetools, is an advantage.
+• Excellent communication skills to engage with international stakeholders
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 6
+
+Collabera
+Responsibilities:
+• Design, develop, and maintain scalable backend systems using Java, Spring Boot, and microservices architecture.
+• Implement and optimize APIs for performance and reliability.
+• Collaborate with cross-functional teams including frontend developers, designers, and product managers to deliver high-quality solutions.
+• Write clean, maintainable, and efficient code while adhering to coding standards and best practices.
+• Perform code reviews identify areas for improvement, and provide constructive feedback to team members.
+• Develop and maintain documentation for software architecture, design, and implementation.
+• Stay updated with the latest technologies and trends in backend development.
+
+Requirements:
+• Bachelor's degree in Computer Science, Engineering, or a related field.
+• 9+ years of experience in software development with a strong focus on Java backend development.
+• Proficiency in Java programming language and object-oriented design principles.
+• Extensive experience with Spring Boot framework and building RESTful APIs.
+• Solid understanding of microservices architecture and its implementation.
+• Hands-on experience with SQL/Oracle databases and writing complex queries.
+• Strong familiarity with front-end technologies, particularly Angular.
+• Basic knowledge of MongoDB or other NoSQL databases is preferred.
+• Excellent problem-solving skills and attention to detail.
+• Strong communication and interpersonal skills, with the ability to work effectively in a team environment
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Job Description 7
+
+
+We are looking for a senior developer for one of our development teams. As a team member you will be delivering solutions across our global business organization. As a team member expected to work effectively within the team and close with all stakeholders, to deliver best support and drive improvements, responsibilities include participating in the entire software development life cycle, debugging applications and configuring existing systems.
+
+This role requires the ability to develop effective working relationships within and beyond the team, to ensure that a consistent, high-quality service is delivered. This is a fast-paced and varied role, requiring excellent communication and customer service skills as well as a broad range of functional knowledge.
+
+The team is delivering an efficient and user-friendly order viewer system, that is a crucial tool for several user groups in the organization. Order information needs to be transferred between different applications, and as an application for both receiving and sending data the tool acts as a central hub for many of these processes.
+
+The team works in close collaboration with our business stake holders to deliver functionalities related to order handling in the factories such as:
+• generating documents: drawings, assembly instructions, etc.
+• viewing order details when communicating with customers.
+• generating sales reports and analytics.
+
+The tool interacts with with M-ERP systems, document databases, CAD drawing applications, and more. The tool is a modern and robust web application, for which there is an ongoing project of rewriting the application on a new generation microservices based cloud architecture.
+
+Main responsibilities
+• Leading day to day operations.
+• Analyze system requirements and prioritize tasks.
+• Write clean, testable code using .NET programming languages.
+• Develop technical specifications and architecture.
+• Test and debug various .NET applications.
+• Review and refactor code.
+• Deploy fully functional applications.
+• Upgrade existing programs.
+• Support junior developers’ work.
+• Document development and operational procedures.
+• Contributing to the growth of the company through a successful team.
+• Contributing to a pleasant and inspiring working environment.
+
+Who you are?
+
+To succeed in this role, you have a positive and encouraging attitude. You have a problem-solving mindset and take pride in delivering with quality. You are social person, who interact with your colleagues, and like to share your knowledge. You enjoy working in a cross cultural and cross functional organization.
+
+What is needed in this role:
+• You have excellent communication skills, and a willingness to take initiative.
+• You have a Bachelor’s Degree in Computer Science or equivalent
+• You are skilled in writing C# applications with .NET Core and have hands on experience with Azure Cloud.
+• You should be comfortable with these resources: App Service, Key Vault, Managed Identity, Azure Functions, Storage Accounts and ARM templates.
+• You have worked with applications that use build and release pipelines in Azure DevOps. You write unit tests as a routine when you write code, and you are comfortable with Git, as well as having knowledge of software design patterns and principles e.g. SOLID.
+• It is meriting if you have worked with XML models and parsing.
+• Experience working in SAFe agile development organizations.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 8
+
+Deutsche Bank
+Role Description
+
+    As a Backend SME, you will play a pivotal role in building business logic components as well as persistent stores for Sustainability platform-based applications.
+    You will be involved in hands-on development, unit testing, and Google Cloud Platform (GCP) deployment of multiple microservices based workflow and reporting applications.
+    Collaboratively build integrations with myriad upstream/downstream systems
+    Work on application performance bottlenecks, suggest and implement solutions for the same
+    Design Develop and maintain a continuously improving overall quality of Sustainability platform applications in terms of robustness, clean logs, observability etc.
+    Continuously Refine the domain driven, modular design, while maintaining security, compliance and ease of operations.
+    Coordinate product releases with internal teams ensuring timely and seamless deployments. 
+
+What we’ll offer you
+
+As part of our flexible scheme, here are just some of the benefits that you’ll enjoy
+
+    Best in class leave policy.
+    Gender neutral parental leaves
+    100% reimbursement under childcare assistance benefit (gender neutral)
+    Sponsorship for Industry relevant certifications and education
+    Employee Assistance Program for you and your family members
+    Comprehensive Hospitalization Insurance for you and your dependents
+    Accident and Term life Insurance
+    Complementary Health screening for 35 yrs. and above 
+
+Your key responsibilities
+
+    Contribute individually to project success in terms of Backend, middleware and system integration related development involving microservices, event driven system integrations and Sql/NoSQL databases.
+    API Design: Design APIs for an API-first platform, ensuring seamless support for primary UI implementation(s).
+    Hybrid Cloud Adaptation: You will work with a hybrid cloud architecture, necessitating flexibility in learning new technologies.
+    Hybrid GCP solutions will replace or coexist with some technologies currently available exclusively on-premise.
+    GCP Solutions: Provide solutions that leverage GCP, as it is crucial to fully exploit the benefits of our proposed cloud strategy.
+    Code Reviews and Best Practices: Participate in code reviews and contribute to evolving best practices for better maintainability, security, observability, reuse and modular development.
+    Assist in tool and platform documentation from both technology and operations perspectives. 
+
+Your skills and experience
+
+    5-7 years experience
+    Microservices and related Desing Patterns, JDK 11+, SpringBoot Middleware, Spring Cloud, Spring Security, Concurrency, Enterprise Intengration and related design patterns, MyBatis/JPA, Mockito, Junit,SQL, Oracle/postgres Database, JMS, GCP
+    Good to Have :
+        Knowledge of Teamcity/Jenkins,GIt, SSH, Enterprise Caching (Redis or any other) Prometheus/Grafana, SPLUNK, 
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 9
+
+Sugar
+
+Role Expectations:
+
+    Extensive knowledge of JavaScript, web stacks, libraries, and frameworks. 
+
+    Knowledge of front-end technologies such as HTML5 and CSS3. 
+
+    Superb interpersonal, communication, and collaboration skills. 
+
+    Exceptional analytical and problem-solving aptitude. 
+
+    Great organizational and time management skills. 
+
+    Availability to resolve urgent web application issues outside of business hours.
+
+
+Role Deliverables:
+
+    Developing and maintaining all server-side network components. 
+
+    Ensuring optimal performance of the central database and responsiveness to front-end requests. 
+
+    Collaborating with front-end developers on the integration of elements. 
+
+    Designing customer-facing UI and back-end services for various business processes. 
+
+    Developing high-performance applications by writing testable, reusable, and efficient code. 
+
+    Implementing effective security protocols, data protection measures, and storage solutions. 
+
+    Running diagnostic tests, repairing defects, and providing technical support. 
+
+    Documenting Node.js processes, including database schemas, as well as preparing reports. 
+
+    Recommending and implementing improvements to processes and technologies. 
+
+    Keeping informed of advancements in the field of Node.js development.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 10
+
+Responsibilities:
+
+    Design, develop, and maintain backend systems using Kotlin, Micronaut & Spring Cloud
+    Work closely with other engineers to ensure that our systems are scalable, reliable, and secure
+    Implement unit tests and TDD (test-driven development) to ensure the quality of our code
+    Participate in the design and implementation of new features
+    Work with other teams to integrate our backend systems with other systems in our ecosystem
+
+
+Qualifications:
+
+    7+ years of experience in developing backend systems using Kotlin, Micronaut, Spring Cloud, or other similar technologies
+    Strong understanding of unit testing and TDD
+    Experience with DDD (domain-driven design), CQRS, Clean Architecture, Hexagonal
+    Architecture, Microservices, Multi tenancy and Event Sourcing is a plus
+    Excellent problem-solving and analytical skills
+    Ability to work independently and as part of a team
+    Strong communication and interpersonal skills
+
+
+Preferred Qualifications:
+
+    Experience in developing backend systems for fintech companies
+    Experience in developing backend systems for b2b spend management
+    companies
+    Experience with cloud computing platforms such as AWS or Azure
+    Experience with Docker and Kubernetes
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Job Description 11
+
+ Position Overview
+
+This position requires a self-motivated and dynamic individual with strong technical skills who can contribute in a team environment. In this role, you will take end-to-end ownership of backend development
+
+
+Qualifications
+
+    6+ years of application development experience in Python web api technology stack
+
+Skills/Knowledge
+
+    Solid knowledge of API development using Python to support Mobile and Web Applications. FastAPI/Starlette is desired.
+    Solid understanding of NoSQL databases. MongoDB experience is desired.
+    Good understanding of containerization technologies.
+    Experience building cloud applications. GCP experience is desired.
+    Good written and verbal communication skills with ability to tailor message to audience.
+    Good understanding of pub/sub messaging architecture
+    Good understanding of security standards and best practices
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Job Description 12
+
+Roles and responsibilities :
+
+We're looking for a strong Senior Backend Developer to join our team at Worlder TEAM to work on a suite or ecosystem of apps that are structured as AWS microservices. Responsibilities include:
+
+    Backend development including AWS.
+    Design and implement cloud solutions using AWS services, such as EC2, S3, RDS, and VPC, to meet the needs of the organisation.
+    Manage the cloud infrastructure, including provisioning, scaling, and monitoring resources to ensure they are optimised for performance and cost.
+    Ensure that the cloud infrastructure meets security and compliance standards, such as HIPAA, PCI, and SOC.
+    Automate cloud-based processes, such as deploying and scaling applications, using tools such as AWS CloudFormation, AWS Elastic Beanstalk, and AWS Lambda.
+    Manage databases using services such as Amazon RDS, Amazon DynamoDB, and Amazon Redshift to ensure that they are optimised for performance, cost, and scalability.
+    Troubleshoot issues related to cloud infrastructure, such as performance, availability, and security.
+    Work with other teams, such as developers, operations, and security, to ensure that cloud-based solutions are integrated and functioning properly.
+    Continuously evaluate and improve the cloud infrastructure to ensure that it meets the needs of the organisation and end-users.
+    Working with frontend developers.
+    Manage and mentor junior developers.
+    Liaising with and managing third party services and resources.
+    Following software development best practices, including maintaining good documentations and establishing test protocols.
+    Communicating clearly the development plan and progress to the management team.
+    Performing additional duties within a start-up environment, including reasonable engineering tasks, tasks that may not be limited to your expertise, and learning new skills necessary to perform these tasks, and administrative chores such as product launch and related activities.
+
+Mandatory requirements:
+
+    Strong technical background with at least 5 years of experience in executing software development.
+    Must be fluent in English both oral and written.
+    Teamwork and excellent communication and interpersonal skills.
+    Takes pride in developing high-quality and efficient software.
+    Positive attitude and willingness to learn on the job.
+    Proficiency in:
+    Server Language: Golang
+    Server Framework: Echo
+    Backend Architecture: Microservices & Multi-Databases
+    Infrastructure: AWS, Docker, and on-premise servers
+    DB: MySQL
+    Source code management: GitHub
+    Backend Test: Postman
+    Python
+
+We also use these in our development (ok to pick up on the job):
+
+    CI/CD tool: Jenkin
+    Security test: Zap
+    Load test: JMeter
+-----------------------------------------------------------------------------------------------------------------------------------------
+Job Description 13
+
+Senior Java backend developer
+The Role
+
+    The Java team builds APIs and business logic that talks to the DB layer/other data repositories.
+    The candidate is expected to code, conduct code reviews, and test software as needed, working as part of a global agile team that comprises web application and web services developers.
+    Our Java tech stack includes the Java, REST APIs, SQL and Spring
+    The candidate should be flexible and a self-motivated team player, committed to delivering on time.
+
+
+Skills Required
+
+    5+ years of experience in building Java based applications
+    Excellent in Core Java, SQL, Spring, REST APIs, Spring boot, Microservice architecture
+    Knowledge on object-oriented programming and design patterns, data structures and algorithms
+    Strong communication skills and problem solving skills
+    Version controls software exposure GIT, SVN, Bit bucket
+    Ability to take ownership of work streams, operate without close supervision, and work across the organization.
+
+
+Skills Desired/Good to have
+
+    Experience with Continuous Integration/Continuous Deployment
+    Experience with messaging technologies (e.g. Kafka, MQ), Event processing technologies
+    Experience with agile methodologies
+
+ 
+ 
