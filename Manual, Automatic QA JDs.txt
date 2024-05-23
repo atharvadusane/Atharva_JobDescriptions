@@ -1,0 +1,1269 @@
+AUTOMATIC QA JDs
+
+Job Description 01
+
+JD for Automation QA
+• Hands on Experience on JAVA along with Selenium
+• Familiar with both Test Driven Development (TDD), Behavioral driven testing (BDD)
+• Can set up environment, and diagnose/debug/fix environment issues on his/her own
+• Can develop tests based on User Stories
+• Effective in functional/integration/regression/end to end testing
+• Tenacious in finding exact point of failure on a test
+• Understand bug writing and testing best practices & lifecycle
+• Strong analytical and problem-solving skills with good communications skills
+• Detail oriented
+• Good communicator
+• Organized
+• Self-sufficient/independent but good team member
+• Experience with agile and updating tickets in real time
+
+Skills : QA, Automation, Java, Selenium, Automation tester
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 02
+
+Testing candidate releases of new or modified CRM and/or FO applications, assuring the quality of scalable software solutions by collaborating with business partners to realize the full capability of D365; supporting all quality assurance tasks, test plan preparation, test cases for customizations, extensions, configurations, and integrations.
+• Performing functional, integration, and regression testing;
+• Creating test plans and detailed test cases using AzureDevops or similar tool (preferably AzureDevops);
+• Documenting any defects found during the daily testing activities and track them to resolution.
+• Supporting DevOps development teams test planning and execution, and code reviews.
+• Participating in release activities and post-release support activities.
+• Supporting user story mapping, sprint planning, estimation and feature walk-throughs.
+• Participating in user acceptance testing and maintenance of documentation.
+• Reviewing the test plan implications of Change Requests.
+• Contribute to/prepare ad-hoc reports and presentations for PMO, Clients etc.
+• Maintaining currency with industry best practices with regards to testing and test automation, and;
+• Remaining current with CRM/D365 and/or D365 F&O technologies and potential system implications related to Vendor release upgrades
+• Must have 1+ year of experience related to supporting software development test activities of a CRM system, Microsoft Dynamics CRM/ D365 or D365 F&O
+• Must have demonstrated experience in one of these tool sets, Selenium, RSAT or EasyRepo
+• Demonstrated experience developing software test plans & test cases.
+
+• Outstanding written and verbal communication skills.
+• Bachelor's Degree in business related field, engineering, or a related scientific or technical discipline with at least 2+ years of experience.
+• Preferred Specflow with Selenium using BDD (Behavior Driven Development)
+• Understanding Gherkin Language and Cucumber
+• Basics knowledge on Object-Oriented Programming
+• Coding skills in one or more of these: C#, Phython, Java Pytest
+• Knowledge on SQL and API testing
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 03
+
+1* Expertise in Automation and Manual Testing*
+
+2* Experience in the Banking sector.*
+
+3* Experience with Oracle Collateral Management (ELCM)*
+
+4* Should have hands-on in SQL database*
+
+5* Working Experience in Agile Software Methodology (Scrum and Kanban)*
+
+6* Hands-on experience in karate, API Testing,Selenium, Cucumber, WebDriver, Maven, TestNG, and JUnit*
+
+7* Proficiency in test case creation and execution, test data identification, development of automated test script and execution*
+
+8* Excellent problem-solving skills and ability to think critically.*
+
+9* Strong verbal and written communication skills.*
+
+Mandatory Skills – Jira, Java, selenium, Karate, Cucumber, sql
+
+Relevant Experience: 4 years to 6 years
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 04
+
+Responsibilites:
+
+Review and analyze system specifications Collaborate with QA Engineers as well as software developer or project manager to develop effective strategies and test plans Execute test cases (manual or automated) and analyze results Evaluate product code according to specifications Create logs to document testing phases and defects Report bugs and errors to development teams Help troubleshoot issues Conduct post-release/ post-implementation testing Work with cross-functional teams to ensure quality throughout the software development lifecycle
+
+Requirements:
+
+Proven experience as a Quality Assurance Tester or similar role Experience in project management and QA methodology Familiarity with Agile frameworks and regression testing is a plus Ability to document and troubleshoot errors Working knowledge of test management software (e.g. qTest, Zephyr) and SQL Excellent communication skills Attention to detail Analytical mind and problem-solving aptitude Strong organizational skills BSc/BA in Computer Science, Engineering or a related field
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 05
+
+Primary Skills - Java Automation , QA background ( Good to have)
+
+2+ years of experience in software quality assurance, with a focus on web and mobile applications
+
+Strong understanding of QA methodologies, tools, and processes
+
+Experience with test automation.
+
+Proficiency in programming languages such as Java
+
+Hands-on experience with Agile development methodologies (Scrum, Kanban)
+
+Excellent communication skills with the ability to collaborate effectively with cross-functional teams
+
+Proven ability to work independently, prioritize tasks, and meet deadlines in a fast-paced environment
+
+ISTQB or similar certification is a plus
+
+Java , Automation
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 06
+
+ Qualified Candidates Need:
+
+    6+ years Software QA Automation Engineer experience with a thorough understanding of QA methodology in manual and automated testing of Web UI and API using Postman, Selenium, Rest Assured and other tools
+    6+ years working experience in Agile development methodologies, Change Management, Change Control, and Compliance methodologies
+    6+ years performing unit testing, automated testing and regression testing of all software, load testing, and performance testing
+    6+ years experience understanding and testing in an environment that includes SQL-based databases, HTML, CSS, JavaScript, .NET, XML, and JSON
+    6+ years experience writing test plans, test cases, executing on test plans, and documenting and communicating test results
+    3+ years experience testing databases by writing, executing and troubleshooting sql queries.
+    Ability to troubleshoot system problems, determine root cause, recommend and implement solutions
+    Flexible, able to multi-task, context switch, and manage prioritizing multiple tasks and deadlines
+    Excellent written and verbal skills, ability to communicate information in clear and concise language to a wide audience varying in levels of technical expertise
+    Aptitude for learning new concepts and procedures
+    Strong customer service orientation
+    Good written and oral communication skills
+    Good interpersonal skills
+
+Bonus if you also have:
+
+    Experience with automation platforms such as JMeter, Selenium or others.
+
+Essential Job Duties and Responsibilities:
+
+    Actively participate in the team review of product definitions, requirements, design specifications, defect review and prioritization with other members from the QA, Development and Project Management departments
+    Offer advice and insight on system/ application requirements and the associated effort required for quality assurance
+    Work with product teams to optimize release process and strategy
+    Execute on QA testing methodologies, best practices, manual testing, automated testing, and regression testing to ensure code is functioning as defined
+    Support an automated test strategy that exercises end-user workflows and provides a framework for on-going performance/load tests
+    Evaluate and implement automated test tools where appropriate. Implement automated regression, stress, and load testing methodologies
+    Prepare test plans and test cases to ensure the product adheres to the system/application requirements
+    Ensure that QA test scripts follow established standards, fully exercise targeted functionality, and are technically sound and executed properly in all phases of testing
+    Analyze testing output based upon predefined input. Track and report test results to management, in the form of metrics
+    Work with product developers and IT Team to resolve defects
+    Provide management level status updates on assigned initiatives
+    Working with peers within the organization, enhance, document, formalize, and maintain the Product Development Lifecycle and Agile Framework
+    Coordinate the testing environments as it pertains to project timelines
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 07
+
+ Responsibilities:
+
+    Conduct thorough manual testing to ensure the quality and functionality of software products.
+    Develop comprehensive test plans, test scenarios, and test cases based on project requirements and specifications.
+    Execute test cases manually and accurately record test results, identifying defects and issues.
+    Collaborate with cross-functional teams to analyze test results and prioritize bug fixes.
+    Participate in test case reviews, requirement analysis, and test strategy discussions.
+    Document and maintain test artifacts such as test plans, test cases, and test reports.
+    Utilize testing tools effectively to streamline the testing process and improve efficiency.
+    Provide timely and clear communication regarding testing progress, issues, and risks.
+
+Additional Skills:
+
+    Proficiency in automation testing using Selenium or other similar tools.
+    Basic understanding of SQL for database querying and data validation.
+    Experience in database testing, including data integrity, performance, and scalability testing.
+    Familiarity with Agile methodologies and software development life cycle (SDLC).
+    Strong analytical and problem-solving skills with keen attention to detail.
+    Ability to work independently as well as part of a team in a fast-paced environment.
+    Excellent communication and interpersonal skills, with the ability to effectively interact with stakeholders at all levels.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 08
+Solution Architect
+
+Job Overview:
+
+We are seeking a highly skilled Solution Architect with expertise in Cloud, Integrations, and Database Architecture to join our team. The ideal candidate will have strong expertise in SEMI Standards & Factory Automation, along with experience in designing complex solutions.
+
+Mandatory:-
+
+•Certifications in Microsoft Azure (AZ-900, DP-900, AI-900, PL-900), Google Cloud (Professional Cloud Architect, Professional Data Engineer), Oracle Cloud (Oracle Cloud Infrastructure 2019 Architect Associate, Oracle Autonomous Database Cloud 2020 Certified Associate), Cyber Security, and DevOps.
+
+Preferred Skill Set
+
+Primary
+
+    SEMI Standards, Factory Automation
+
+    Solution, Software Architecture
+
+    System Infrastructure, Monitoring
+
+    Database, Information Technologies
+
+    Expertise in RPA, DevOps, Multi-Cloud, Big Data, Analytics, IoT/IIoT
+
+    Requirements Analysis, System Design, Technical Proposal
+
+    UiPath – Solution Architect
+
+    cloud and database integration. Public and private cloud.
+
+    Understanding, design and set up cloud environment.
+
+    Understanding of security needs etc.
+
+    Exposure to integration technology. API …
+
+    Data Lake – EDL
+
+Secondary
+
+    Incorta
+
+    Liferay
+
+    High Chart
+
+    ReactJS
+
+Job Types: Full-time, Part-time
+
+Pay: ₹2,000,000.00 - ₹3,150,000.00 per year
+
+Expected hours: 40 per week
+
+Benefits:
+
+    Health insurance
+
+Schedule:
+
+    Monday to Friday
+
+Experience:
+
+    Azure: 5 years (Required)
+    Solution architecture: 10 years (Required)
+    DevOps: 4 years (Required)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 09
+
+We are looking for a Test Automation Architect to join our team remotely.
+The project team is responsible for implementing a live-person messaging option for our leading healthcare client. It is a new initiative, and over 30 lines of business will go live with this messaging/chat option. Joining the team, you will experience firsthand how we're enhancing customer experience by delivering quicker responses and more precise assistance to visitors on both our web portal and mobile applications.
+
+Responsibilities:
+
+    Design, implement, and maintain the test automation framework and strategy within an organization.
+    Collaborate with QA and dev teams to understand testing requirements and translate them into automated test cases.
+    Develop a comprehensive test strategy that covers functional, regression, performance, and security testing of web and mobile applications. Understand technical solution details and aid the development team in troubleshooting issues as necessary.
+    Develop, maintain, and execute automated test cases using tools like Playwright, Selenium, Appium.
+    Define coding standards and best practices for test automation. Ensure consistency across test scripts and adherence to industry standards.
+    Optimize test execution time by parallelizing test runs and minimizing resource usage. Identify bottlenecks and address them proactively.
+    Utilize SQL queries for relational database manipulation and NoSQL to ensure data integrity and system functionality during testing.
+    Perform comprehensive testing on RESTful and SOAP web services to ensure the interoperability, integrity, and reliability of application interfaces.
+    Effectively plan and define test strategies, provide accurate QA estimates, and generate detailed reports.
+    Work closely with the product owners, scrum masters, and team leads to establish clear acceptance criteria for testing procedures
+    Train QA engineers and developers on using the framework effectively. Provide ongoing support and guidance.
+
+
+Qualifications
+
+    5+ years of experience in developing test plans, building tools, and test frameworks. Strong experience in automation scripting/tools/ tests harness like Playwrite, Selenium, Appium, Karate, RestAssured, JUnit, TestNg.
+    4+ years of experience testing in Java, Javascript, Typescript, Unix, SQL, NoSQL, and Web Services (Rest & SOAP) environments.
+    2+ years of supervisory and lead experience is a must.
+    Computer Science fundamentals and experience in object-oriented design, data structures, algorithms, and building frameworks using different automation design patterns.
+    Solid understanding of development lifecycles, testing methodologies, and QA processes.
+    Understanding of CI/CD pipelines and integration with tools like Jenkins, CircleCI, or Azure Pipelines.
+    Experience with Mobile Applications automation.
+    Experience working in an Agile environment.
+
+Nice to have:
+
+    Knowledge of Live Person.
+    Knowledge of Cyara.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 10
+
+Key Responsibilities:
+• Collaborate closely with product managers, developers, and designers to gain a deep understanding of feature requirements and acceptance criteria.
+• Participate actively in feature design discussions and offering valuable insights on testability and quality considerations.
+• Provide accurate effort estimation for automation work, ensuring realistic timelines and resource allocations.
+• Formulate comprehensive test plans and strategies tailored to the assigned features, encompassing various aspects such as functional, non-functional, and edge cases.
+• Craft, implement, and maintain automated test suites aimed at validating the functionality, performance, and reliability of the features.
+• Utilize expertise in data modeling and understanding of data relationships to design and execute tests for big data systems.
+• Conduct manual testing when necessary, particularly for scenarios that are challenging to automate or require human judgment.
+• Vigilantly monitor automated test execution and meticulously analyze results to pinpoint defects, regressions, and areas for enhancement.
+• Collaborate closely with developers to prioritize and tackle identified issues, ensuring their prompt resolution and upholding a high standard of product quality.
+• Provide regular updates on testing progress, including comprehensive insights into test coverage, defect metrics, and risk assessment, to pertinent stakeholders.
+• Actively engage in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives, to make meaningful contributions to the overall success of the team.
+• Mentor and coach junior members of the testing team, impart best practices, and nurture a culture of continuous learning and improvement.
+• Stay abreast of emerging technologies, industry trends, and best practices in software testing and test automation.
+• Drive improvements in test automation infrastructure, processes, and tools to enhance efficiency and effectiveness.
+
+What You'll Need to be Successful
+
+Qualifications:
+• 8+ years of experience in software testing, with a focus on automation engineering.
+• 5+ years of experience on various testing tools and frameworks like Junit, Selenium, Cucumber, JMeter, Rest Assured
+• 5+ years of experience creating automated test suites for Rest API, UI and preparing test reporting
+• Bachelor's or Master's degree in Computer Science, Engineering, or related field.
+• Proficiency in Python and/or Java and/or Go Lang programming languages for test automation, with experience in developing robust, scalable automated test suites.
+• Extensive experience in testing cloud-based applications, with specific expertise in AWS cloud services and technologies.
+• Strong understanding of data modeling principles and experience with testing big data systems.
+• Solid understanding of API testing principles and experience with developing and executing API test automation using industry-standard tools and frameworks.
+• Proven ability to work effectively in Agile environments, collaborating closely with development teams to integrate automated testing into CI/CD pipelines.
+• Excellent communication and interpersonal skills, with the ability to effectively convey complex technical concepts to both technical and non-technical stakeholders.
+• Strong problem-solving abilities and attention to detail, with a track record of driving quality improvements in software development processes.
+• Ability to lead conversations, including senior management, and take on key roles independently while working with management and cross-teams.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 11
+
+You might be a good fit for this role and our company if you say, “that’s me!” to most of the following:
+• I have at least 2 years of experience
+• I am detail oriented with the proficiency to identify mistakes
+• I can review and analyze system specifications
+• I can create and execute detailed and well-structured test plans and test cases (manual or automated), analyze results and provide comprehensive reports.
+• I am an engineer who can understand the code written in JavaScript, React, HTML/CSS, and ROR
+• I have experience in automated testing tools like Selenium, Appium, JUnit, TestNG, etc.
+• I can work on multiple projects at one time
+• I have can-do problem-solving and critical-thinking skills
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 12
+
+What you will do:
+• Author extensible, manageable REST API automation suite.
+• Works closely with the Development team to release high quality, predictable releases.
+• Develop detailed understanding of overall product architecture, engage at design time to access Automation and Test environment impact.
+• Build Test plans, create prioritized regression suites.
+
+Experience Range:
+
+You have 2 - 4 years of proven automation and quality assurance experience with any product.
+
+Technical Expertise:
+• Strong hands on programming experience in either Java or Python.
+• Deep understanding of REST APIs, have built Test Suites validating product functionalities using API automation frameworks like tavern, postman etc.
+• Good to have an understanding of the AWS/Mobile App Automation. environment. ALBs, VPCs, IAM roles.
+• Understanding of Docker is nice to have.
+• Good understanding of Object oriented concepts
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 13
+
+What will you do:
+• Be a key participant in creating a Quality First culture. Promote Shift-Left testing
+• Engage in continuous testing activity throughout agile development iterations to ensure zero defects
+• Develop and execute automated tests – Functional, Regression, Smoke and Load/Performance tests
+• Participate in iteration planning, providing input on required test tasks, process, and associated effort for the selected user stories
+• Drive improvement of CI/CD processes, including automated test development and strategy
+• Monitor, manage and maintain test runs and provide clear reporting of test results and metrics
+• Mentor others on best practices for test automation, performance testing, CI/CD and QA processes
+• Participate in QA collaborations across the wider organisation and help propagate industry best practices in QA
+• Be collaborative and work to advance the business, product and team
+
+Qualifications:
+
+Experience
+
+General
+• 8+ years experience in software testing or 6+ years experience with a master's level degree
+• Understanding of application security concepts
+• Experience working within dispersed non co-located teams
+• Experience in agile methodologies and processes
+• Experience working with JIRA
+
+Technical
+• Demonstrable experience of having worked with and built or extended frameworks for automated testing
+• Experience developing automated tests for web applications
+• Experience using various tools such as Nightwatch/Selenium WebDriver/BrowserStack, Specflow/Cucumber/Postman and JMeter/Taurus
+• Experience in performance, load and reliability engineering
+• Experience in analysing and troubleshooting complex issues and critical production problems
+
+Other
+• Excellent written and verbal communication skills
+• Excellent attention to detail
+• Demonstrable high standards of excellence
+• Track record of a high level of technical judgement, ownership, and execution
+• Proven ability to make things happen and meet commitments
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 14
+
+Role Overview
+=============================
+• Possesses a strong knowledge of programming, tools, architecture patterns, and BDD.
+• Ensures Performance and Scalability for applications and platforms responsibilities.
+• Works closely with software engineers to build quality by ensuring proper test and code coverage, configuration quality, monitoring, early performance testing.
+• Documents performance test strategies and test plans; translates complex system requirements and specs into test requirements and testing methods
+• Participates in requirements review and performance testing activities; monitors resolutions and retains documentation
+• Identifies and implements complex automation efforts; replicates and resolves production issues for single application.
+• Defines and implements best practices for end-to-end application performance management solutions; focuses on emerging technologies.
+• Translates complex system requirements and specs into test requirements and testing methods.
+• Directs evaluation of manual testing tools for automation opportunities.
+• Experience overseeing the coding, testing, and review process for unit and integration testing.
+• Ensured quality of one or more application codebases and alignment with development standard.
+• Building automation frameworks, acceptance and integration test automation scripts, integrating with other tools.
+
+All About You
+=============================
+
+• Strong Experience in Performance Engineering for Cloud-native applications using Agile methodologies
+• Experience in Jmeter, Java Micro Benchmark Harness (JMH), Micro Services, NATS or Equivalent messaging services.
+• Expertise in Java, Spring Boot, Containers(PAAS)
+• Experience in Online / Real time scalable solutions
+• Experience in CI and CD
+• Involved and spearhead software performance initiatives
+• Result oriented individual with Automation experience and Code Quality
+• Excellent Communicator
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 15
+
+Roles and Responsibilities
+• Review requirements, specifications and technical design documents to provide timely and meaningful feedback.
+• Create detailed, comprehensive and well-structured functional, system, and regression test plans and test cases.
+• You will understand the requirements and would write automation tests for integration, load, and performance.
+• Estimate, prioritize, plan and coordinate testing activities.
+• Write and Implement Tests using Selenium and Java.
+• Write and Implement Load and performance tests.
+• Design, develop and troubleshoot automated test scripts to validate the technical and functional integrity of web and mobile-based application components, backend API, and reports.
+• Collect, analyze and interpret test metrics.
+• Summarize test data and report findings.
+• Liaise with internal teams (e.g. developers and product managers) to identify system requirements.
+• Monitor debugging process results.
+
+Critical Functional Skills
+• Exposure to best practices in SQA and software development, including code reviews, debugging, troubleshooting and CI processes
+• Strong knowledge of Rest-Assured/API testing, Selenium and Appium/Robotium.
+• Hands-on experience in performance tools.
+• Strong in Core Java fundamentals and Object-Oriented Programming concepts
+• Proven work experience in software quality assurance.
+• Strong knowledge of software QA methodologies, tools and processes.
+• Experience in writing clear, concise and comprehensive test plans and test cases.
+• Hands-on experience with both white box and black-box testing.
+• Hands-on experience with functional and non-functional testing.
+• Experience working in an Agile/Scrum development process.
+• Excellent communication skills with the ability to present complex technical information in a clear and concise manner to a variety of audiences, both technical and non-technical
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 16
+
+Roles and Responsibilities:
+
+• Develop applications with focus on performance, scalability, and reusability.
+• Rapidly implement solutions for production issues.
+• Design and develop medium sized applications with little direction.
+• Setup and review SLAs for Production applications and how they can be
+mirrored in an NFT environment and measure against those defined SLAs
+• Analyze and provide performance recommendations on breached SLAs to the
+Function Heads.
+• Manage governance of performance to SLAs and ensure all systems are
+operating within the defined SLAs.
+• Develop strategies to pro-actively alert on breached SLAs.
+• Architect and track performance improvement actions to closure.
+• Develop Performance Testing strategy for implementation with a focus on
+automated testing
+• Understand workload analysis and impact on critical business processes,
+forecasting analysis for capacity and growth
+• Lead Root Cause Analysis of production incidents and come up with short,
+medium and long term fixes as needed
+
+All About You
+
+10 plus years of experience as a performance engineer .
+1. Ability to create, execute and maintain scripts in jmeter.
+2. Understand the work loads - ex: how to perform log file analysis, run queries and monitor load during performance testing .
+3. Be able to understand user behavior and scenarios during peak and off peak time’s and stimulate them in performance environments .
+4. Work closely with application development, Architecture, Infrastructure and Engineering teams for test and data planning, analysis required, and for defining success criteria.
+5. Capable of handling projects end to end individually which involves activities like- requirement gathering, designing scenario, execution & analysis of diff. tests and reporting results with recommendations.
+6. Prepare performance Test Strategy, Test plan, Test closure report, workload model for web application, API, etc.
+7. Good experience in analyzing system architecture using shared resources, CPU, memory, storage, networks .
+8. Able to design load tests by understanding the production work loads.
+Working experience with APM tools like - Appdynamics, dynatrace etc.
+9. Java profiling experience- heap and thread dump analysis is desirable .
+10. Able to work in flexible shifts
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 17
+
+ The performance testing team is a central team in eGain that caters to different flavours of
+eGain product. We are working on adding other products to this team as well.
+Duties/Responsibilities
+
+    Understand the business/ functional requirements and technical specifications to develop/enhance load Test Scripts.
+    Understand/explore various scenarios which could cause performance bottlenecks .
+    Explore performance issues in the application using APM tools/current performance test data.
+    Debug, troubleshoot and collaborate with appropriate technical teams.
+    Drive continuous improvement into the Performance Testing process.
+    Drive automation of various repetitive tasks to reduce the turnaround time of test execution/analysis Understand and script complex application behaviour.
+    Comprehensive reporting of performance benchmarks to appropriate stakeholders.
+
+Education and Experience
+
+    BE/B-Tech
+    Expertise in a load tests tool like JMeter, understanding of Object-Oriented Programming (Java, C++, C#), SQL Queries, and good troubleshooting skills (Thread dump, Heap dump & GC Analysis)
+    Good understanding of web-based applications, databases & browser concepts (HTTP, connections, cookies, caching, and more)
+    Strong interpersonal skills, high motivation, ability to learn quickly, and must be a self-starter
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 18
+
+Expertise in creating automated tests for UI and Mobile journyes
+
+Hands on experience in any Java IDE Eclipse, IntelliJ
+
+Strong understanding and hands on experience on Core Java, Maven
+
+Strong understanding and hands on experience on Selenium WebDriver APPIUM & Grid
+
+Hands on experience on Cucumber, BDD methodology, Gherkin syntax & TDD
+
+Hands on experience on GIT, Jenkins, JIRA & ConfluenceRequest-Response mechanism
+
+Working experience in Agile methodology / SAFe with in-sprint automation
+
+Working experience on CI/CD Pipeline concept along with groovy scripting.
+
+Basic knowledge of any cloud based infrastructure platforms, preferably AWS.
+
+Strong written and verbal communication skills
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 19
+
+Responsibilities
+• Develop and execute test plans for Android and iOS apps
+• Conduct manual and automated testing of all aspects of mobile apps, including functionality, performance, usability, and security
+• Identify and report bugs to the development team
+• Work with the development team to resolve bugs and ensure that all issues are fixed before release
+• Develop and maintain automated testing frameworks and scripts
+• Keep up to date with the latest mobile testing tools and technologies
+• Collaborate with other QA engineers and product managers to ensure the quality of all mobile apps
+
+Qualifications
+• Bachelor's degree in Computer Science or a related field
+• 5+ years of experience in mobile QA engineering
+• Strong understanding of Android and iOS app development
+• Experience with both manual and automated testing
+• Experience with test automation tools and frameworks, such as Espresso, Appium, and Selenium
+• Experience with performance testing tools, such as JMeter and Gatling
+• Experience with cloud-based testing platforms, such as Sauce Labs and BrowserStack
+• Experience with usability testing
+• Excellent analytical and problem-solving skills
+• Ability to work independently and as part of a team
+• Strong communication and interpersonal skills
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 20
+
+• Proficiency in Object Oriented Programming language e.g., Java, Python, etc
+
+• Extensive experience testing mobile platforms, specifically iOS and Android.
+
+• Hands-on experience working with mobile test automation tools e.g., Appium, Calabash, Espresso; IDEs such as XCode, Android Studio; and network monitoring tools such as Charles Proxy or similar.
+
+• Practical experience testing Webservices/RESTful APIs with tools such as RESTAssured or Postman, and testing Microservices with tools such as PACT (contract testing).
+
+• Experience with iterative Lean/Agile methodologies e.g., Scrum or Kanban.
+
+• Prior experience with CI/CD tools such as GitLab CI, Jenkins, Bitrise etc.
+
+• Knowledge of version control with GIT and a good understanding of branching and merging concepts.
+
+• Good understanding of approaches such as BDD, TDD, ATDD and how it can be applied to test both backend services and frontend.
+
+• Experience of both functional and non-functional – security performance, accessibility etc – aspects of testing.
+
+• Experience diagnosing, reporting, tracking, and resolving defects and issues using tools such as JIRA, Trello etc.
+
+• Practical experience with public Cloud infrastructures such as AWS, Azure, Docker, Kubernetes, and Cloud testing platforms such as BrowserStack, AWS Device Farm, Saucelab etc
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 21
+
+Roles & Responsibilities:
+• Work close with all product development teams to analyse, design, and deliver a high-quality solution to meet up with customers' requirements.
+• Get familiar with product core and business logic, improve product awareness to improve the requirement analysis ability and test quality.
+• Design and execute the automation scripts by using different automation frameworks and tools.
+• Design testing scenarios and test cases that will demonstrate conformance to all functional and non-functional requirements, relative to the test level, as defined in business or technical specifications.
+• Executes tasks related to the production of the test plan, test cases, test scripts, and test data.
+• Embrace the Agile development model adopted by the group and promote it.
+• Collaborates and communicates with management, internal, and outsourced development partners regarding test status, project progress, and issue resolution, to make the quality improvement.
+• Provides guidance and mentoring to less- experienced staff members.
+
+Required Skills (Technical Competency):
+• Minimum 3-5 years on back-end service testing, fully understand on microservice, cloud, platform system testing and integration testing:
+• Familiar with micros service architecture. Hands on experience in service testing
+• Test automation of RESTful and gRPC APIs and cloud solutions, including REST validation (e.g., REST-assured, Test Rail)
+• API testing tools e.g., Postman, Swagger, JMeter
+• Additional frameworks and tools including Cucumber and Test Rails, Jira
+• Understand agile/scrum process, be a good team member. Familiar with software development lifecycle, and software quality management process
+• Understand microservice test strategies for cloud architecture and clarify and analyse technical requirements before developing comprehensive testing plans based on system testing, integration, and user acceptance testing.
+• Solid skill to analysis and design the test plan, test case, submit bug based on business requirement and logical.
+• Ability interacts with Developers, PM (Program Manager), PO, and Scrum QA, SysQA, solid skill to share and describe and trace issues with cross-teams.
+• Must be able to complete assigned activities independently with minimal supervision, Be proactive in work status update.
+• Critical thinking/problem solver, be proactive in solving problems.
+• Experience with either Java, Golang, Selenium or JavaScript, skills on API automation developer genuine experience
+• Fast learner and flexible, be able to adapt to new areas and technologies with less monitoring.
+
+Desired Skills:
+• Good verbal and written communication skills
+• Know about DevOps culture, such as CI/CD tools, Release train and Canary release.
+• Experience on End-to-End backend platform testing
+• Experience with Git, Kubernetes, Docker etc
+• Working Experience with AWS (Amazon Web Services) / Azure.
+• Basic concepts of AI (Artificial Intelligence).
+• Good team player
+• Quick learner
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 22
+
+In the next 12 months you will:
+• Design, develop, and maintain automated test scripts for web and mobile applications
+• Work with the development team to identify and prioritise test cases
+• Execute automated tests and troubleshoot any issues
+• Analyse test results and report on the findings
+• Stay up-to-date on the latest automation technologies
+• Design, develop, and execute automated API tests.
+• Decure APIs against common vulnerabilities.
+• Write quality code in Python
+• Exercise your skills in Selenium IDE, Selenium Base, and other automation tools - Knowledge of Secured API testing
+• Solve problems and be an integral part of the Verto mission
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 23
+
+Role:
+• Participate in requirements discussion, test planning, test data creation and execution of testing Plan in adherence with MasterCard standards, processes and best practices.
+• Work with project team to meet scheduled due dates, while identifying emerging issues and recommending solutions for problems and independently perform assigned tasks.
+• Design and develop test automation scenarios to validate system to system interfaces and complete software solutions (for API and UI tests)
+• Interact with business and development stakeholders to define test plans and schedules
+• Translate complex system requirements into test requirements and testing methods
+• Identify and implement complex automation efforts, including refactoring of automation code where needed
+• Develop test scripts and perform automated and manual exploratory testing to ensure software meets business and security requirements and established practices.
+• Generate test data for defined test cases, recognize test environment preparation needs, and execute existing test plans and report results
+• Own responsibility for defect management and oversight and escalation of issues discovered during the testing phase
+• Document as per Software Development Best Practices. Follow MasterCard Quality Assurance and Quality Control processes.
+• Document performance test strategies and test plans, and execute performance validation
+• Collect quality metric data and communicate test status/risks to stakeholders
+• Act as first-review for project-level reviews, walkthroughs and inspections
+• Provide technical support and mentoring to junior team members
+• Perform demos of new product functionality to stakeholders
+• Develop business and product knowledge over time.
+• Identify opportunities to improve effectiveness and time-to-market
+
+All About You:
+• Bachelor's degree in Information Technology, Computer Science or Management Information Systems or equivalent work experience.
+• Technical skills in Java, Selenium, Cucumber, Soap UI, Spring framework, REST, JSON, Eclipse, GIT.
+• Excellent SQL skills to work on large and complex data sources and capability of comprehending and writing complex queries.
+• Experience testing APIs (REST and SOAP), web user interface, and/or reports.
+• Experience in implementing CI/CD build pipelines with tools like Git/Bit Bucket, Jenkins and Maven
+• Successfully validated one or more application codebases via automation, for new feature functionality and regression testing
+• Experience working in Agile teams and conversant with Agile/SAFe tenets and ceremonies. Strong analytical and problem-solving abilities, with quick adaptation to new technologies, methodologies, and systems.
+• Excellent English communication skills (both written and verbal) to effectively interact with multiple technical teams and other stakeholders.
+• High-energy, detail-oriented and proactive, with ability to function under pressure in an independent environment along with a high degree of initiative and self-motivation to drive results
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 24
+
+Must have :
+• Working experience in API Testing
+• Manual Test Design , Execution for ensuring API functionality
+• Defect Management
+• Status reporting
+• Agile project experience
+
+Good to have:
+• Good to have API automation experience
+• Designing and implementing API testing frameworks and strategies
+• Automation scripting, Execution
+• CRM and SFDC knowledge
+• Java scripting
+• Selenium automation experience
+
+
+
+
+
+MANUAL QA JDs
+
+
+
+
+
+Job Description 01
+
+• Develop test plans, test cases, perform test execution, conducti defect tracking, and assist with and coordinate user acceptance testing, performance testing, and vulnerability testing activities.
+• Establish schedules and estimates
+• Develop test plans, test cases, track defects and develop automated tests
+• Work with end users to assist with and coordinate user acceptance testing activities
+• Report project activities to management, including progress, issues, risks, mitigations, resolutions, successes, and lessons learned
+• Understand project timelines and priorities
+• Work with blended teams of State and vendor resources
+
+Qualifications
+• 2+ years of experience as a Tester
+• 2+ years of experience: in quality assurance managing testing across multiple projects, with complex functional domains, within a matrix organization.
+• Experience in Dynamics CE/CRM tenting will be an added advantage
+
+Additional Information
+• 2+ years of experience developing test plans, test cases, tracking defects and developing automated tests.
+• 2+ years of experience in managing functional test planning and test execution activities.
+• 2+ years of experience using Jira, Xray Test Management, or related Jira plug-ins as the defect tracking and test management tools.
+• Exposure in quality assurance of projects with a focus on any CRM/ERP software.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 02
+
+Job Title: Manual Test Engineers | Location: Pune | Experience: 2- 4 years | Position Type: QA Engineer | 2+ Years | fluidonomics QA Engineer | 2+ Years Openings for manual test engineers in Banking / Non Banking Finance / Insurance domain. Required Skills Developing Test scenarios / cases Execution of test cases Creation of defectMaintaining defect lists Planning of testing tasks Documentation of test results and reports Be a team- player with open and proactive communication with all stakeholders Qualifications 2- 4years experience (Minimum 1 year experience in Banking / Non Banking Finance / Insurance domain) Must be able to meet deadlines promised to our clients Good communication skills are a must Desire to take initiative and be a self- starter.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 03
+
+Develop testing strategy, test plan and test scenarios for new feature set in existing applications and for new applications as well.
+Perform Root Cause analysis for captured bugs
+Prioritize and Categorize captured bugs
+Develop, prioritize, and execute manual and automated regression test cases/scripts on releases.
+Identify and create test data for sprint test demo
+Create positive and negative tests for User Stories
+
+Expected skill set (MUST HAVES):
+Excellent command of Manual Testing and Automation Testing (Any tool).
+Good knowledge of UI automation using Selenium or equivalent
+Good knowledge in writing advanced SQL queries and data validation techniques
+Good Experience of working in an Agile environment and
+Expected skill set (Good to have)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 04
+
+• Good knowledge of Test case & Test Scenarios preparation.
+• Analyse users stories/ use cases/ requirements for validity and feasibility
+• Good logical thinking and analytical skills.
+• Collaborate with the team to develop effective strategies & test plans
+• Execute all levels of testing as a Software Tester particularly Manual testing(System, Integration and Regression)
+• Create logs to document testing phases and defects
+• Detecting and tracking defects and inconsistencies
+• Create logs to document testing phases and defects
+• Help troubleshoot issues
+• Conduct post-release/ post-implementation testing.
+
+What's On Offer
+• Competitive compensation commensurate with role and skill set
+• Medical Insurance Coverage
+• Social Benefit’s.
+• A fast-paced, growth-oriented environment with the associated (challenges and) rewards
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 05
+
+Co-ordinates work on multiple phases of a project and/or projects of moderate scope or possibly in more complex assignments.
+
+Is involved in hands-on testing activities. Supports and works with QA Analysts.
+
+Works on quality assurance projects using available test frameworks and tools and establishing plans for projects with on-time and on-budget project goals.
+
+Responsible for a certain test area and conditions as well as results evaluation, problem resolution and planning.
+
+Ensure compliance with testing best practices and standards.
+
+Scopes and creates quality assurance plans, data, procedures, and scripts.
+
+Scopes out and creates test coverage, designing specifications and defining conditions for given requirements. Maintaining the integrity of the test environment.
+
+Interprets, reviews and reports test activities and results in accordance with project plans.
+
+Identifies test issues reporting risks and defining regression tests for current and future projects and logs these as best practices and learning points.
+
+Understands business end-to-end processes and participates in production verification and validation.
+
+Contributes to management reporting including appropriate test metrics on planning, defects and execution.
+
+Deputises for Lead as required.
+
+Qualifications
+
+Bachelor’s Degree in Computer Science, Information Systems, or other related field, or equivalent work experience
+
+ISTQB Foundation
+
+Additional course or certification in Quality Assurance
+
+Skills
+
+Well versed with testing Desktop applications.
+
+Manual Testing
+
+Test preparation and execution
+
+Reporting
+
+Client interaction (Good verbal and written communication
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 06
+
+• Review and analyze system specifications
+• Collaborate with QA Engineers to develop effective strategies and test plans
+• Execute test cases (manual or automated) and analyze results
+• Evaluate product code according to specifications
+• Create logs to document testing phases and defects
+• Report bugs and errors to development teams
+• Help troubleshoot issues
+• Conduct post-release/ post-implementation testing
+• Work with cross-functional teams to ensure quality throughout the software development lifecycle
+
+What makes you a great fit:
+• Proven experience as a Quality Assurance Tester or similar role
+• Experience in project management and QA methodology
+• Familiarity with Agile frameworks and regression testing
+• Ability to document and troubleshoot errors
+• Working knowledge of test management software and SQL
+• Excellent communication skills
+• Attention to detail
+• Analytical mind and problem-solving aptitude
+• Strong organizational skills
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 07
+
+The candidate should possess the following
+• Hands on experience on automation (Selenium) is a must.
+• Hands on experience writing and executing test cases.
+• Well aware of the various processes involved in QA
+• Well aware of the various processes involved in deployment sign-off.
+Skills : QA, Selenium, manual, SDLC, test cases
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 08
+
+    Good understanding of all phases of testing lifecycle
+    Good analytical and problem-solving skills
+    Good knowledge on agile development process
+    Knowledge of how to perform software deployment.
+    Experience in identification of test scenarios, write test cases & build test plan.
+    Acquire and manage test data required by the test plan.
+    Estimate testing effort and Track testing progress, Proactively identify and escalate project risks.
+    Document and report test results in a timely manner using provided systems for test results reporting and defect tracking.
+    Perform Sanity and regression testing.
+    Self-motivated, proactive, works well under pressure.
+    Proficiency in specifying and implementing testing environment infrastructure.
+
+Good to Have:
+
+    Prior work experience in Oil and Gas industry
+    Experience/ knowledge of Performance testing using VSTS, JMeter
+
+Additional general requirements:
+
+    Excellent Verbal and Written communication skills
+    Collaborates well with the team.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 09
+
+3-5 years of experience in software quality assurance, with a focus on manual testing
+
+Strong understanding of software QA methodologies, tools, and processes
+
+Experience creating and executing manual test cases in a structured testing environment.
+
+Familiarity with issue tracking systems (e.g., JIRA) and version control systems (e.g., Git)
+
+Excellent analytical and problem-solving skills, with a keen attention to detail
+
+Strong written and verbal communication skills, with the ability to effectively communicate technical information to both technical and non-technical stakeholders.
+
+Ability to work independently and collaboratively in a fast-paced environment.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 10
+
+Key Responsibilities:
+
+    Conduct thorough manual functional testing of web and mobile applications to identify defects and ensure the reliability of the product.
+    Engage in backend testing to validate database functions and interactions.
+    Perform API testing to ensure smooth integration and proper functionality of services.
+    Write clear and concise test cases within JIRA, ensuring traceability and coverage.
+    Collaborate with cross-functional teams in an Agile environment to refine requirements, provide feedback on features, and report bugs.
+    Attend and actively participate in all Agile ceremonies, with a focus on delivering results for our weekly sprints by every Thursday.
+    Maintain clear documentation of test results and communicate findings effectively with the development team for prompt resolution.
+    Contribute to continuous improvement initiatives within the QA process.
+
+
+Qualifications:
+
+    Bachelor’s degree in Computer Science, Engineering, or a related field.
+    4-7 years of hands-on experience in manual testing of web and mobile applications.
+    Proven experience with functional, backend, and API testing.
+    Proficiency in utilizing JIRA for test case management and defect tracking.
+    Familiarity with Agile methodologies and comfort within a fast-paced, iterative development environment.
+    Excellent analytical, problem-solving, and communication skills.
+    Strong attention to detail and a commitment to delivering high-quality products.
+
+
+Desired Skills:
+
+    Experience with Agile tools and techniques.
+    Understanding of PostgreSQL databases, with the ability to query and manipulate data for backend testing.
+    Knowledge of the agrotech or retail industry is a plus.
+
+
+Tools Required:
+
+    JIRA or similar issue and project tracking software.
+    API testing tools (e.g., Postman, Swagger).
+    Familiarity with mobile platforms (iOS, Android) and associated testing frameworks.
+    Knowledge of web application technologies and testing approaches.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 11
+
+Responsibilities:
+• Write, maintain, and execute manual test cases/suites.
+• Test new features built by the Development team.
+• Perform regression testing on existing features.
+• Work closely with the QA automation team to continuously augment the QA Automation coverage.
+• Work closely with the development team to ensure the effectiveness and quality of the components and systems developed.
+
+Requirements:
+• Should have experience in functional testing as well DB Testing, API Testing, integration testing and non-functional testing.
+• Should have experience working with tool like JIRA, postman.
+• Experience in working on JMeter, AWS is added advantage.
+• Work closely with rest of the QA team to refine the QA processes, share knowledge and best practices.
+• Develop an expertise in the functionality and inner workings of all the applications, database and data processes.
+• Passionate about ensuring the quality of all deliverables.
+• Process-oriented, with focus on effectiveness and efficiency.
+• Strong belief in a team culture.
+• Strong attention to detail and thoroughness.
+• Dedicated to continuous improvement.
+• Pragmatic in approach to the QA process.
+• Willingness to work in an Agile and fast paced environment.
+• Willingness to learn new things (Technical and business) constantly by own initiative.
+• Interested in learning about the business Solve is targeting.
+• Bachelor's degree or higher in Computer Science, Information Technology, or related discipline.
+• 1-2 years' experience in software/data QA.
+• Experience in testing web-based products and Mobile apps (cross-browser testing experience).
+• Demonstrated ability in writing and executing manual QA tests.
+• Ability to write queries against relational databases.
+• Experience with API/Web Service Testing.
+• Experience with Agile software development process.
+• Excellent written and verbal communication skills.
+• Knowledge of Jenkins
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 12
+
+Key Responsibilities:
+
+    Support management of document based GMP compliance inspection and Regulatory compliance with the registered dossiers of Novartis Japan. Support Quality responsible person for Novartis Pharma Japan. 
+
+
+    Ensure timely collection of required documents and information for document based GMP compliance inspection of manufacturing sites registered in Japan. Efficient communication with relevant stakeholders and manufacturing sites in timely manner. 
+
+
+    Support the following regulatory compliance activity under GQP/QMS Work together with other line functions to keep the compliance of Japan approval files for the products. Effective communications with manufacturing sites. 
+
+
+    Change control related to GMP compliance inspection. Support projects of new launched product and product transfer. GMP compliance inspection information. Collection of required information and share with relevant stakeholders, efficient handling of information and management of critical information. 
+
+
+    Cooperation with Novartis Japan NCQ members. Status monitoring and trend of document collection timelines. Report to Quality Assurance Supervisor in Japan
+
+
+    Review collected documents and contents checks. Ensure that a timely, effective, continuous quality improvement in corroboration with relevant stakeholders. Fulfil the responsibility of the Document Management and required Education & Training.
+
+
+Commitment to Diversity & Inclusion: :
+
+We are committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.
+
+Essential Requirements:
+
+    Postgraduate in Life Sciences or Pharma
+    Knowledge of the cGMP/GDP/QMS, ICH guidelines
+    Knowledge of quality for pharmaceuticals, medical devices, and human cell therapy/gene therapy products
+    Knowledge of HSE regulation and Novartis HSE requirements
+    1 to 3yrs of experience in quality assurance activities in pharma domain
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 13
+Senior QA specialist
+
+Your Day-to-Day
+
+    Actively collaborate with developers, QA lead, and product manager to shape the product and deliver product releases
+    Provide feedback to the team on product quality, call out risks/issues (if any), and balance quality with time-bound delivery with a release perspective
+    Maintain and write automated test suites
+    Ability to work with the QA lead to develop a testing strategy for a given release with input from the team as/if needed.
+    Ready to work on a fast-paced, geographically distributed team doing frequent releases
+    Understand the product domain 
+
+Must-Have Skills
+
+    4 - 6 years of Quality Assurance experience in a software development environment
+    Hands-on Web UI automated and manual testing experience
+    Good understanding of different automation tools that can be used for Web UI test automation and command expertise in at least one of them for testing
+    Good experience with version control tools like Git, SVN, etc.
+    Experience working with Agile methodologies (Scrum, Kanban) and working knowledge of SDLC
+    Ability to learn new technologies quickly
+    Good understanding of Linux OS 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 14
+
+Job Responsibilities
+
+    Collaborate with developers and designers throughout the SDLC to identify and resolve functional bugs, usability issues, and UI/UX inconsistencies
+    Design and execute comprehensive test plans covering functional, regression, usability, performance, and accessibility
+    Utilize various testing tools and methodologies (e.g. Automated testing frameworks, user testing tools) to ensure thorough software quality assurance
+    Document test cases, results, and bug reports with clear description and visual aids (e.g. screenshots, wireframes)
+    Product demonstration to the client
+    Collect and analyze client feedback, usage data, and UI/UX testing results to identify opportunities for product improvement
+    Design and provide feedback on UI/UX mock-ups and prototypes
+    Define test objectives, strategies, and timelines based on project requirements with a focus on UI testing
+    Stay up to date with industry best practices and QA methodologies, UI/UX design and testing, and making improvements to enhance the overall quality assurance process
+
+
+Requirements and skills
+
+    Experience in Manual testing, Usability testing, Performance testing, and UI testing, with a strong understanding of UI/UX principles
+    Strong knowledge of web and mobile technologies, with an emphasis on UI/UX evaluation
+    The ability to design comprehensive and effective test cases based on software requirements and user stories, with a focus on UI/UX aspects
+    Should be skilled in managing defect life cycles and collaborating with developers, with a particular focus on identifying and addressing UI/UX issues
+    Proficiency in various QA methodologies, such as Agile, Scrum, or Waterfall
+    Familiarity with QA testing tools and frameworks, including test management and defect tracking systems (e.g., JIRA, TestRail)
+    Strong documentation skills for creating test plans, test cases, test scripts, and test reports ensuring thorough test coverage based on project requirements
+    Basic knowledge of SQL and the ability to perform database testing by writing and executing SQL queries for data validation
+    Efficiently manage time and prioritize testing tasks to meet project deadlines
+    Excellent leadership, communication, and interpersonal skills
+    Should have strong attention to detail with analytical and problem-solving abilities
+    Knowledge of Salesforce.com will be an added advantage
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 15
+
+ To provide specialist technical support for domestic O&M teams/programs as well as domestic sales teams, with a particular focus on Acoem Ecotech’s ISO 9001, ISO45001 accreditation and associated QA systems.
+
+        Technical sales support to domestic and international sales and marketing teams
+        Technical training to field technicians and International distributors/Customers including the development of training materials and programs.
+        Technical support to ERS with respect to field operations, calibration, training and reporting
+        Domestic and international customer support
+        Technical assistance and support to the QA coordinator
+
+Your day-to-day missions and tasks
+
+        Provide technical assistance both remotely and onsite where and when required (Local and International)
+        production/supplier to find solution, test solution & communicate to technical staff with Tech Note
+        Devise and run internal and external technical training courses on various types of Acoem Ecotech & OEM equipment on an as required basis.
+        Track recurring technical issues experienced in the field, investigate root cause, liaise with R&D /Provide market, product and functionality needs to Engineering / R&D to assist in the development of products.
+        Assist in the preparation of required SOP’s and technical information for adding new equipment to
+        Manage and perform regular Internal Audits as per the Audit schedule – provide feedback to relevant staff and managers relating to audit results
+        Assist branch managers, International team, ERS and lead technicians/engineers by providing feedback and recommendations with respect to O&M activities and methodologies
+        Maintain and update O&M systems including calibration forms and maintenance checklists
+        AMS product champion – provide training & demonstrations, optimise product capability
+        Ensure QA system remains current at all times with the latest changes to Australian standards and NATA/ISO policies
+        Ensure timely dissemination of technical information to relevant staff across the company
+        Provide technical support for the development of company’s water monitoring business
+        Ensure maintenance work is carried out in accordance with customer requirements and the requirements of ISO 9001,ISO 4801 and ISO 17025 Quality System and company’s Laboratory Manual. Ensure field work is performed in accordance to company’s Occupational Health & Safety policy
+        Audit calibration and maintenance records to ensure systems are being implemented effectively
+        Provide feedback to the sales manager as to the technical performance of the branches
+        Work closely and assist when requested international technical support staff. Maintain Domestic field service staff Skills & Training Matrix
+        Manage Demo Station
+
+# Important : what are the essential elements to apply?
+We are looking for a candidate who has:
+
+        Strong knowledge of Electronic Troubleshooting Techniques of product
+        Well-developed planning skills
+        Exceptional communication skills in English, both verbal and written
+        Detail oriented and experienced in follow-through and completion of projects
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 16
+
+ Key Responsibilities
+RESULTS & RESPONSIBILITIES
+EFFECTIVE TESTING
+Actively and accurately execute testing within software releases to ensure a quality product
+
+Deliver regression, user acceptance, integration and operational acceptance testing
+
+Collaborate with Product Owners, BA's, Configurators, Scrum Master, Dev Team and Test
+
+Leads to evaluate and assure quality of User Stories, Acceptance Criteria, and Test Cases
+with regards to customer, functional and technical requirements
+Provide quality input to test planning, ensuring business requirements are understood and
+
+that realistic delivery goals are defined and aligned to project delivery expectations
+Need to participate in Scrum Ceremonies, add input for QA effort in Sprint Planning,
+
+contribute to continuous improvements including the Retrospective, ready to demonstrate
+the team work in Sprint Preview and to Product Owners for dev work sign off.
+Achilles Information Limited | 30 Western Avenue, Milton Park, Abingdon, Oxon, OX14 4SH, UK - 2 -
+Support and lead effective Defect Management including Triage, Root Cause Analysis,
+
+Defect Tracking and Progress Reporting
+Ensure submitted defects are of high quality and followed up in a timely manner.
+
+Engage key stakeholders in triage and escalate business critical issues in a timely manner
+
+using appropriate governance channels
+SERVICE IMPROVEMENT
+Become subject matter expert on Achilles’ platform capability
+
+Provide input and expertise to contribute to continuous improvement of the SDLC Process
+
+and testing strategy
+Provide support, guidance and best practice to IT and business stakeholders, promoting
+
+Agile principles and values in support of high-performance scrum teams
+Support the IT and Solution Delivery KPI Framework, ensuring that all measures are correctly
+
+implemented, recorded, and developed
+Play an effective role within the Solution Delivery team, utilising knowledge, and experience
+
+to improve the team’s effectiveness and support growth
+Contribute to the management and development of business controls and processes
+
+PERSONAL DEVELOPMENT
+Taking personal responsibility for skills development
+
+Actively participating in the performance management process, and taking responsibility for
+
+delivering agreed objectives
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 17
+
+ We expect you to have :
+
+    At least 3 years of testing experience with excellent knowledge of SQL, Excel.
+    Strong knowledge of software testing methods, types, tools and process.
+    Good with design and development of test documentation.
+    Strong analytical and attention to detail skills.
+    Proactive and self-motivated team player
+
+It would be great if you
+
+    Bank reporting or working experience in banking sector.
+    Knowledge of XML
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 18
+
+Role Proficiency:
+
+Ensuring adherence to test practices and process to improve test coverage
+
+Outcomes:
+
+    Create Test Estimates and Schedules
+
+    Identify business processes conduct risk analysis and ensure test coverage
+
+    Ensure adherence of processes and standards
+
+    Produce test results defect reports test logs and reports for evidence of testing
+
+    Publish RCA reports and preventive measures
+
+    Report progress of testing
+
+    Contribute for Revenue savings for client by suggesting alternate method
+
+    Quality of Deliverables
+
+Measures of Outcomes:
+
+    Test Script Creation and Execution Productivity
+
+    Defect Leakage Metrics (% of defect leaked % of UAT defects and % of Production defects)
+
+    % of Test case reuse
+
+    Test execution Coverage
+
+    Defect Acceptance Ratio
+
+    Test Review efficiency
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 19
+
+*Key Responsibilities:*
+
+1. *Test Planning and Strategy:*
+
+- Develop, document, and maintain comprehensive test strategies, test plans, and test cases for Flutter mobile apps and Django backend systems.
+
+- Collaborate with developers, product managers, and stakeholders to understand requirements and define testing scope and objectives.
+
+2. *Manual Testing:*
+
+- Conduct detailed manual testing of mobile applications (Flutter) and backend systems (Django) to identify defects and ensure they meet functional and performance requirements.
+
+- Perform functional, regression, integration, system, and user acceptance testing (UAT).
+
+3. *Automation Testing:*
+
+- Develop, maintain, and execute automated test scripts for Flutter mobile apps and Django backend using appropriate tools and frameworks.
+
+- Identify and implement opportunities for test automation to enhance efficiency and coverage.
+
+4. *Tools and Frameworks:*
+
+- Utilize tools such as Appium, Selenium, and Flutter-specific testing tools (e.g., Flutter Driver) for automation.
+
+- Use testing frameworks compatible with Django environments.
+
+- Employ tools like Postman or Swagger for API testing and validation.
+
+5. *Quality Assurance:*
+
+- Ensure compliance with quality standards and best practices throughout the software development lifecycle.
+
+- Conduct code reviews and provide constructive feedback to development teams to enhance product quality.
+
+6. *Documentation and Reporting:*
+
+- Document and update test cases, test results, and defect reports.
+
+- Generate and present detailed reports on testing activities, defect metrics, and overall quality indicators.
+
+7. *Collaboration and Communication:*
+
+- Work closely with developers, business analysts, and project managers to resolve issues and improve product quality.
+
+- Mentor and provide guidance to junior testers and QA team members.
+
+8. *Continuous Improvement:*
+
+- Stay updated with the latest industry trends, tools, and technologies in software testing, particularly in mobile and backend testing.
+
+- Propose and implement improvements to testing processes, tools, and methodologies.
+
+*Qualifications:*
+
+- *Experience:*
+
+- Minimum 2 years of experience in software testing and quality assurance.
+
+- Extensive experience in testing mobile application frameworks like Flutter and backend server frameworks like Django.
+
+- Proven experience in test automation and familiarity with automation tools (e.g., Appium, Selenium, Flutter Driver).
+
+- *Skills:*
+
+- Strong knowledge of testing methodologies and best practices for mobAppiumd backend applications.
+
+- Proficiency in programming languages such as Dart (for Flutter), Java, and Python is a bonus.
+
+- Experience with continuous integration and continuous deployment (CI/CD) pipelines, particularly for mobile apps and Django backend.
+
+- Familiarity with Agile/Scrum methodologies.
+
+- Excellent analytical and problem-solving skills.
+
+- Strong communication and teamwork abilities.
+
+- Attention to detail and a commitment to delivering high-quality software.
+
+*Preferred Qualifications:*
+
+- Experience with performance testing tools (e.g., JMeter, LoadRunner).
+
+- Familiarity with cloud platforms (AWS) and mobile cloud testing solutions.
+
+- Experience with Django REST framework and testing APIs.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 20
+
+Roles and Responsibilities:
+
+    Develop and maintain testing infrastructure in the firm for efficient testing.
+    Write detailed test reports and performance analyses for the product.
+    Participate in the complete software development life cycle for new products.
+    Attend conferences and stay updated with the latest technologies in testing.
+
+Required skills and qualifications:
+
+    A graduate degree in Computer Science, Engineering or a related field.
+    Experience with bug-tracking systems such as JIRA.
+    Familiarity with web and mobile development technologies such as HTML, CSS, JavaScript and React Native.
+    Attention to detail, ability to follow test plans and scripts, and good management skills.
+
+Preferred skills and qualifications
+
+    Having a Java certification is preferred.
+    Exposure to CI\CD tools such as GitLab, Jenkins etc.
+    Familiarity with various cloud technologies like Azure and AWS.
+    Experience in working with BDD framework using Cucumber or Karate.
+
