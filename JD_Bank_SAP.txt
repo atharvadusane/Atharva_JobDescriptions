@@ -1,0 +1,1695 @@
+﻿Job Description 1
+
+
+Develop and maintain SAP applications using ABAP, OData, and other relevant technologies.
+Collaborate with cross-functional teams to ensure successful implementation and delivery of projects.
+Provide technical leadership and mentorship to junior consultants.
+Participate in project planning, design, and execution activities.
+Contribute to the development of best practices and methodologies within the SAP ABAP and OData space.
+Job Requirements :
+
+
+Strong knowledge of SAP Fiori, SAP S/HANA, and SAP HANA.
+Proficient in ABAP on HANA, BW on HANA, and SAP Native HANA.
+Familiarity with SAP AX Technical is a plus.
+Bachelor's degree in Computer Science or related field preferred but not required.
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 2
+
+
+Collaborate with clients to understand their business requirements and design customized solutions using SAP ABAP.
+Develop, test, and implement SAP ABAP applications and interfaces.
+Provide technical support and troubleshooting for SAP ABAP issues.
+Participate in project planning and execution, ensuring timely delivery within budget and scope.
+Contribute to the development of best practices and methodologies for SAP ABAP implementation and maintenance.
+Job Requirements :
+
+
+Strong knowledge of ABAP Dictionary and OData.
+Familiarity with Adobe forms and IDOCs.
+Bachelor's degree in Computer Science or related field preferred, but equivalent experience considered.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 3
+
+
+Collaborate with clients to understand their business requirements and design customized solutions using SAP PP QM.
+Configure and implement SAP PP QM modules, including Inspection, LSMW, Batch Management, and Production Planning.
+Provide technical expertise and support for SAP QM and Process Chains.
+Participate in project planning, execution, and delivery activities.
+Collaborate with cross-functional teams to ensure successful implementation of SAP PP QM solutions.
+Job Requirements :
+
+
+Strong knowledge of SAP QM and Process Chains.
+Proficient in configuring and implementing SAP PP QM modules.
+Familiarity with SAP Production Planning and Batch Management is preferred.
+Bachelor's degree in Computer Science or related field required; advanced degree preferred.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 4
+
+
+Collaborate with clients to understand their business requirements and design customized solutions using SAP SD, S4HANA, and related technologies.
+Conduct workshops and training sessions on SAP SD, S4HANA, and related technologies.
+Provide technical support and consulting services to clients.
+Participate in pre-sales activities, including proposal development and solution demonstrations.
+Contribute to the development of new products and services by providing input on product roadmap and feature requirements.
+Job Requirements :
+
+
+Strong knowledge of distribution, sales, and augmented reality.
+Proficient in SAP presales and SAP ABAP development.
+Familiarity with SAP FICO, GL, AP, and MM modules.
+Bachelor's degree in Computer Science or related field preferred but not required.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 5
+
+
+Roles & Responsibilities:
+Must Have Design, develop, and maintain SAP ABAP Development for HANA applications.
+Must Have Analyze business requirements and translate them into technical specifications.
+Must Have Perform unit testing and support integration testing.
+Must Have Collaborate with cross-functional teams to ensure successful project delivery.
+ Professional & Technical Skills:
+Must Have Must To Have Skills: Experience in SAP ABAP Development for HANA.
+Must Have Good To Have Skills: Knowledge of SAP HANA database and SAP Fiori.
+Must Have Strong understanding of software development life cycle (SDLC) and agile methodologies.
+Must Have Experience in developing and maintaining SAP applications.
+Must Have Proficiency in ABAP programming language and debugging techniques.
+ Additional Information:
+Must Have The candidate should have a minimum of 3 years of experience in SAP ABAP Development for HANA.
+Must Have The ideal candidate will possess a strong educational background in computer science or a related field.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 6
+
+
+- Application Development Lead to take on a lead role for the Build/Test/Deploy phases of a new S/4 Greenfield Implementation.
+
+
+- Experience with S/4 Data Migration (Greenfield)
+
+
+- Working with multiple streams to get the WRICEF requirements, effort estimates and the related approach based on functionality scope and Agile Methodology.
+
+
+- Needs S4 development experience throughout WRICEF development objects (workflow, reports, interfaces, conversions, enhancements, forms).
+
+
+- OData/ABAP CDS Views /AMDP experience are preferred
+
+
+- Smart forms and Adobe development experience.
+
+
+- Diverse Technical Experience working with SAPs IDE tools/concepts for complex enhancements/interfaces across SCM, LE, OTC, FIN, manufacturing, EWM, OTC, P2P, etc.
+
+
+- Needs development experience across a wide range of workstreams across SCM, LEX, BTC OTC, FIN(R2R), manufacturing, EWM, OTC, P2P, etc.
+
+
+- Experience with estimating overall development effort, staffing recommendations and level of effort by development object
+
+
+- Hands-on developer with strong team management skills
+
+
+- Testing and Defects management
+
+
+-Cutover and Deployment experience
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 7
+
+
+7+ years of SAP ABAP on HANA experience
+Good exposure to Fiori applications and UI5
+Should have exposure in Reports, Interfaces, Enhancements, Forms and conversions
+Should be willing to take end to End ownership of the Object development
+Should handle the Objects independently without any technical Support.
+Should work with the functional consultants in developing the Objects,
+Should be able to suggest the technical glitches earlier in the development
+Should possess good analytical and interpersonal skills.
+Good communication skills and should be a good team player.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 8
+
+
+Develop and customize SAP ABAP programs, reports, interfaces, conversions, enhancements, and forms (RICEF objects) to support GTM functionalities.
+Collaborate with cross-functional teams to gather requirements and translate them into technical specifications.
+Design and implement solutions to streamline global trade management processes, including customs compliance, trade finance, and import/export regulations.
+Perform system configuration, testing, and debugging to ensure the quality and reliability of developed solutions.
+Support ongoing system maintenance activities, including troubleshooting, performance tuning, and system upgrades.
+Provide technical expertise and guidance to business users and stakeholders on SAP GTM functionalities and best practices.
+Stay updated on the latest SAP ABAP and GTM technologies, trends, and industry developments to drive continuous improvement and innovation.
+Requirements :
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Proven experience (X years) in SAP ABAP development with a focus on GTM modules.
+Strong understanding of SAP GTM functionalities, including customs management, compliance screening, and trade finance.
+Proficiency in SAP ABAP programming language and related technologies (e.g., ABAP Objects, BAPIs, RFCs, IDocs).
+Hands-on experience with SAP development tools, such as ABAP Workbench, SAP NetWeaver Developer Studio, and SAP Solution Manager.
+Excellent problem-solving skills and ability to analyze complex business requirements and translate them into technical solutions.
+Effective communication and collaboration skills, with the ability to work well in a team-oriented environment.
+Certification in SAP ABAP development and/or SAP GTM modules is a plus.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 9
+
+
+The ideal candidate should be able to deliver strong value from the ABAP, Gateway.
+
+
+Good in entire ABAP including ABAP object oriented programming concepts.
+
+
+Knowledge on SAP Workflow.
+
+
+Good knowledge in ABAP Core Data Services(CDS).
+
+
+Good Understanding of Data Modelling concepts.
+
+
+Good in analyzing performance issues and should be very strong in debugging.
+
+
+Hands on in configuration and execution of gateway projects .
+
+
+Strong knowledge in open SQL .
+
+
+Good team player, able to work independently.
+
+
+Very strong in S/4HANA concepts, CDS Views, Roles , Odata Services
+
+
+Functional knowledge in SAP Project systems , ERP
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 10
+
+
+Proven experience as an SAP ABAP Developer with strong knowledge of ABAP programming language.
+Proficiency in developing custom reports, interfaces, enhancements, and forms using ABAP.
+Familiarity with SAP Fiori, Web Dynpro, and other SAP UI technologies is a plus.
+Strong problem-solving skills and the ability to troubleshoot complex technical issues.
+Excellent communication , analytical and Interpersonal skills as a consultant and play key role in implementations from Blueprint to Go-Live.
+Ability to work effectively in a team environment and collaborate with cross-functional teams.
+SAP certification(s) is a plus.
+Required Experience:
+The ideal candidate must possess 8+ years of proficient hands-on experience in ABAP on HANA 7.4 and above. Additionally, they should have detailed experience in ABAP CDS views, AMDP, OData , REST/JSON, XML (including debugging) s ound analytical and problem-solving skills with experience in debugging and root cause analysis and the ability to propose/implement suitable resolutions for such issues as bug fixes and performance tuning, etc.
+Basic understanding or experience with RESTful ABAP programming and cloud application development.
+In addition to above, candidate should possess s trong Knowledge in the following technical areas.
+Forms (SAP Scripts / Smart Forms/Adobe Forms),
+Reports (ALV / Classical), Interfaces (ALE/IDOC, BAPI )
+Conversions (LTMC)
+Enhancements (User Exits, BADI, Enhancement Spots , BTE ),
+Object Oriented ABAP .
+Workflows (Development, Configuration) - Classical and Flexible Workflow.
+OData (SAP ODATA Framework, E clipse-based ABAP Development Tools IDE and SAP Business Application Studio , OData service creation and Implementation)
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 11
+
+
+Strong working experience on ABAP (RICEF) Objects.
+Ensuring quick turnaround in identifying application issues and providing timely solutions.
+Transform business function requirements into technical program specs to code, test, and debug programs.
+Develop, code, document and execute unit tests, systems, integration and acceptance tests and testing tools for functions of high complexity.
+ Perform performance tuning to improve performance over multiple functions.
+Engage other technical team members in the design, delivery, and deployment of solutions.
+Undertake performance tuning activities for SAP integration activities.
+Mentor and coach junior developer resources.
+Strong object orientation experience
+Knowledge on ODATA Services development
+Good to have HANA Exposure - CDS View and AMDP
+Strong communication skills
+Strong analytical skills and ability to write technical specifications
+Ability to multitask and manage multiple deliverables
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 12
+
+
+Develop, enhance, and maintain SAP applications using ABAP programming language.
+Customize and extend standard SAP functionality to meet business requirements.
+Collaborate with functional analysts and business stakeholders to understand requirements and translate them into technical specifications.
+Design and implement efficient and scalable ABAP code.
+Perform unit testing and support integration and user acceptance testing.
+Troubleshoot and debug SAP programs to resolve issues in a timely manner.
+Provide technical support and guidance to end-users as needed.
+Stay up-to-date with SAP technologies and best practices.
+Requirements:
+
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Proven experience as an ABAP Developer or similar role.
+Strong proficiency in ABAP programming language.
+Experience with SAP ECC or S/4HANA modules and architecture.
+Knowledge of SAP development tools such as SAP NetWeaver, ABAP Workbench, and SAP HANA Studio.
+Experience on OOPS, IDOCS, and ODATA.
+Experience on S4 HANA.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration skills.
+Ability to work independently and as part of a team in a fast-paced environment.
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 13
+
+
+Design and develop data models in SAP
+
+
+- Reviewing designs and designing solutions to built SAP software
+
+
+- Converting POC and ad hoc solutions into a production-ready solution in SAP
+
+
+- Strong hands-on experience with SAP modules, any certifications beneficial
+
+
+- Experience designing and implementation of relevant SAP modules
+
+
+- Strong track record of working with HANA database, integration of SAP HANA into different
+
+
+systems and exposure to remote access options in HANA system
+
+
+- Experience with Cloud migrations (AWS/Azure/GCP)
+
+
+- Experience formulating governance standards and guidelines around the design/development of solutions
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 14
+
+
+s & Responsibilities:
+
+
+Application Development in ABAP in ECC 5.0 and higher systems.
+Provide technical analysis with full understanding of SAP business documents, master data, transaction data in primary modules SD, MM, FICO and PP modules including cross-functional configuration.
+Develop applications with clear qualification of different levels of coding options within SAP including but not limited, (Business Add-ins (BADI), Business Application Programmatic Interface (BAPI), User Exits, Dialog programming, Reports, SAP Scripts & SMARTFORMS, Interfaces, Conversion programs).
+Adherence to SAP layers of abstraction at, (Open SQL vs. Native SQL, Data Dictionary and Operating system commands).
+Development involving ABAP Objects (Object Model Based).
+Provide Root Cause analysis using SAP tools, including but not limited to, (ABAP Debugger, Application Logs, Code Optimizer, SQL Trace, Transport and Version Management).
+Experience with interface and messaging architectures including EDI/IDOC and XI.
+Familiarity with eCATT, Transaction Recorder, BDC Programming.
+Strong adherence to Software Development Life Cycle process.
+Ability to read, understand, author and review, Technical specifications, Unit test documents, Test scripts and Code review.
+Familiarity with online developer communities and SAP support network.
+In depth understanding of SAP architecture.
+Familiarity with industry standard incident management tools (Remedy).
+Collaboration with multiple teams including partner organizations.
+Incident Management, resource allocation, reporting.
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 15
+
+
+ABAP Developer
+MM (Material Management)
+PP (Production Planning)
+QM (Quality Management)
+SD (Sales & Distribution)
+Knowledge about S/4 Hana Environment
+Knowledge in Forms: SAP Script, SmartForms, ADOBE-Forms
+Excellent knowledge of the SAP ABAP programming language
+Excellent SAP MM, SD, PP, and QM module knowledge.
+Expertise in backend debugging
+General understanding of SAP Standard processes
+          •  Material Master
+
+
+          •  BOM
+
+
+          • Requirement transfer from BOM to Requisition
+
+
+          • MRP (ATP)
+
+
+          • SAP MM-IM, (ideally also SAP WM)
+
+
+           • SAP Delivery
+
+
+Excellent communication skill
+Ability to independently analyze and implement (coding, testing) customer requirements.
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 16
+
+
+Should have done at least 2 end to end implementations with S4 Hana.
+
+
+Should have good experience in Product cost management & COPA.
+
+
+Should have good experience in Project systems for commitment management.
+
+
+Should have good experience in Order management.
+
+
+Strong knowledge about Cost center and element accounting.
+
+
+Strong knowledge in Material Ledger accounting and Actual costing.
+
+
+Experience in working in split architecture environment will be added advantage
+
+
+Should have knowledge of both Standard and Actual costing scenarios.
+
+
+Should have worked on designing the COPA reports
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 17
+
+
+Good architectural experience in building scalable e-Commerce platforms based on SAP Commerce Cloud.
+Hands on development experience in SAP Commerce Cloud (Hybris) e-Commerce platform (B2C).
+Develop e-Commerce solutions as per client requirements on SAP Commerce Cloud (Hybris) platform.
+Develop Digital Consumer experiences based on a foundation of SAP Commerce Cloud (Hybris).
+Design and develop awesome features such as product search & navigation, order management, promotions , back office customization, etc.
+Diagnose and resolve technical problems related to SAP Commerce Cloud (Hybris) implementation.
+Provide inputs and direction to associates in the team on design and implementation
+Develop applications following defined quality standards by using industry's best practices.
+Collaborate with peers to define implementation processes and quality gates and standards.
+
+
+Skills
+
+
+Strong exposure in Java Web Application Development and/or related technologies.
+Progressive experience with Java, J2EE, Spring Framework, and Design patterns
+Commerce Cloud Certification will be an added advantage
+Expertise in API technologies such as Rest Web Services
+Previous experience writing unit tests with JUnit, Spock framework, Mockito, or PowerMock
+Knowledge of markup languages such as JSON and YML
+Knowledge of design and object-oriented programming (OOP)
+Experience in the Spring Framework
+Good to have knowledge in Spring Boot, GraphQL and Microservices
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 18
+
+
+ Must have 5 to 8 years experience as SAP functional consultant
+ Understand business process & needs in SD area
+ Analyse requirements and investigate feasibility
+ Write good design documents, function specs
+ Work closely with SAP technical team
+ Collaborate with multiple IT and business group stakeholders
+ Write test scripts and complete testing
+ Specialized in design and configuration of SAP Sales and Distribution (SD module) with EDI experience
+ Extensive RICEF (Reports, Interfaces, Conversions, Enhancements and forms) experience.
+ Hands-on experience with SAP master data setup (customer, material, pricing)
+Understanding of SD account assignment and revenue recognition processes
+Ability to debug ABAP
+Writing of functional/technical specifications for ABAP custom programs(RICEFW)
+Cross functional team experience, Excellent configuration, development and E2E Testing skills
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 19
+
+
+Minimum of 3 years of SAP S/4HANA ABAP experience
+Provide consulting solutions including how to leverage standard SAP S/4 HANA functionality
+Create and maintain documentation of environment design, configuration, and workflow
+Must be able to dive into existing code to figure out how objects need to be enhanced.
+The consultant must be a hands-on developer with strong skills in Module Pool, BDC, BAPI, Interfaces, enhancements, workflow, and Adobe smart forms. 
+SAP Fiori development experience is required (2+ years)
+Develop custom reports using CDS Views designed in HANA Studio
+Strong communication skills
+Strong analytical skills and ability to write technical specifications
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description 20
+
+
+Support the end-to-end implementation of SAP Ariba and S/4 HANA solutions, with a focus on Source to Pay processes.
+Collaborate with business owners to understand their business processes and requirements for SAP implementation.
+Gather requirements from business owner, propose design solutions.
+Configure Ariba and S/4 HANA modules based on business requirements and best practices.
+Develop and execute test plans to ensure the successful implementation of SAP solutions.
+Provide training and support to end-users to maximize the utilization of SAP systems.
+Collaborate with cross-functional teams, including business stakeholders, IT teams, and third-party vendors, to ensure successful delivery.
+Provide expert guidance on best practices for implementing Ariba and S/4 HANA solutions, ensuring alignment with industry standards and client objectives.
+Support post-implementation activities, including system testing, troubleshooting, and ongoing maintenance of SAP systems.
+Stay current on SAP technologies and industry trends, continuously enhancing expertise in Ariba and S/4 HANA.
+Bachelor s degree in computer science, Information Technology, or related field.
+Minimum of 5 years of experience in SAP implementation, with a focus on Ariba and S/4 HANA modules.
+Strong understanding of Source to Pay processes and procurement best practices.
+Strong knowledge of SAP configuration and customization in Ariba and S/4 HANA.
+Experience with full lifecycle implementation projects, from requirements gathering to post-implementation support.
+Excellent communication and interpersonal skills to effectively engage with business stake holders, vendors, and team members.
+Proven track record of successfully delivering SAP projects on time with quality.
+SAP certification in Ariba and S/4 HANA is preferred.
+
+
+
+
+ 
+Job Description 01
+
+
+What you'll do
+
+
+        Good understanding of end-to-end core business processes of Human Capital Management
+        Good knowledge on software project life cycle.
+        Support functional team in definition and design of developments needed to enhance standard product in order to covering customer requirements
+        Ability to facilitate customer discussions and elaborate on the areas of proposed improvements
+        Aptitude to define the problem concisely and hypothesize the proposed solution
+        Should take responsibility to deliver assigned tasks
+        Should be able to accomplish straightforward tasks without assistance
+        Provides administrative technical support (when needed)
+        Resolves issues with limited complexity within general work direction and clearly defined framework of departmental / functional guidelines and practices.
+
+
+
+
+What you bring
+
+
+        1-2 years of SAP Experience
+        Experience/exposure to SAP HCM On-Premise or/ SuccessFactors Employee Central or Workzone (Minimum one SF module certification and implementation experience)
+        Exposure/experience in Show tell workshops and SAP best practices
+        Experience in business process configurations and testing of process scenarios
+        At least 1 full lifecycle implementations /Rollout demonstrating the ability to manage configuration, data set up, develop process flows etc., and or Involved in implementation of SAP HXM in their organization or experience as power users with ~ 1 years of experience, Knowledge and exposure to integration topics within different modules of HXM & other SAP Solutions
+        Exposure/experience on master data management and integrations is good to have
+        Domain experience in the HR Function is good to have
+        Ability to write detailed functional specifications is good to have
+        Degree in Post-Graduation or Master of Business Administration (MBA) or bachelor’s degree with equivalent work experience
+        Strong client-facing experience , well-developed customer focus & SAP Implementation experience.
+        Solid oral and written communication skills, with the demonstrated ability to communicate complex technical topics to management and non-technical audiences
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 2
+
+
+What you will do:
+Provide technical expertise on integration, feeds, loads and extracts
+Handle the setup and scheduling of all interfaces and system jobs
+Provide technical expertise on SSO (single sign on)
+Working directly on SAP Concur’s database
+Be a technical resource on a project and Helping with system performance related issues
+Spin-up – to prepare the new system for configuration
+FTP/PGP setup with client – secure data exchange method for automated integration
+Setting up jobs within the system (imports/extracts/Credit cards…)
+Testing and advising on imports – Employee, list and other imports troubleshooting
+Testing and advising on the use of SAE file – how to get the right data in to client’s financial
+system
+Security adjustments – whitelisting of concur on client’s side for best possible experience
+Purge – moving system into production ready status, getting rid of all test data within the system
+Direct R/W access to Expense DB – troubleshooting, updating, changing data, clearing
+hierarchies etc
+
+
+
+
+In order to accomplish this, you will need to:
+
+
+        Maintain all environments throughout the lifecycle of an implementation (Configuration, Test,
+
+
+Production)
+
+
+        Ability to lead client training and knowledge transfer sessions
+        Configure all interfaces ERP, Employee, Credit Card, EFT
+        Perform general issue troubleshooting and resolution, including escalations to Development
+        Communicate "best practice" recommendations based on prior experiences, and effectively
+Update Customer Statistics in Knowledgebase and/or CRM systems
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 3
+
+
+What you’ll do:
+
+
+        Solid hands-on experience with SAP technologies like SAP NetWeaver, Web Dispatcher, Business Objects solutions, Convergent Charging, Convergent Mediation, OpenText etc.
+        Work experience in Cloud Operations for running applications systems on a large scale.
+        Experience in ITIL and IT Service Management processes such as Incident Management, Event Management / Monitoring, Change Request Management
+        Experience in writing technical concepts, such as Knowable Base Articles, Wiki pages, Root Cause Analysis and BLOG entries etc.
+        Experience in automation of monitoring or operational workflows
+        Contribute ideas to help towards the vision and execution of teams in ECS Last line of Defence and act as an expert to Service Areas for advanced troubleshooting.
+        Take the lead in implementing activities, like e.g., architecture decisions, Process mining exercises, Continuous improvements which contribute to the stability and performance of the teams, also build scalable processes.
+        Establish a close relationship with the Domain Leads in Application area, Service engineering and Service Area Operation to influence supportability/operability of the products.
+        Contributing to initiatives to reduce application related outages.
+        Collaborate with Product Development and support for roadmap, feature, and bug fixes.
+
+
+
+
+What you bring
+
+
+        Good understanding of the SAP Basis systems both on Operation system level as well as inside the SAP system, preferably holding SAP certification in NW administration or S/4HANA System administration
+        Knowledge on Hyperscale’s (e.g., AWS, Azure, GCP) and Automations & Provisioning in cloud environment
+        Analytical, detail-oriented personality and a technology enthusiast
+        Ability to troubleshoot complex issues and work on time critical assignments.
+        Positive, proactive, and customer-focused attitude
+        Exceptional communication and collaboration skills
+        Minimum 10 years of experience
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 4
+
+
+- Minimum of 5 to 8 years’ experience with two end to end implementation and 2 support projects:-
+
+
+        Knowledge of ABAP ABAP on HANA, CDS view for SD , MM , PP and FI
+        Strong experience in Report programming ALV , Reporting in Text format
+        Module pool Programming to design screens forms
+        Good experience in developing and customizing the business forms using SAP Scripts and Smart Forms
+
+
+- Working knowledge of OData services, Association/Navigation, CRUDQ operation, Queries, Expand etc.
+
+
+        Having Knowledge of UI5.
+        Good experience in Data migrations using BDC and LSMW for both Mater data and Transactional data.
+        Data Dictionary – Tables, Views, Lock Objects, Search Help etc.
+        User Interfaces: Screen Painter & Menu Painter
+        Knowledge of ABAP for HCM
+        Reports in HCM , OM, PA , TM and PY
+        Enhancement if Payroll Functions
+        Enhancement if Payroll Drive
+        Screen design in Webdynpro
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 5
+
+
+Key Responsibilities Include:
+
+
+•Manage new implementation, Migrations Developing and testing SAP-based solutions that help meet business objectives
+
+
+• Create test scenarios and data and conduct or participate in non-functional and functional testing (e.g., unit testing, system testing, integration testing, etc.).
+
+
+• Develop and review RICEFW objects, programs and configurations to verify consistency and conformance with established programming and industry standards, guidelines, policies and practices.
+
+
+• Identify, assess and recommend opportunities for application and process improvement.
+
+
+• Prepare reports, manuals and other documentation on the status, operation and maintenance of software.
+
+
+• Willing to learn new technologies and functional expertise to support end users
+
+
+
+
+Skills Required:
+
+
+• Experience with SAP ABAP RICEFW objects design and development.
+
+
+• Proven understanding of SAP ABAP development concepts, guidelines and SAP architecture.
+
+
+• In-depth knowledge of ABAP programming, ABAP on HANA(CDS Views, Procedures and etc.), Fiori/UI5 developments.
+
+
+• Experience with SAP HANA studio, and Eclipse IDE for SAP.
+
+
+• Knowledge of ERP systems in any kind of industry.
+
+
+• Excellent interpersonal and communication skills with a high level of energy and integrity.
+
+
+• Ability to work independently and proactively in a multi-national team.
+
+
+• Excellent analytical, professional, dynamic and good attitude of work.
+
+
+• Experience working in SAP Fiori, and UI5 application developments.
+
+
+• Experience in S/4 implementation, BW/4 implementation would be a benefit.
+
+
+• Experience in BRF+ framework
+
+
+• Good functional understanding of FICO, SD, MM, PP/QM, EWM etc.
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 6
+
+
+Required Technologies And Skills
+
+
+        Minimum 5 years of Strong SAP ABAP Development experience with 2+ years of SAP ACM development and frameworks.
+        Prefer 1+ full life-cycle SAP implementations including post go-live support.
+        Experience with SAP S/4 preferred
+        ECC SAP Agricultural Contract Management (ACM) 3.0/higher version -OR- S/4 1809 or higher SAP ACM 4.0 SP01.
+        Experience with other modules in S/4 1809 or higher (e.g. SAP modules such as SD, MM, TM, Finance, TSW, CPE)
+        Deep understanding and hands-on experience on OO ABAP, ABAP CDS Views, BRF+, BADIs, Proxy classes for inbound and outbound interfaces.
+        Hands-on experiences on Gateway OData services, analyzing Gateway ODS performance issues and troubleshooting ODS for ACM Fiori Apps. Extending the standard OData Service based on requirement.
+        Experience on Junction Functions, OF framework and solid troubleshooting, debugging, performance tuning of SAP standard ACM functionalities including Contracts, Call-Offs, Shadow documents, Price fixations and distributions, Expenses, DPQS, LDCs, Nominations, AppDocs, Settlements etc.
+        Strong experience in analyzing/troubleshooting issues around locks, SLG1 log, memory, DB updates, queues, buffer, high volume data, background jobs for ACM functionalities.
+        Overview of ACM-TM Integration, ACM process flow and integration with other modules (SD,FI and MM).
+
+
+
+
+ Desired Technologies And Skills
+
+
+        Exposure to AMDP.
+        Analyzing standard SAP code and implementing OSS Notes.
+        Experience in troubleshooting backend ABAP code of FIORI Apps.
+        Experience with integrating REST and SOAP API's into ACM.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 7
+
+
+Required Technology and Skills
+
+
+
+
+        Minimum 5 years of Strong SAP ABAP Development experience with 1+ years of SAP ACM / MDQ / GTS and/or TM development and frameworks.
+        Prefer 1+ full life-cycle SAP implementations including post go-live support.
+        Experience with SAP S/4 preferred
+        Experience with other modules in S/4 1809 or higher (e.g. SAP modules such as SD, MM, TM, Finance, TSW, CPE)
+        Deep understanding and hands-on experience on OO ABAP, ABAP CDS Views, BRF+, BADIs, Proxy classes for inbound and outbound interfaces.
+        Hands-on experiences on Gateway OData services, analyzing Gateway ODS performance issues and troubleshooting ODS for ACM Fiori Apps. Extending the standard OData Service based on requirement.
+        Experience on Junction Functions, Of framework and solid troubleshooting, debugging, performance tuning of SAP standard ACM functionalities including Contracts, Call-Offs, Shadow documents, Price fixations and distributions, Expenses, DPQS, LDCs, Nominations, AppDocs, Settlements etc.
+        Strong experience in analyzing/troubleshooting issues around locks, SLG1 log, memory, DB updates, queues, buffer, high volume data, background jobs for ACM functionalities.
+        Overview of ACM-TM Integration, ACM process flow and integration with other modules (SD,FI and MM).
+
+
+
+
+Desired Technology and Skills
+
+
+
+
+        ECC SAP Agricultural Contract Management (ACM) 3.0/higher version -OR- S/4 1809 or higher SAP ACM 4.0 SP01
+        Exposure to AMDP.
+        Analyzing standard SAP code and implementing OSS Notes.
+        Experience in troubleshooting backend ABAP code of FIORI Apps.
+        Experience with integrating REST and SOAP API's into ACM.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 8
+
+
+
+
+
+
+        8+ years’ professional development experience with at least 4 years of experience with Java and Spring.
+        Hands on experience with Hybris Core Architecture, cockpits, impex, backoffice customization & accelerator store customization
+        3+ years of SAP Hybris 6.0+ commerce development experience.
+        At least two end to end Hybris implementations, preferably B2B.
+        Experience on customizing OCC web-services
+        Preferred experience of integrating SAP commerce with AEM
+        Experience on integrating payment provider with SAP Commerce.
+        Experience on integrating third party PIM (Product information Management)
+        Knowledge hosting SAP commerce on SAP Cloud CCV2.
+        Experience working with Git version control system
+        Experience of integrating SAP Commerce with SAP ERP or CRM system
+        Self-driven, able to work independently or within a team setting.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 9
+
+
+· Minimum of 3 years of SAP ABAP Technical development who has worked on multiple projects (Implementation, roll-out and support).
+
+
+· Minimum of one End-to-End Implementation as SAP S/4 ABAP Developer / Consultant
+
+
+· Should have strong hands on experience working on SAP S4 HANA using CDS Views and OData.
+
+
+· Analyzing new business requirements and proposing best suitable solution.
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 10
+
+
+SAP ABAP Technical Consultant Roles & Responsibilities
+
+
+ 
+
+
+        Real time Experience in SAP technical development (SAP ABAP) and Support of SAP Business Suite Solutions ERP-ECC R/3 and S4 Hana.
+        Experience in SAP ECC R/3 environment – Mandatory primary skill
+        Experience in SAP S/4HANA environment – Secondary (Good-to-have / optional)
+        Very strong programming skills / coding skills
+        Strong working experience in Reports, Interface, Conversions, Enhancements, Forms (SAP Scripts and Smart forms), Workflow, IDOC, EDI, Web Dynpro, Adobe forms, OSS note implementation.
+        Good to have experience or Knowledge on OData
+        Strong knowledge of Object-Oriented Programming.
+        Good Process knowledge / overview of SAP functional modules like MM, SD, FI, CO – mandatory.
+        Good to have Process knowledge on other SAP functional modules like PP, PS, SRM,EWM,GTS,HRM,CRM, etc.
+        Good to have End-to-end SAP Implementation experience.
+        Knowledge and understanding the business processes and technical process.
+        Understand the requirement from Functional specification.
+        Performance optimizations of existing reports and includes.
+        Quality check of new programs in respect of performance criteria and optimization
+        Deliver technical design based on the technical business requirements within timelines.
+        Testing Experience - Unit test of developments and deliver quality oriented objects.
+        Support technical integration testing, functional test and end-user testing.
+        Ensuring the handover of daily operations (system documentation)
+        Should be a team member.
+        consultative delivery and direct handling of business users and client leadership team.
+        client interface/management and presentation skills
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 11
+
+
+Must Have Skill:
+
+
+         SAP ABAP experience in object oriented programming, SAP smartforms, ADOBE forms/SAP Scripts, Data Dictionary, S/4 HANA concepts, ABAP7.4 programming syntax, BDC programming, ALV list display, Enhancements techniques like BADI, user exit, customer-exit, implicit enhancement, explicit enhancement in ABAP
+
+
+Good to have skills*
+
+
+ 
+
+
+         Knowledge in any of SAP - CDS Views, AMDP, HANA programming. Code Push Down techniques.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 12
+
+
+What you’ll bring:
+
+
+
+
+        Hands-on Coding is a must along with Design Excellence. 14 + years of experience in Software Development and Engineering along with Bachelor’s or Master’s degree ideally in Computer Science, related software engineering.
+        Tech Stack: Java, Python, ReactJS
+        Conceptualize and Drive the Implementation of complex functional/technical requirements by providing necessary technical concepts/architectural feasibility and guidance on available/readiness of Business Technology Platform components.
+        Drives key conceptual discussions in a timely manner
+        Ensure that relevant cloud qualities are baked into the product development.
+        Keep a constant tab on technology trends and drive/develop Proof of Concepts, which can bring considerable value to Product in the future as well as accelerate development efforts
+        You contribute to the team spirit by supporting an environment of continuous learning, exchanging of ideas & thoughts, and embracing a culture of innovation
+        ‘Live’ & promote healthy networking and collaboration within and outside the team.
+        Strong collaboration and communication skills in English
+
+
+Preferred skills:
+
+
+        Experience in agile development (e.g. SCRUM, extreme programming) and with distributed development is highly welcome
+        Knowledge in developing on cloud infrastructures (e.g. AWS, Azure, SAP Business technology platform)
+        Knowledge of cloud deployment paradigm using Docker, Kubernetes, Cloud Foundry
+
+
+Furthermore, the followings skills might be a benefit:
+
+
+        Experience with OData and REST
+        Ideally working experience with CI/CD pipelines
+        Awareness of secure programming
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 13
+
+
+Major Responsibilities:
+        Design, creation and maintenance of ABAP and SAPScript programs within SAP for all PPC offices, globally
+        Collaboration with Senior SAP Business Analyst to troubleshoot SAP program issues
+        Collaboration with Senior SAP Programmer on larger assignments and projects
+        Researching, documenting and thoroughly testing solutions
+        Closely following SOX approval processes
+        All other duties as assigned
+Qualifications:
+        Experience in developing ABAP programs and maintaining SAPScripts
+        Manufacturing industry experience is preferred
+        Works well both independently and as a collaborator
+        Possesses excellent oral and written communication skills
+        Enjoys creative problem solving in a fast-paced work environment
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 14
+
+
+ What you will be doing
+
+
+        Crafts architecture for systems and data integration, that enables the organization to deliver integration at scale
+        Analyzes system operations through monitoring, capacity analysis and root cause analysis to identify and drive change that ensures continuous improvement in system stability and performance
+        Assists in the overall maintenance and support of the efficient integration solutions
+        Leads integration testing phase of software and applications under development to identify and remedy potential issues
+        Demonstrates knowledge of software development life cycle (SDLC), modeling of business processes, application design patterns, and business/functional documents
+        Supports the building and maintenance of an Enterprise portfolio to support Application capabilities lifecycle and roadmap initiatives
+        Supports development of Platform Reference Architectures and Roadmaps
+        Advises business areas in the analysis of innovative technologies and how they impact the broader Enterprise Architecture
+        Analyzes the current technology environment to detect critical deficiencies and recommend tactical and strategic changes
+        Participates in the life cycle planning of existing IT assets
+        Analyzes the impact of implementing new technologies into the IT infrastructure
+        Develops a technical strategy for data integrations and implement a scalable design using industry best practices
+        Drives simplification and standardization of enterprise integration solutions and ensures low-cost, effective solutions that meet business requirements
+        Assists in the analysis, design, and development of the integration roadmap
+        Provides guidance, direction, and support to junior members of the technical team
+        Analyzes industry standards and trends in integration technologies
+
+
+Job Description
+
+
+Under general direction of the Manager, responsible for working directly with functional team members deployment team and Systems Integration (SI) partner team members.
+1. Takes a hands-on approach as it relates to the design development and implementation.
+2. Works with the functional team to ensure requirements are met by technical design.
+3. Facilitates issue resolution during testing process.
+4. Operates as the internal technical expert on Customer ABAP Development, ABAP, UI5, HANA, and other SAP related technologies to develop functional solutions that solve business needs and align with IT strategy
+5. Functions as the technical designer of future enhancements on Customer ABAP Development.
+6. Performs related duties as assigned.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 15
+
+
+Exposure working in S/4 HANA platform is mandatory
+
+
+A minimum experience 6-8 as an application programmer in ABAP with good working experience in Implementation & Enhancement projects
+
+
+Having worked in Migration Program, Interface design/development and implementation
+
+
+Having worked in ALV Reports/Enhancements
+
+
+Reviewing and understand the technical design document to ensure the development work is in compliance with the specifications.
+Determining development time estimates.
+Development of RICE items (Reports, interfaces, conversion, enhancement, Forms) with knowledge on flat file meachanism..
+Using the IT development standards, develop custom ABAP reports, Smart forms, SAP Scripts, Workflow, enhance standard ABAP programs using User-Exits, BADI, enhancement point and other enhancement techniques.
+
+
+Experience in Adobe Forms/DMEE is a must.
+
+
+Experience in ODATA and CDS views are desirable.
+
+
+Nice to have knowledge of FIORI /UI5.
+
+
+Nice to development experience in different views of HANA(Attribute & Analytical Views).Creation of calculation views from Analytical Views.
+
+
+Prepares comprehensive and thorough technical program documentation including specifications, test conditions, test plans, test data
+Identifying and resolving issues by analyzing programs and determining solutions.
+Analyzing programs to ensure optimal performance.
+Assisting functional teams when necessary in the testing efforts.
+General business process knowledge in MM, SD, FICO Modules.
+Work effectively and independently on assigned objects.
+
+
+Assisting functional teams when necessary in the testing effort and preparing data.
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 16
+
+
+
+
+Responsibilities
+
+
+        Perform Quality Assurance check for Clariant Change management.
+        Ensure adherence to established QA standards for SAP custom development, application integration, system performance, and documentation by:
+        Conducting regular checks to verify ABAP coding compliance with company programming standards and ensuring custom programs adhere to security policies.
+        Establishing and maintaining cooperative relationships with technical, functional team members, and business users to facilitate effective communication and collaboration.
+        Make recommendations for optimizing performance of applications to programmers.
+        Analyze and assess custom code performance and provide solutions within defined timeframes.
+        Provide optimization proposal on regular basis.
+        Provide guidance/explanation to other SAP consultants when necessary.
+        Make use and update documentations related to programming guidelines, naming conventions and other reports
+        Ensure relevant guidelines and documentations are updated.
+        Ensure relevant reports are delivered on time.
+        Make sure the change documents provided follow the company change policy.
+
+
+
+
+        Ensure compliance with agreed Standard Operating Procedure
+        Ensure adherence to predefined QA checking criteria and steps by:
+        Implementing rigorous QA processes to ensure compliance.
+        Delivering comprehensive QA documentation with well-documented check steps.
+
+
+
+
+Requirements
+
+
+        Atleast 3 to 5 years in SAP development tools.
+        Willing to work in role which includes reviewing of documents as per checklist
+        Good analytical mind and proficient in techniques of error handling and debugging skills
+        Conversant with relevant knowledge of business processes
+        Basic knowledge of ITIL best practices (IT infrastructure library)
+        Good verbal and written communication skills
+        Self-starter, work independently and strong team player
+        Meet established priorities and schedules
+        Learn and apply new concepts in information technology
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 17
+
+
+         8+ years of hands on SAP CRM/ISU ABAP programmer with at least one SAP IS-U project full implementation.
+
+
+        They must be very competent with Object Orientated code (OO) breaking the code up into small methods and putting the minimum code in the program.
+
+
+        They should be able to pick up a task, work on it themselves, thoroughly test it and hand it back.
+
+
+        They should be use to putting in plenty of documentation in their code, before a logic block (*) and after most lines (").
+
+
+        Must have knowledge and experience in the following development components:
+
+
+        General Abap + OO code.
+        ISU and CRM experience.
+        FI
+
+
+        Good to have knowledge and experience in the following development components:
+
+
+        BADI
+        BDocs
+        Workflow
+        Alv/salv
+        SPAU/SPDD
+        SRM
+        IDocs
+        FIORI
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 18
+
+
+Experience: 5+ years
+
+
+Value adds skills:
+
+
+        Min. 2 years’ experience in one of below are top priority.
+        EWM Development.
+        TM Developments.
+        APO Developments.
+        Adobe forms Developments.
+        ABAP/CDS/OData/Gateway.
+        Fiori/UI5/OData.
+
+
+
+
+Roles & Responsibilities:
+
+
+        Sr Programmer or Sr Analyst.
+        Position Type: Contractual.
+        BASIC ABAP /DB Programming.
+        Reporting.
+        Technical Architecture (Interfaces, FMs, Enhancements/Extensions, BAdis).
+        Technical/Functional Flows.
+        Programming expertise on SAP EWM.
+        Master data / CIF; Process/Document flows; BOPF; CIFF.
+        Interfaces with ECC and other modules; Queues.
+        Expertise (ABAP; ABAP EWM; ABAP TM; CDS/OData; Fiori/UI5).
+        Adv. ABAP (oData/HANA/CDS/SAPUI5/BOPF).
+        Trouble Shooting Techniques; Outputs processing (PPF) Concepts.
+        Programming expertise on SAP TM.
+        Master data / CIF; Process/Document flows; BOPF; CIFF.
+        CDS Associations; CDS Annotations.
+        Development expertise on CDS/Odata.
+        UI5 Basics; Models/Binding/Routing; UI5 annotations; Smart controls.
+        Fiori Elements; Standard App activations; Extensions.
+        Fiori Launchpad configuration (Theme Designer) – Desirable.
+        Role Management (Catalog/Groups).
+        Debugging; Performance Tuning; Usage of reusable objects.
+        Gather Requirements/Tech Solutions.
+        Communication & Task presentation.
+        Commit to deliver & Learning Attitude.
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 19
+
+
+ Job Description
+
+
+        Primary skill: SAP ABAP (good to have Odata/ CDS / S4 exp.)
+        Demonstrated working experience with core ABAP, BAPIs, Smart forms, ALE, RFCs, IDOCS, Enhancements and/or User exits.
+        Perform as an individual contributor with high degree of accountability with minimum assistance.
+        Ensure quick turnaround in identifying application issues and providing timely solutions.
+        Execute unit testing to ensure the accuracy of his/her developments.
+        Realize the development/requirement as per the technical specification provided.
+        Adhere to all coding standards and performance measures, as per customer/organizations guidelines.
+        Must have experience in Support Projects. Experience in Rollout and E2E implementation would be an added advantage.
+        Ability to create Technical Design Documents TDD and Unit Test documents.
+        Ability to help resolve complex technical issues and manage critical/complex situations.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 20
+
+
+The Role
+
+
+To increase our delivery strength in the region, ECS delivery organization is looking for technical professionals to be part of the SWAT team who are expert in any of the given technologies, SAP Basis, Database, Server management with prior experience of customer facing.
+
+
+        In this role you are expected to drive critical topics related to escalation handling, Incident Management, Problem Management, Service request, build, migration, go-live, High Availability, Disaster Recovery, Backup & Restore and additional assistance with Server Management topics.
+        You will be responsible to drive continuous improvement to increase operation, availability, and efficiency.
+        Infrastructure landscape re-architecture and new technology adoption is another important part.
+        We are looking for SAP Techno-Functional Specialist with Server management expertise for the ECS Regional Delivery APJ team who will report to the Regional Delivery Head.
+        Global thinking and a strong customer focus are essential.
+        Lead the team of experts during critical situations or customer escalation.
+        Customer is at the centre of our daily workload management, and we structure this workload in Operational, Tactical, and Strategic towers. Hence, as a core team member, you work closely with a customer-facing team.
+        You will have opportunity to work in the Continuous Improvement and strategic initiatives and address customer pain points.
+
+
+
+
+Expectations and Tasks
+
+
+        Drive continuous improvement in the area of ECS architecture, ECS delivery and tools enhancement.
+        Strong analytical and systematic problem-solving skills, including impact assessment.
+        Experience in project management & Process definition.
+        Escalation handling & de-escalation of situation will be major part of job.
+        To work with leadership team to agree on strategic priorities, setup improvement projects and work with teams to enhance process efficiency, elevate quality standards, and accelerate operations.
+        Regional SWAT team will engage with Delivery team, CDM and TSM to de-escalate a customer situation.
+        Ready to learn other SAP product administrations like cloud connector, S4HANA etc.
+        Inter-department collaboration on various topics.
+
+
+
+
+Skills and Competencies
+
+
+        Hands-on experience in one of the areas like Basis, System Performance Management, Database, Lifecycle events (Upgrades / Updates), SAP Project Management, Support, Escalation Management
+        Knowledge of Service delivery, Operations, ITIL/ITSM processes
+        Good understanding of around database and filesystem replication and preparation of network routing.
+        Experience in Problem Management, root cause analysis
+        Strong Customer Service Focus
+        Exposure to the automation tools /scripting or processes
+        Organize / Structure day2day Operations & Documentation
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 20
+
+
+The Role
+
+
+To increase our delivery strength in the region, ECS delivery organization is looking for technical professionals to be part of the SWAT team who are expert in any of the given technologies, SAP Basis, Database, Server management with prior experience of customer facing.
+
+
+        In this role you are expected to drive critical topics related to escalation handling, Incident Management, Problem Management, Service request, build, migration, go-live, High Availability, Disaster Recovery, Backup & Restore and additional assistance with Server Management topics.
+        You will be responsible to drive continuous improvement to increase operation, availability, and efficiency.
+        Infrastructure landscape re-architecture and new technology adoption is another important part.
+        We are looking for SAP Techno-Functional Specialist with Server management expertise for the ECS Regional Delivery APJ team who will report to the Regional Delivery Head.
+        Global thinking and a strong customer focus are essential.
+        Lead the team of experts during critical situations or customer escalation.
+        Customer is at the centre of our daily workload management, and we structure this workload in Operational, Tactical, and Strategic towers. Hence, as a core team member, you work closely with a customer-facing team.
+        You will have opportunity to work in the Continuous Improvement and strategic initiatives and address customer pain points.
+
+
+
+
+Expectations and Tasks
+
+
+        Drive continuous improvement in the area of ECS architecture, ECS delivery and tools enhancement.
+        Strong analytical and systematic problem-solving skills, including impact assessment.
+        Experience in project management & Process definition.
+        Escalation handling & de-escalation of situation will be major part of job.
+        To work with leadership team to agree on strategic priorities, setup improvement projects and work with teams to enhance process efficiency, elevate quality standards, and accelerate operations.
+        Regional SWAT team will engage with Delivery team, CDM and TSM to de-escalate a customer situation.
+        Ready to learn other SAP product administrations like cloud connector, S4HANA etc.
+        Inter-department collaboration on various topics.
+
+
+
+
+Skills and Competencies
+
+
+        Hands-on experience in one of the areas like Basis, System Performance Management, Database, Lifecycle events (Upgrades / Updates), SAP Project Management, Support, Escalation Management
+        Knowledge of Service delivery, Operations, ITIL/ITSM processes
+        Good understanding of around database and filesystem replication and preparation of network routing.
+        Experience in Problem Management, root cause analysis
+        Strong Customer Service Focus
+        Exposure to the automation tools /scripting or processes
+        Organize / Structure day2day Operations & Documentation
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 21
+
+
+SAP SD Functional Consultant who will carry out below set of activities:
+• Responsible for the execution of the detail design and configuration of the current business processes in SAP#s ECC6 ERP and S/4 Hana product. This includes working with the Process Team Lead in the analysis and decomposition of current business processes, perform the scripting exercises, and design and configure the SAP#s system to support the organizations "To-Be" process vision. This implies providing design for integration with all upstream and downstream processes.
+• Design of Functional Specs for reports, forms, interfaces, enhancements and conversions.
+• Execution of the system unit testing and integration testing. This includes performing the test, making changes in configuration based on results, and error resolution.
+• Conduct workshops and presentations to validate business design with the end user community.
+• Working with the end user documentation team in the identification of business processes and system tasks to be documented as well as providing training to the end user training and development team.
+• Design Authorization profiles
+• Provide post-implementation production support.
+
+
+Key Skill & Knowledge Profile:
+• Degree (B. E. / B. Tech) Comp Science
+• Professional experience & Configuration Skills and thorough knowledge in
+• Sales order processing including pricing
+• Availability Check
+• Delivery Process
+• Transportation planning
+• Billing / Invoicing
+• Customs processes in Export
+• Credit Management
+• Sales Information System
+• Very good knowledge of Order to Cash Business processes.
+• Knowledge of Integration with all other upstream and downstream engineering / automotive industries business processes
+• Very good understanding of Business process redesigning concepts
+• Experience in handling international clients; SAP certification will be preferred
+• Worked as independent SD consultant on real life SAP Implementation, Roll-out & Support projects
+• Minimum 2 end-to-end implementation cycle experience required
+
+
+Behavioral & Personal Attributes:
+• Executes with Speed
+• Adheres to delivery timelines
+• Improves the knowledge of the team and self by Knowledge Sharing Session (KSS)
+• Shares best practices with other teams to continuously improve process efficiency
+• Guides & collaborates with peers
+• Strong organizational and time management skills
+• Good communication skills
+• Ready to work in shifts and flexible to put extra efforts
+• Needs to have Good Oral and written communication skills
+• Good analytical and problem solving capability
+• experience in handling international clients
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 22
+
+
+Must have :
+• Experience in Financial Global, GL, AR, AP, Bank Accounting, Asset Management, Cost Center and Profitability Accounting
+• SAP ECC and S/4H FI – specifically G/L, AP and AR, 3+ years.
+• SAP Central Finance – especially as it relates to data staging and replication, 2+ years.
+• Finance, accounting knowledge, preferably worked in a Finance department or has a Finance degree.
+• Knowledge of Finance tables in ECC and S/4 (e.g. BKPF, BSEG, BSET, ACDOCA, etc.) and extraction using SE16H.
+• Strong ability/experience to read procedural and OO ABAP.
+• Strong ability/experience to use SAP’s ECC/S4H ABAP debugger (/h).
+• Advanced user of Excel data functions e.g. formatting, lookup, pivot function, etc. Ideally has dealt with source SAP source system to CFIN target system reconciliation issues.
+• e.g. related to G/L open items vs balance, missing clearing info or documents in CFIN, etc
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 23
+
+
+
+
+SAP SD Consultant the Consultant should be able to facilitate the implementation and roll out of SD module to enhance the client’s business functionality and overall performance, while maintaining a high degree of customer satisfaction.
+
+
+Education: Graduation from Reputed University.
+
+
+Technical or Management degree or equivalent education Total experience should be 8-10 years only in SAP5-10 years of relevant consulting experience 3 end to end implementations or 2 end to end implementations and 1 roll outs Relevant domain experience in Sales & Distribution SAP SD / SAP LE (Sales Order processing, Pricing and Conditions, Availability check and Requirements, Credit Management, Output determination, Foreign Trade/Customs, Billing, Shipping and Transportation) Expert in Logistics processes (Inbound and Outbound processes, Transportation and Shipping) in SAP Good experience with the integration areas of Logistics with other modules of SAP Good experience with the integration areas of SAP SD configuration and SAP integration with other modules and other application LSMW, BAPI, workflow knowledge. Experience of IDOC, Interfaces and experienced in SAP configuration, Writing Functional Specifications, gathering customer requirements, problem solving and troubleshooting Deliver of New Business Request/ Change Request with good quality, the defined timeline and the defined budget Experience of IDOC, Interfaces, LSMW, BAPI, workflow knowledge & Analyze clients business needs & opportunity to propose the matching solution to client Good verbal and written communication skills. Poses consultancy, problem solving and analytical skills Strong client facing Demonstrate the ability to plan, run, and manage and sustain the operation support service delivery according to agreed SLA with quality and customer satisfaction by following ITSM Certification will be added advantage Leading the team(s) they are assigned to, in functional capacity, adding value to the project and to the final deliverables Minimum 4 Global project experience is must
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 24
+
+
+Primary Skills
+
+
+Capgemini is seeking a Director/Sr Director level executive as an SAP Principal architect for Auto Industry domain. The Candidate will:
+• Oversee the integration of SAP systems with other enterprise applications, third-party solutions, and external interfaces within the automotive ecosystem.
+• Understanding of related IT and latest Emerging Technologies
+• Identify potential risks and issues during project execution, develop mitigation strategies, and proactively address challenges to minimize disruptions and ensure project success.
+• Stay updated on SAP advancements, emerging technologies, and industry trends within the automotive sector, and recommend enhancements to optimize SAP solutions and drive business value.
+
+
+Secondary Skills
+
+
+He/She/They OR, the incumbent will have 16-25 years of experience as a Solution Architect with strong experience in Auto Industry domain with a strong project track record.
+• 12+ years of Life Sciences industry experience
+• 15+ years of SAP implementation experience including knowledge of Life Science and requirements such as Validate Environments, FDA CFR Part11, Batch Traceability, Electronic Signature, Lab Information Management Systems (LIMS), Sustainability, SAP Information Collaboration Hub
+• Vertical industry experience in Life Sciences viz, Med tech, Pharma, Biopharma
+• Core SAP S/4HANA and Line-of-Business solutions relevant to Life Sciences Industry
+• Professional certifications – Any relevant SAP Certification / Process Validation Professional (CPVP)
+• Fluent in English with strong communication and presentation skills
+• Strong executive presence and ability to interact with CxO level
+• Experience from working with global environments & diverse cultures.
+• Successful teamwork experience and demonstrated leadership abilities are required.
+• Proven ability to transfer knowledge and stay aware of current trends and technical advancements
+------------------------------------------------------------------------------------------------------------------------------------------
+Job Description 25
+
+
+PRIMARY DUTIES AND RESPONSIBILITIES:
+• Maintains, enhances, designs, and develops software systems responsible for all core business functions
+• Leads a cross-functional software team in the design, development, test, and deployment of products
+• Acts as a SME for software engineering practice to build high-quality software and influences teams to follow those practices, and drives continuous improvements through the processes, technology, and people
+• Defines roles and activities necessary for a successful product materialization
+• Assists in Personnel management activities including training, evaluation, appraisal etc.
+• Provides leadership across all aspects of development to maintain a high bar for technology, people, and processes
+• Manages several business operations functions such as governance, asset management, client engineering & operations, DevOps, communications, and project management as well as leading the strategic initiatives around the deployment and adoption of the modern workplace
+• Works closely with stakeholders from product and design, and other engineering leaders, to provide high-quality, repeatable technology delivery
+• Leads scrum team(s) in agile development projects and mentors other scrum masters
+• Establishes CI/CD pipelines
+• Recommends tools to help enable automation of builds, deployments, static code analysis, unit testing, etc.
+• Guides, advises and ensures agile and DevOps mindset in the team
+• Builds & leads the entrepreneurial team in a fast-paced and high-growth environment
+• Evaluates, recommends and promotes DevOps toolchains for platforms and solutions
+
+
+What your background should look like
+
+
+EXPERIENCE AND EDUCATIONAL REQUIREMENTS:
+• Bachelor’s Degree in Computer Science, Information Systems, or other related field, or equivalent work experience.
+• Typically has 10 or more years of IT work experience in application build, design, testing, and development experience.
+• Requires a broad level of understanding surrounding information systems and software architecture standards. Requires advanced to expert level knowledge and understanding of architecture, application design, system engineering and integration.
+
+
+MINIMUM SKILLS, KNOWLEDGE AND ABILITY REQUIREMENTS:
+• Normally requires a minimum of five (7+) years directly related and progressively responsible experience designing building testing and deploying enterprise SAP solutions; five (5) years of SAP application development (certification preferred) with in-depth experience in ABAP Workbench, ABAP Objects, BAPI, BADI’s, RFC Smart Forms, Adobe Forms, IDOCs, BDC and ALV Programming.
+• Experience extending existing S/4, and/or writing entirely new S/4 programs and functions
+• Experience designing and maintaining Core Data Services (CDS) views and ODATA services
+• CDS tools using ABAP in Eclipse (ADT), and ABAP Managed Database Procedures (AMDP)
+• Proficient in ABAP/OO, ABAP CDS Views, Annotations, OData
+• Experience with ABAP on HANA development
+• HANA - Familiarity with the methods, functions, and capabilities of SAP HANA, how solutions should be integrated and architected, and additional supporting knowledge to develop and deploy SAP HANA in an enterprise SAP instance.
+• Experience in SAP Fiori (on-premise and cloud) and web user interface technologies like SAPUI5, JavaScript and Web IDE
+• Experience in setting up Fiori best practices and making sure application architecture and design is following best practices.
+• Work closely with customers, product owner, UX designers plus usability experts to present compelling user experience.
+• UI - Build a strategic & scalable UI UX applications and framework to harness the digital core and helps build long term strategy on how apps be integrated and architected, and additional supporting knowledge to develop and deploy UI applications in an enterprise SAP instance.
+• Good knowledge of HTML5, CSS, Java script
+• Experience in drafting & driving UI UX strategy & design
+• Portal Applications and Standards, Content Management Systems, AJAX, JavaScript and XML technologies
+• Experience with SAP Fiori Elements
+• SAP Fiori/ UI5 & Responsive Design Architecture.
+• Should Know SAP Fiori UI5 JavaScript and should be able to build Fiori Apps based on UI5 and JavaScript.
+• Should know Model View Controller (MVC) programming concept.
+• Experience with javascript / CSS support for multiple browsers such as IE, Firefox, Safari etc.
+• Experience in low code/no code platforms & implementation
+
+
+Experience in SAP BTP, Business Application Studio, Restful ABAP Programming Model
+
+
+
+
+
+
+
+
+
+
+
+
+JD1
+A career within SAP Consulting services, will provide you with the opportunity to help our clients maximise the value of their SAP investment with offerings that address sales, finance, supply chain, engineering, and human capital. We provide comprehensive consulting, system integration and implementation services across multiple SAP applications, products and technologies. Simply put, we focus on delivering business led, technology enabled change for our clients including industry specific enterprise resource planning and the latest in mobile, analytics and cloud solutions. Skill- SAP Opentext VIM Experience Required – (SA Level – 4+ Years) 
+Education – BE/BTech/ME/MTech/MBA/MCA Job 
+Responsibilities: -  Experience in the VIM Patching and Upgrade initiative.  At least one full project lifecyle implementation experience in SAP FI is a must. understand the flow and functionalities of the VIM 7.5 and above.  Functional knowledge on SAP modules of MM and FICO.  Present and configure VIM workflow scenarios.  Standard VIM Reports and custom report designing. Secondary Skills.  Good to have experience in OCR and BCC setup and standard business process flows.  Good-to-Have Open Text VIM / SAP FI certification Mandatory skill sets- SAP VIM Preferred skill sets- SAP VIM Year of experience required- 4+ Qualifications- BE/BTech/ME/MTech/MBA/MCA Required Skills SAP Investment Management (SAP IM) Optional Skills Desired Languages (If blank, desired languages not specified)
+
+
+JD2
+
+
+Must Have Technical/Functional Skills
+Must have experience in S/4 Hana, APO, Livecache, BW, PI, Solman is a must.
+Should have experience on both ABAP & JAVA stacks.
+Ability to handle batch scheduling, performance issues.
+Ability to handle printer setup, Print performance issues
+Should have experience in homogenous and heterogeneous refreshes.
+HANA system administration using SAP HANA Cockpit and HANA Studio.
+Implementing SAP HANA Table management techniques - data compression, table partition, compression techniques, and load/unload table into memory, replication
+Involve in creating technical design documents from the functional specification documents.
+Can perform analysis and diagnosis of system and storage issues.
+Analyse performance bottlenecks (SQL Plans) and provide optimization techniques.
+Experience in handling multiple integration patterns with middleware and do issue analysis.
+Ability to support routine tasks and Disaster recovery.
+Must have worked on Implementation project covering system setup, sizing, and administration.
+Should possess excellent communication skills.
+Should have worked on Support projects and experience in L2 and L3 Support and ITIL Processes and On call support
+Adherence to client specific SLA on ticket and issue resolution(s), RCA analys is
+Establish a strong working relationship with the client business leaders and project sponsors.
+Experience Required SAP Basis
+Roles & Responsibilities
+Responsible to maintain system health and proactively monitor any risk.
+Establish strong working relationships with client and other team members.
+Sort out day to day queries of end users.
+Participate in any system related discussions.
+Generic Managerial Skills
+Requirement Management
+ITIL Processes
+New CR and requirement analysis
+High level planning
+Root cause analysis
+
+
+
+
+JD3
+
+
+SAP PM Functional Consultant
+Should have worked in at least 1 S/4HANA project as a SAP PM Lead consultant
+Knowledge of SAP PM solution capabilities and business process configurations
+Configuration of master data and be able to guide and train the users on Business Process.
+Significant, proven customizing experience within SAP PM
+Thorough knowledge of business processes within SAP PM
+Experienced in playing a major role in implementation projects
+Excellent consultancy skills and a pro-active attitude
+Excellent communication skills (written and verbal)
+Experience in writing functional requirements / designs
+Should have reasonable experience in SAP Plant Maintenance(SAP PM)
+Able to gather SAP PM requirements and translate them into solution
+Lead and main point-of-contact for customer IT & Business teams for resolution of production issues, implementing enhancements and and integrations for S/4 HANA PP/QM/PM modules
+
+
+JD4
+
+
+Sr. SAP Financial consultant
+
+
+1. The Consultant must have a proven functional and technical background, with at least ten years experience in SAP implementing and supporting functionality within the SAP Financials and Logistics modules.
+2. Completed a minimum of two SAP full life cycle implementations.
+3. Advanced knowledge of SAP Enterprise Core Component (ECC) Financials and Logistics (FI) and FI configuration
+4. Provide a ticketing system to allow Client to log tickets and track progress.
+5. Sound knowledge of SAP configuration as it relates to governmental accounting practices, including but not limited to Fund and Grant accounting.
+6. Be able to quickly understand Client s SAP operational landscape (SLD)
+7. Ability to create robust operational support documentation for future reference and maintainability.
+8. Have good SAP project management skills and experience following SAP Best Practices
+9. Knowledgeable of touch points related to General Ledger, Accounts Payable, Accounts Receivable, Material Management, Purchasing, Funds/Grants Management, Project Systems, Fixed Assets, Controlling, Portfolio and Project Management, and OpenText VIM/ICC
+1. Knowledge of configuring SAP Workflow
+2. Bring best practice approaches for the Team to consider in a variety of areas including transport, testing, design, prototyping, training, defining support procedures, etc.
+3. Ability to trouble-shoot issues, including the ability to conduct related research and work with the Team to raise SAP Customer messages as needed.
+4. Experience with writing blueprint documents, configuration documents, and related customer documentation to be used for future reference.
+5. Experience with writing and performing test scripts relevant to functional changes made within the Financials and Logistics modules.
+6. Ability to quickly decipher and understand custom code.
+7. Knowledge required to debug system related issues.
+8. Public sector experience
+9. Ability to work with limited direction.
+10. Strong teamwork and customer support focus
+11. Strong interpersonal skills
+12. Ability to handle numerous conflicting priorities in a professional manner.
+13. Good written and verbal communication skills
+14. Bringing best practice approaches for the customer to consider in a variety of areas.
+15. including transport, testing, design, prototyping, training, defining support requirements
+16. and procedures, etc.
+17. Experience with writing related customer documentation to be used for future reference.
+18. Ability to cross train and transfer knowledge to OWNER support teams.
+19. Ability to effectively collaborate and engage with all team members.
+20. Speak and write in English well.
+21. Ability to plan and organize work and responsibilities.
+22. Good facilitation skills.
+
+
+JD5
+
+
+Job: SAP Developer/Programmer- Expert
+Location: Remote - 1020 Birch Ridge Dr, Raleigh, NC 27610
+Client is seeking a Sr. Developer to be a key resource for analyzing, designing, developing, implementing, and supporting SAP FIORI and ABAP applications, and OpenText document management efforts in a mature SAP environment.
+* The candidate will work remotely unless the decision is that all staff return to work onsite. At that time, the candidate will also be expected to work onsite.
+* The candidate will need to use his or her own computer unless he or she starts working onsite. If the candidate is working full time onsite, he or she will be given client equipment.
+Clients' environment services over 6,000 users and includes instances of ECC, CRM, BI, Business Objects, Enterprise Portal, Solution Manager, GRC, NWCE, PI, BTP and OpenText document management. This position plays a key role in establishing, executing, and supporting our corporate strategy for SAP development. Maintaining a sound production environment for development initiatives while at the same time participating in multiple projects with varying degrees of complexity is key.
+This role requires close collaboration and coordination with the Business departments, EBS Development team, EBS Basis team, EBS Functional team, EBS Operations Services and Support team, Network Engineers, and Enterprise Architects.
+Description (including, but not limited to):
+Required Skills:
+1. Design, develop, and implement solutions writing custom SAP code using ABAP, Web Dynpro, and JAVA code with SAP HANA to satisfy business requirements - Required 10 Years
+2. Design, develop, and implement SAP Fiori/UI5 applications using the HTML5 development toolkit, XML, JavaScript, CSS and HTML5 - Required 7 Years
+3. Develop SAP OData Models using SAP Gateway Service builder and CDS Views - Required 7 Years
+4. Develop SAP Fiori/UI5 apps using SAP Web IDE consuming Gateway OData/Restful APIs, JSON services, and Git - Required 7 Years
+5. Experience with extending, customize, and implement SAP Fiori standard components - Required 5 Years
+6. Experience with supporting UX Discovery and Design Thinking workshops with customers - Required 3 Years
+7. Experience with SAP Fiori Elements (List Report, Work List, Object page etc.) and SAP Annotations - Required 4 Years
+8. Experience with SAP Cloud Platform and Fiori Architecture on Cloud and On-Premise deployments - Required 6 Years
+9. Experience with Fiori Launchpad Designer, Catalogs, Groups, and Portal - Required 7 Years
+10. Experience with ABAP Development tools in Eclipse environment - Required 5 Years
+11. Experience with Chrome/Edge debuggers - Required 5 Years
+12. Experience with SAP BSP development - Required 5 Years
+13. Experience with SAP Business Application Studio - Required 1 Years
+14. Experience with Mobile App development including SAP Fiori for iOS/Android - Required 1 Years
+15. Experience with OpenText Administration Client configuration, administration, upgrading Archive Center server software, and Microsoft SQL Server Configuration - Required 7 Years
+16. Experience with OpenText Enterprise Scan and Imaging Windows Viewer client-side software installation and configuration - Required 7 Years
+17. Experience with OpenText Doculink for SAP Solutions - Customizing projects for Doculink Applications - Required 7 Years
+18. Experience with OpenText/SAP configuration and development, related but not limited to Doctypes, connections, and Content Repositories, WebViewer - Required 7 Years
+
+
+JD 6
+
+
+Opentext Administrator
+
+
+Job Description:
+- Have at least 10+ years of strong technical experience with a wide range of technologies specifically, OpenText xECM, Opentext Content server & Opentext Archive Center
+- Hands on experience on Content Server, Archive Center, xECM installation, upgrade and configuration.
+- Hands on experience on integrating Opentext with SAP.
+- Should have experience in implementing Opentext 22.X, 23.X versions.
+- Experience on configuring Content Server , Archive Server, xECM for SAP, Brava!, Blazon and Opentext Directory Services
+-Good to have experience on xECM for Engineering.
+- Fluency in DevOps, including continuous integration, continuous deployment / delivery, configuration, and containerization
+- Good experience and knowledge on Configuration and Administration/Troubleshooting of OpenText products.
+- Knowledge in OpenText Extended ECM and Business Workspaces configuration is desirable.
+
+
+JD7
+SAP MM Consultant
+Consultant/ Sr, Consultant - SAP MM Total Exp (Yrs.): 5 - 10 Relevant Exp in SAP MM (Yrs.): 3- 7 Job Location – Bangalore CTC: As per the Company standard Material Management Integration of MM with other SAP Modules Designing new Programs Testing the applications Documentation of processes Position requires interaction with end user and/or customer. Certification in MM preferred/ added advantage Experience of S4 HANA preferred. Basic knowledge in SD preferred and will be an added advantage. Good Communication Skills and attitude
+
+
+JD 8
+Job Description • 4 to 6 years’ Experience on SAP S4 HANA MM module. • Experience with key process of Purchasing and can troubleshoot various issues in the SAP system and provide support for the same. • Good knowledge of configuring the solutions as per the requirements with good quality and performance. • Experience in SAP MM-PUR like RFQ, Quotation, Contract management, PIR. • Good expertise in release procedures and output management. • Good knowledge of MM organizational structure and should be able to configure them. • Good understanding of SAP MM Pricing Procedure. • Experience in SAP ABAP – Debugging. • Experience in monitoring and troubleshooting interfaces (SAP and Non-SAP). • Should be able to perform root cause analysis. Primary Skill • Design and configure the solutions as per the requirements with good quality and performance. • Understand business processes and technical architecture of Airbus SAP landscape. • Define/suggest SAP best practices and Golden rules. • Work with different stakeholders and define the process as per the needed functionalities. • Excellent communication skills as required to engage customers on requirements and delivery. • User acceptance testing on coordinating with all the users and keeping the status as per the timelines. • Able to report regular KPI as per the Business need and train the key users on change management processes. Secondary Skill • Knowledge on SAP SRM, COUPA • Knowledge on BRF Plus, Flexible workflow
+
+
+JD 9
+ Ideal candidate should have minimum 4 years of experience in SAP MM with E2E implementation of S/4 Hana projects • Good working experience in SAP MM skills like MTS MRP, Batch (Strategies/ Valuation contents of BBP (As-is, pfd, decision, steps). • Domain experience exposure • Knowledge of GST and Tax Applicability • Ability to understand business processes from a customer perspective • Ability to work in a team environment, effectively interacting with others • Excellent communication, presentation, and problem-solving skills • Ability to work independently and as part of a team
+
+
+JD 10
+
+
+Ensure services are delivered in accordance with agreed customer requirements, ensuring the services continue to meet or exceed expectations Monitor and track the performance (availability, response time, incident resolution etc.) against the Service Level Agreement Perform ITIL based support processes that include incident, problem, change, configuration, and event management in accordance with quality plan Support the L2 & L3 levels by analyzing Bugs and proposing functional or technical solutions Challenge the L3 solution proposed by the suppliers in case of incident, problem, change, configuration, and event management. Support the Material Logistics “Application Services” process Ad Hoc support of warehouses in Middle East, Asia & USA Analyze console messages, diagnose system failures and take corrective action in order to ensure continuity of operations, escalating to other technical teams and vendors if needed This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth. Required skills Your Boarding Pass: 3 years minimum of experience SAP background is required. Strong knowledge on the following modules WM, MM, QM Willingness to occasionally work outside of usual working hours Coding languages like ABAP is a plus (no development expected) Expertise in Supply Chain and Material Management is appreciated Ability to work independently and collaboratively with multiple partners Personal resilience to challenge status quo Demonstrated ability & autonomy to do free-lance research Excellent and adaptive communication with diverse audiences & skills Active listening skills This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth. Company: Airbus India Private Limited Employment Type: Permanent
+
+
+JD 11
+Roles and Responsibilities • Collaborate with Product Managers to gather and prioritize requirements for ongoing initiatives, ensuring alignment with business objectives and user needs. • Lead the design and implementation of complex SAP MM solutions, leveraging best practices and ensuring adherence to industry standards. • Manage the full software implementation life cycle, including configuration in SAP, test planning and execution, deployment to test and production systems, and support during and after go-live. • Optimize existing SAP solutions for performance and efficiency, identifying areas for improvement and implementing enhancements to drive operational excellence. • Play a key role in integration efforts with other SAP modules (SD & FI) and external systems, overseeing data mapping and transformation. • Take ownership of resolving complex issues related to SAP MM functionality, collaborating with technical teams when necessary to implement effective solutions. • Identifying opportunities for efficiency gains and driving continuous improvement within the SAP MM domain. • Develop functional specifications for custom developments when needed, ensuring clear requirements documentation for development teams. Qualifications • Bachelor’s degree in computer science, Information Systems, or related field. • 5-8 years of hands-on experience within the SAP MM module, with involvement in at least 3 implementation and development projects. • Strong understanding of SAP MM-SD-FI integrations and their impact on business processes. • Very good knowledge of the purchase to pay process, with a focus on optimizing procurement and payment workflows. • Proficiency in configuring the inbound goods process in SAP, enhancing supply chain efficiency. • Exposure to SAP Inventory Management and knowledge of SAP Accounts Payables. • Experience developing functional specifications for custom developments. • Desirable: Some experience working with SAP S/4HANA, demonstrating adaptability to evolving SAP technologies
+
+
+JD 12
+SAP PP/IM/QM 
+As a Senior Associate, you'll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to: • Use feedback and reflection to develop self awareness, personal strengths and address development areas. • Delegate to others to provide stretch opportunities, coaching them to deliver results. • Demonstrate critical thinking and the ability to bring order to unstructured problems. • Use a broad range of tools and techniques to extract insights from current industry or sector trends. • Review your work and that of others for quality, accuracy and relevance. • Know how and when to use tools available for a given situation and can explain the reasons for this choice. • Seek and embrace opportunities which give exposure to different situations, environments and perspectives. • Use straightforward communication, in a structured way, when influencing and connecting with others. • Able to read situations and modify behavior to build quality relationships. • Uphold the firm's code of ethics and business conduct. Role: Senior Associate Tower: SAP Experience: 6 - 10 years Key Skills: SAP PM Educational Qualification: BE / B Tech / ME / M Tech / MBA / B.SC / B. Com / BBA Work Location : India Job Description • As an Associate, you'll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to: • Collaborate effectively with others. • Identify and make suggestions for improvements when problems and/or opportunities arise. • Handle/analyze data and information responsibly. • Follow risk management and compliance procedures. • Keep up to date with developments in the area of specialization. • Communicate confidently in a clear and concise manner. • Uphold the firm's code of ethics and business conduct. • Work in a team environment that includes client interactions, manage deliverables independently, and cross-team collaboration. • Good Team player. Take up cross competency work and contribute to COE activities. Position Requirements : Required Skill : • 6-10 years of experience in SAP PM. • Implementation experience should be in version 4.7 upwards. ECC 6 would be a plus • Hands on experience in configuring / defining the following in the Plant maintenance module: • SAP System modules and skills including PM (Plant Maintenance), MM (Materials Management), PS (Project Systems), SD (Sales and Distribution), SAP Business Workflow/Webflow, SAP Solution Manager • Configuration of PM objects such as: Notifications Orders, Preventative Maintenance Cycles, Plans and Task Lists, Settlement Rules, Equipment, Functional Locations, Measurement Points, Costing Sheets, Work Centers, BOMs, Compatible Units, Linear Assets, • Integration competencies for SAP PM to various core SAP modules FI, CO, PP, SD, PS, MM, WM and related applications such as BW-BI, Prometheus, Mobile Solutions, etc. • Should have good written and oral communication skills • Must be a good team player Preferred Skills: • SAP Certification on PM Module • Used Solution Manager in the implementation • Worked on integration with other modules like MM, WM, SD, PM, PP • Experience in any ticket management tool and support relevant work environments. • Good Communication skill in English • Strong understanding of integration with other modules like • MM • SD • PP • WM • QM • Exposure to interfaces like ALE/IDOC or EDI/IDOC with little technical knowledge • Hand of experience in Tools like Service now, Solution Manager, Jira, HP4, MQC,LSMW etc. Managed Services - Application Evolution Services • At PwC we relentlessly focus on working with our clients to bring the power of technology and humans together and create simple, yet powerful solutions. We imagine a day when our clients can simply focus on their business knowing that they have a trusted partner for their IT needs. Everyday we are motivated and passionate about making our clients’ better. • Within our Managed Services platform, PwC delivers integrated services and solutions that are grounded in deep industry experience and powered by the talent that you would expect from the PwC brand. The PwC Managed Services platform delivers scalable solutions that add greater value to our client’s enterprise through technology and human-enabled experiences. Our team of highly-skilled and trained global professionals, combined with the use of the latest advancements in technology and process, allows us to provide effective and efficient outcomes. With PwC’s Managed Services our client’s are able to focus on accelerating their priorities, including optimizing operations and accelerating outcomes. PwC brings a consultative first approach to operations, leveraging our deep industry insights combined with world class talent and assets to enable transformational journeys that drive sustained client outcomes. Our clients need flexible access to world class business and technology capabilities that keep pace with today’s dynamic business environment. • Within our global, Managed Services platform, we provide Application Evolution Services (formerly Application Managed Services), where we focus more so on the evolution of our clients’ applications and cloud portfolio. Our focus is to empower our client’s to navigate and capture the value of their application portfolio while cost-effectively operating and protecting their solutions. We do this so that our clients can focus on what matters most to your business: accelerating growth that is dynamic, efficient and cost-effective. • As a member of our Application Evolution Services (AES) team, we are looking for candidates who thrive working in a high-paced work environment capable of working on a mix of critical Application Evolution Service offerings and engagement including help desk support, enhancement and optimization work, as well as strategic roadmap and advisory level work. It will also be key to lend experience and effort in helping win and support customer engagements from not only a technical perspective, but also a relationship perspective. Education (if blank, degree and/or field of study not specified) Degrees/Field of Study required: Degrees/Field of Study preferred: Certifications (if blank, certifications not specified) Required Skills Optional Skills Desired Languages (If blank, desired languages not specified)
+
+
+
+
+JD13
+
+
+Job Description 10+ Yrs of SAP exp5 yrs in SAP EWM Technical 1 projects in SAP Embedded EWM (implementation)1 project in Decentral EWM (Implementation) S/4 HANA implementations - 1 ECC implementations - 2 or more (of which at least 1 is a global template rollout project)· ABAP objects development in SAP Modules such as EWM , MM ,WM, SD, PP, QM· Application of OSS notes and SAP ASAP methodology· Principles of program documentation and techniques of systems analysis, design, and testing· Principles of report, screen and form design, develop test data and analyze problems.· Design, develop, and code difficult and complex programs for SAP EWM· Recognize the critical elements of complex application problems, develop and evaluate data, determine solutions, and make logical recommendations.· Should know technical architecture of EWM objects and how to modify standard objects.· Express difficult and complex concepts clearly and concisely both orally and in writing· Work effectively and independently on assigned projects, train users· Establish and maintain effective and cooperative working relationships with administrators, technical and functional team members, and users.· Understanding of EWM Process Flow· Experience in OO ABAP, ITS technology.· Good experience in EWM ABAP (RF Screen, PPF, enhancements, CIF)· Knowledge in Warehouse monitor, Alerts· Additional knowledge on Shipping Cockpit, DAS, EGF, MFS related areas would be an added advantage.· Work with customer business teams and project teams effectively; Conduct requirement-gathering workshops, map these into SAP EWM processes and identify gaps and solution to these gaps.· Should be able to understand the processes adopted for custom developments, unit testing, function testing, integration testing, Go-live and support phases.· Should be able to design technical specification, coding quality processes in EWM-· To be part of SAP EWM rollout testing project and provide production support for the plants, which went go live.· Having DRF(Data Replication Framework) and MDG knowledge will add additional advantage· IDOC/ALE knowledge is preferred.· Recognize the critical elements of complex application problems, develop, and evaluate data, determine solutions, and make logical recommendations.. must have experience in ABAP OO, EWM RF, EWM PPF, EWM Monitor Qualifications BE/B.Tech Additional Information 10+ Yrs of SAP exp5 yrs in SAP EWM Technical
+
+
+JD14
+Job description • Experience in PP/QM module including project exposure to Design, Configure, Develop and Deploy SAP PP Production Planning, Control and Quality Management. • Should have good knowledge of MRP, Planning Strategies, Demand Management, MTO MTS, Capacity planning, Special procurement keys, Subcontracting Process. • Must have knowledge on cross module integration (like PP-CO, PP-PS, PP-QM, PP-MM) • At least 2 Full Life Cycle Implementations/ Roll- Out's experience. • Design and prototype SAP PP/QM functionality facilitating key decision discussions in terms of functionality • Identify any Reports, Interfaces, Conversions, Enhancements, Forms, Workflows and/or any other development objects necessary to bridge requirements with SAP functionality through the creation of Functional Specification documentation. • Interface effectively with developers to translate Functional Specification documentation into Technical Specifications and the development of technical designs. • Identify local security requirements and work with Security staff on the creation of security profiles necessary to support local needs • Relevant SAP Certification would be an added advantage. • Should have knowledge on RICEFW • Good in implementation project life cycles, configuration, testing, cut-over and go-live support - Knowledge of SAP project management methodology Experienced and Hands on to the Support environment. • Must have good communication skills and able to work individually with the client on the project deliverables. Having working experience on US projects will value add. • Should have knowledge on SAP S/4 HANA latest innovations
+
+
+JD15
+Job Description KPMG India is seeking professionals specializing in SAP Sales and Distribution.We are looking for a skilled and experienced SAP SD Manager with Hana experience to join our team.You will be responsible for implementing, configuring, and supporting SAP Sales and Distribution (SD) solutions on SAP S/4 HANA. Collaboration with internal and external stakeholders is key to success in this position • Ideal Candidate should have minimum 8+ years of experience in SAP SD with implementation and migration to S/4 Hana projects • Should have experience in designing and configuring SD modules • Experience in SAP SD skills like Pricing / Credit Management/Rebates/Consignment/Batch Management/Deliveries and Billing • Domain experience exposure • Must have experience in Presales • Ability to understand business processes from a customer perspective • Ability to work in a team environment, effectively interacting with others • Looking for experience in Indian Project / GST • Sap project management, blueprint, conducting workshop • Sap cloud / sap roadmap • Must be aware with New features of S4 Hana • Candidate should be willing to travel in India based on business requirements Responsibilities • Analyze business requirements and map them to SAP SD processes • Configure and customize SAP SD module according to client specifications • Perform detailed analysis of complex business process requirements and provide appropriate system solutions; identify, interpret, validate and document • Identify gaps, issues and work around solutions • Responsible for Pre-sales, Sap project management activities • Conduct workshops and presentations to validate business design • Collaborate with other functional and technical consultants to ensure the integration and compatibility of the SAP SD solutions with other modules and systems • Strong analytical and problem-solving skills Qualifications • Bachelor’s degree or higher in Information Technology, Business, Engineering, or a related field • BE/BTech/MBA/MCA Full-Time Education • SAP Certification – Good to have
+
+
+JD16
+Min Experience- 5+ years in SAP. · Minimum 6 years of SAP consulting experience specializing in design and configuration of SAP-SD and 3 years of implementation experience. · Experience in gathering business requirements, providing conceptual and detailed designs to meet business needs, performing necessary SAP configurations, writing detail specifications for development of custom programs, testing, co-ordination of transports to production and post go live support. · Knowledge of Order to Cash scenarios, SAP Pricing (SD), Revenue Account Determination, Master Data (Materials, Condition records, Customer Master), EDI/IDOC, interfaces, Credit Management, Output Determination is required. Deep understanding of integration between SD and FI. · ABAP Debugging · Knowledge in Credit card process will be an added advantage. · Requires excellent verbal and written communication skills. Prior experience in high tech or software industries is beneficial
+
+
+JD 17
+
+SAP BODS
+
+Analytical Skills: Ability to analyze business processes and identify areas for improvement • Consulting: Experience in providing consulting services and implementing technology solutions • Business Process: Understanding of business processes and their integration with SAP BODS • Master Data: Knowledge of master data management and its integration with SAP systems • Integration: Experience in integrating SAP BODS with other systems • Excellent problem-solving and communication skills • Ability to work independently and collaboratively in a team environment • Bachelor's degree in Computer Science, Information Technology, or related field
+
+
+JD 18
+
+
+Responsibilities: • Development and maintenance of BODS jobs. • Design and develop complex dataflow and workflows. delivering from offshore on time, on schedule, within scope, and adopting industry best practices and quality. • Developing a good understanding of the System(s) • Architecture Fully understanding the project requirements and defining the. • To-Be architecture and translating them to the Design. • Working independently and performing responsibilities under minimal supervision • Working in a global environment with people from diverse cultural backgrounds Identifying the appropriate integration patterns. • Performing Design reviews, Code reviews, performance tuning, and optimization. • Provide technical. • Support during Test Phases. • Working on Agile-based development methodology. Requirements: • 5-7 years in designing and developing using SAP BODs. • Hands-on experience in SAP BODS, Oracle database, SQL, and PL/SQL. • Strong technical knowledge and problem-solving skills. • Extremely strong communication skills. • Experience and understanding of the Banking industry are preferable. • Experience in troubleshooting SAP BODS jobs and PL/SQL codes
+JD19
+BODS Senior
+Job purpose: • Integration consultant in the IT Consulting Services team to work on various cloud implementation projects for our customers across the globe. Your client responsibilities: • Need to work as a team member to contribute in various technical streams of cloud implementation project • Interface and communicate with the onsite coordinators • Interface with the customer representatives as and when needed • Willing to travel to the customers locations on need basis Your people responsibilities: • Building a quality culture • Training and mentoring of project resources • Participating in the organization-wide people initiatives Experience – 6-9 yrs Job description • Experience in BODS design and architecture • Should have worked on preparation of Technical Specification documents. • Strong hands-on experience in Business Objects Data Services (BODS) as technical developer • Thorough knowledge of developing real time Interfaces like IDOC , BAPI SAP applications with BODS • Sound Knowledge of SQL • Experience in Data Migration Project • Good analytical skills to analyze the ETL issues and fix them independently • Must have experience of Installation and configuring BODS. • Experience on Various transformations of BODS. • Should have experience in Data Migration project with an end to end implementation. • Should have good understanding of the BODS landscape and architecture. • Should be able to provide the estimation on BODS work effort. • Should have knowledge on working with SAP system as source and target. • Should be able to connect to customers and gather requirements and work independently on those requirements. • Should have basic knowledge of Data Warehousing concepts on schema formation. • Should have sound knowledge of BODS scheduling and Management Console.
+
+
+JD 20
+Relevant SAP BODS Expertise: In-depth knowledge and hands-on experience with SAP BODS, including data extraction, transformation, and loading techniques. • Expertise in SAP BODS (ETL tool) to develop jobs which contains workflows, dataflows, scripts, conditionals, and Try/Catch block. • Worked on SAP ECC to SAP S4 HANA Migration Project • Developed BODS job from scratch for SD module objects and PM objects with S4 HANA target as IDOC, BAPI. • Worked on SAP ECC to load data for Sales Order, and PIR objects using LSMW and processed generated IDOCs using Tcodes. • Data Integration and ETL: Strong understanding of data integration concepts and ETL methodologies • Experience with different data integration tools and techniques beyond SAP BODS is beneficial • Database and SQL: Proficiency in working with relational databases and writing complex SQL queries. • SAP certification in BODS an added advantage • Experience in design and development of ETL dataflows and jobs. • Experience in transformations of Data Services like Map Operation, Table Comparison, Row-Generation, History Preserving, Query and SQL transformation etc. Minimum Qualifications • Graduation: B.Tech/B.E, MBA/MCA
+
+
+JD 21
+Key Responsibilities: • Should handle SAP SD configurations, FDS preparation and testing • Work independently and should have good communication skills • EDI integration, IDOC processing and interfaces experience • Must have Pricing configuration experience • Must have two end to end implementation project experience • Should have functional lead experience Technical Experience • Must have 8 to 10 years in SAP SD and SAP SD end to end implementation process • Should have functional design experience in EDI IDOC interfaces • Must have experience in client facing lead role • Creation of LSMW and data migration tools usage experience • Good to HPALM test scripts creation and execution
+
+
+JD22
+Job Description • Expert knowledge in Cash & Bank processes with overall exposure to Invoice to pay processes. • Your area of responsibility includes process design based on business requirements according to the defined working model. • Convert the business requirement to IT requirements with the SAP standard solution provided or support confirmation of own developments via custom development approvals. • You are also responsible for close collaboration with the Process Owner, Process managers and deploy expert within E2E chain of P2P to finalise the business concept and IT solution. • Perform functional component test and support in various test cycles in the rollout projects. • Prepare solution documentation (functional description, user documentation, process settings, developments and interfaces etc.,) and • Responsible for training key user and deploy expert enabling measures (training material as well as knowledge transfer). Qualifications • C.A. or CMA or MBA (Finance) • Accounting know-how, in general and specifically C&B • SAP and IT knowledge • Project experience • several years of experience in accounting with expertise in Cash & bank processes. ideally combined with Bosch knowledge; very good knowledge of SAP-FI and good knowledge of the related E2E functions Source to Pay Additional Information • Analytic competence, persuasive & result-focused. • Work independently and structured to meet project goals. • Having an End-to-End mindset and think globally. • Personality: flexible, motivated, team player with good communication skills
+
+
+JD23
+Sr. FICO
+The Sr. Functional Analyst is responsible for applying business process acumen to translate business requirements into ITS specifications, solution design, and configuration for business capability areas. The Sr. Functional Analyst will support projects, business as usual or operational support. This role may directly or in-directly lead others to create solutions. Essential Responsible Areas: (Describe the key responsible areas) • Support initiatives in the area of FI/CO/PS, including SAP integrations with external systems • Operate as a functional lead analyst for SAP Finance including AA, AP, AR, CO, PS, with proficient knowledge of integrations with upstream and downstream modules such as MM and SD. • Partnership with stakeholders to translate business requirements into SAP solutions • System configuration, integration testing, and support to UAT • Prepare documentation such as: functional specification, solution proposal, testing and training, etc • Support different phases of the project, from business requirement towards hyper-care and knowledge transfer including end users. • Ensure adherence to global design, technical architecture, standards, audit and change management • Support AMS activities and enhancement of the SAP for end user based on requirementcapability/service delivery area. Business Capability Specific Responsible Areas: ( Describe the key specific responsibilities) • Manager may add additional expectations or clarity to Business Capability Key stakeholders: • Finance, Controlling, PlanFin, A2R, Cost, Projects and Fixed Assets. • Edge Apps Position Requirement & competencies: Professional & Education Qualification • Broad training in a related field usually acquired through high school; college or graduate degree level education or work-related experience • BA/BS in Accounting, Finance, Business Administration, Marketing, Information Systems Management, Computer Science or related field, or an equivalent combination of education and/or experience • 5+ years of related work experience with progressively increasing responsibility • Experience creating core BA deliverables (e.g., functional spec, test cases, etc) Skills • Ability to work in global, multinational and remote teams in a matrix organization • Strong analytical skills, excellent communication skills (written and oral) • Demonstrated ability in IT analysis methodologies (e.g., process flow definition, data flow diagramming, use case definition) • Demonstrated ability to work effectively with all levels of staff, customers and other IT Personnel • Experience operating in a global SAP environment including collaboration with international teams and offshore models is preferred. Knowledge • Strong Knowledge in SAP FICO and PS general knowledge(including Integrations with MM and SD modules) • Experience on SAP migration from SAP ECC to SAP S4HANA(nice to have) • In depth knowledge of end-to-end Finance processes areas including Bank Reconciliation, Assets Depreciation and valuation, Account Payable, Account Receivable, General Accounting, Cost, PS • Experience designing and implementing SAP integrations • Experience and understanding of the Software Development Lifecycle Management model and documentation • Debugging knowledge
+
+
+JD 24
+Responsibilities : A day in the life of an Infoscion As part of the Infosys consulting team, your primary role would be to get to the heart of customer issues, diagnose problem areas, design innovative solutions and facilitate deployment resulting in client delight. You will develop a proposal by owning parts of the proposal document and by giving inputs in solution design based on areas of expertise. You will plan the activities of configuration, configure the product as per the design, conduct conference room pilots and will assist in resolving any queries related to requirements and solution design You will conduct solution/product demonstrations, POC/Proof of Technology workshops and prepare effort estimates which suit the customer budgetary requirements and are in line with organization's financial guidelines Actively lead small projects and contribute to unit-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! Additional Responsibilities: Ability to develop value-creating strategies and models that enable clients to innovate, drive growth and increase their business profitability Good knowledge on software configuration management systems Awareness of latest technologies and Industry trends Logical thinking and problem-solving skills along with an ability to collaborate Understanding of the financial processes for various types of projects and the various pricing models available Ability to assess the current processes, identify improvement areas and suggest the technology solutions One or two industry domain knowledge Client Interfacing skills Project and Team management Location of posting - Infosys Ltd. is committed to ensuring you have the best experience throughout your journey with us. We currently have open positions in a number of locations across India - Bangalore, Pune, Hyderabad, Chennai, Chandigarh, Mysore, Kolkata, Trivandrum, Indore, Nagpur, Mangalore, Noida, Bhubaneswar, Coimbatore, Mumbai, Jaipur, Vizag. While we work in accordance with business requirements, we shall strive to offer you the location of your choice, where possible. Technical and Professional Requirements: Must have participated in at least one S/4 Hana data migration project to conduct workshop to define functional data migration requirement with business followed by target template definition, source to target mapping, conversion rules, data validation/testing along with identification of functional configuration required. Know the integration/ overlap/ dependencies among cross functional modules like OTC, P2P, PM, PP, FI. P2P: Experience in Material and Vendor Mgmt. in ECC & SAP S/4, knowledge of P2P processes including STO, Return, Subcon, Third Party, S/4 config and testing OR OTC: knowledge of OTC (Order to Cash) cycle OR PM/QM/PP: Knowledge of business process for (Preventive, corrective, refurbishment, calibration) maintenance. Data migration experience from ECC to S/4. OR FI: knowledge of FICO process & awareness of master and traction data related to Chart of Accounts (COA) & GL, Accounts Payable, Accounts Receivable, Bank Master, GL Account and balances
+
+
+JD 25
+Jd Experience of the Syniti ADM toolset and/or other vendor data migration toolsets. Work across multiple functional projects to understand data usage and implications for data migration. Experience with SAP data tools (i.e., SAP Data Services, SAP SDI, SAP Migration Cockpit, and Information Steward). Knowledge of ETL Admin activities, LTMC/LTMON, IDOC, BAPI would be an added advantage Knowledge on the integration/ overlap/ dependencies among cross-functional modules like OTC, P2P, PM, PP, FI and PS. Strong data-migration Background with hands-on experience in data migration using SAP BODS with IDOCs, BAPIs LSMW, and BDC Exposure to SAP HANA. Understanding of Structure difference between SAP ECC and S4 HANA Deep knowledge on SAP ERP Landscape Good knowledge on data integration methods Strong SQL & PL SQL Analytical skills & Good knowledge on. creating Store procedures, functions etc
